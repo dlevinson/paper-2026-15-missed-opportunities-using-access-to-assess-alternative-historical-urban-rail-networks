@@ -1,0 +1,10 @@
+{
+  "component_group": "1e0dd1f2e15e7a3e",
+  "component_parts": "data/scenario_gtfs_components/1e0dd1f2e15e7a3e/stop_times.txt.gz.part01",
+  "component_gzip_bytes": "48142269",
+  "component_gzip_sha256": "e4e9962d0c809929fb7174f0552cc66e3a824828b594ba46b2ce9c0983612621",
+  "representative_no_shapes_zip": "data/scenario_gtfs_no_shapes/extensive_lightrail_no_shapes.zip",
+  "representative_member_path": "stop_times.txt",
+  "member_sha256": "1e0dd1f2e15e7a3eb55d59daae3864ac632e4e73f231f5b755abda39961a152b",
+  "member_bytes": "399997391"
+}

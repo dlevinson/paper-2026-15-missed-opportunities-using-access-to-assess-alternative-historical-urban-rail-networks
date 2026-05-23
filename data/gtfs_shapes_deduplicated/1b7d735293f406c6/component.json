@@ -1,0 +1,12 @@
+{
+  "shape_group": "1b7d735293f406c6",
+  "representative_source_zip": "/Users/dlev2617/Documents/U Sydney Academics/Theses - Honours and Masters/Undergraduate-Masters Theses 2024/Stuart Mills Eastern Suburbs Rail Thesis/Thesis Data Stuart Mills/Raw Code/extensive_lightrail_v2.zip",
+  "gzip_sha256": "eef280b8be41c2ebab27ca2d4ff7deb99bdc09846ebc6943334be84644a5fc44",
+  "gzip_bytes": 244310407,
+  "parts": [
+    "data/gtfs_shapes_deduplicated/1b7d735293f406c6/shapes.txt.gz.part01",
+    "data/gtfs_shapes_deduplicated/1b7d735293f406c6/shapes.txt.gz.part02",
+    "data/gtfs_shapes_deduplicated/1b7d735293f406c6/shapes.txt.gz.part03"
+  ],
+  "part_size_limit_bytes": 94371840
+}

@@ -1,0 +1,10 @@
+{
+  "component_group": "8036aabb64bffffa",
+  "component_parts": "data/scenario_gtfs_components/8036aabb64bffffa/levels.txt.gz.part01",
+  "component_gzip_bytes": "91",
+  "component_gzip_sha256": "de090cc91af09acd3b33cca9f3cc9014e7191bbb57f68fa11ecb481cdf60987a",
+  "representative_no_shapes_zip": "data/scenario_gtfs_no_shapes/1974_v2_no_shapes.zip",
+  "representative_member_path": "levels.txt",
+  "member_sha256": "8036aabb64bffffa20966ba888a0cd18033d6a0082e14e1b1ca05af3c2ac4ad0",
+  "member_bytes": "162"
+}

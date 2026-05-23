@@ -1,0 +1,10 @@
+{
+  "component_group": "06d3b9e5e7f337f0",
+  "component_parts": "data/scenario_gtfs_components/06d3b9e5e7f337f0/trips.txt.gz.part01",
+  "component_gzip_bytes": "1423223",
+  "component_gzip_sha256": "a0a673bb73007c1a4410000485bbdc536cf87d30e58318535131ecb252a2b1c3",
+  "representative_no_shapes_zip": "data/scenario_gtfs_no_shapes/lightrail_with_oxford_street_no_shapes.zip",
+  "representative_member_path": "trips.txt",
+  "member_sha256": "06d3b9e5e7f337f054267d29c90e9326e6dcaf8c801b61352f351d5de38d759a",
+  "member_bytes": "24119822"
+}

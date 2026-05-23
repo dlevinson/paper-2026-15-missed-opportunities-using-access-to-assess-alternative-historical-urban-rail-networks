@@ -1,0 +1,10 @@
+{
+  "component_group": "9b92c53dc5b3a598",
+  "component_parts": "data/scenario_gtfs_components/9b92c53dc5b3a598/stop_times.txt.gz.part01",
+  "component_gzip_bytes": "42623876",
+  "component_gzip_sha256": "b89313c61276ee5f48254386468f3805b4c9e873c439ad4ad1deb1e5e0c8f484",
+  "representative_no_shapes_zip": "data/scenario_gtfs_no_shapes/Mills_v4_no_shapes.zip",
+  "representative_member_path": "stop_times.txt",
+  "member_sha256": "9b92c53dc5b3a598007c2404710ab24e23a4568ff038a3aba2bed65e310f87f4",
+  "member_bytes": "290248520"
+}

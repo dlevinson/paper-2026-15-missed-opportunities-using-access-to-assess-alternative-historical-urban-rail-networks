@@ -1,0 +1,12 @@
+{
+  "shape_group": "a8fc638492806b0f",
+  "representative_source_zip": "/Users/dlev2617/Documents/U Sydney Academics/Theses - Honours and Masters/Undergraduate-Masters Theses 2024/Stuart Mills Eastern Suburbs Rail Thesis/Thesis Data Stuart Mills/Raw Code/1974_v2.zip",
+  "gzip_sha256": "6f0dbdc81d1ac714504d8176d9a2252a2167ca3e30d73dcd895f469fb49b67d5",
+  "gzip_bytes": 257565076,
+  "parts": [
+    "data/gtfs_shapes_deduplicated/a8fc638492806b0f/shapes.txt.gz.part01",
+    "data/gtfs_shapes_deduplicated/a8fc638492806b0f/shapes.txt.gz.part02",
+    "data/gtfs_shapes_deduplicated/a8fc638492806b0f/shapes.txt.gz.part03"
+  ],
+  "part_size_limit_bytes": 94371840
+}

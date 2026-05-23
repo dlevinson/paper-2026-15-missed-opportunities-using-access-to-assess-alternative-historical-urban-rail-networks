@@ -1,0 +1,10 @@
+{
+  "component_group": "8308fd8ad39a82da",
+  "component_parts": "data/scenario_gtfs_components/8308fd8ad39a82da/pathways.txt.gz.part01",
+  "component_gzip_bytes": "48714",
+  "component_gzip_sha256": "a78909d0aff6559f60b572b4376039130e08bc40a0d58026f57464bfac3ddc16",
+  "representative_no_shapes_zip": "data/scenario_gtfs_no_shapes/1974_v2_no_shapes.zip",
+  "representative_member_path": "pathways.txt",
+  "member_sha256": "8308fd8ad39a82dafbcb8d5ccaa11908a2ac9f9fbacb817656c481248712046e",
+  "member_bytes": "342004"
+}

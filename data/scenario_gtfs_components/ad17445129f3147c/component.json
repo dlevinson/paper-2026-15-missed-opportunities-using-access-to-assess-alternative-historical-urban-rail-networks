@@ -1,0 +1,10 @@
+{
+  "component_group": "ad17445129f3147c",
+  "component_parts": "data/scenario_gtfs_components/ad17445129f3147c/routes.txt.gz.part01",
+  "component_gzip_bytes": "166285",
+  "component_gzip_sha256": "8b6055eb8d0f90c019862c2b5fcb92e86dd548832a72e0c9feab35d3fa6ada54",
+  "representative_no_shapes_zip": "data/scenario_gtfs_no_shapes/1974_v2_no_shapes.zip",
+  "representative_member_path": "routes.txt",
+  "member_sha256": "ad17445129f3147ca9708acde9eafd1aedbf75255437d7b01b8644826acc6fc4",
+  "member_bytes": "1149036"
+}

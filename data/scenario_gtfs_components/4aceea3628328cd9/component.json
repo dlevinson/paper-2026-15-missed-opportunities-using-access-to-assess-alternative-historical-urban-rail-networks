@@ -1,0 +1,10 @@
+{
+  "component_group": "4aceea3628328cd9",
+  "component_parts": "data/scenario_gtfs_components/4aceea3628328cd9/stop_times.txt.gz.part01",
+  "component_gzip_bytes": "42617826",
+  "component_gzip_sha256": "4cba657d7fd617918dd86d23751e3ecf4d6fd91d73321101a441414e08b174ff",
+  "representative_no_shapes_zip": "data/scenario_gtfs_no_shapes/alt_metro_maroubra_no_shapes.zip",
+  "representative_member_path": "stop_times.txt",
+  "member_sha256": "4aceea3628328cd98507cdde601a347f77c1728c930e353f11309307672feca9",
+  "member_bytes": "290094041"
+}

@@ -1,0 +1,9 @@
+data/gtfs_shapes_deduplicated/09a7e77e2f0eb394/shapes.txt.gz.part01 filter=lfs diff=lfs merge=lfs -text
+data/gtfs_shapes_deduplicated/09a7e77e2f0eb394/shapes.txt.gz.part02 filter=lfs diff=lfs merge=lfs -text
+data/gtfs_shapes_deduplicated/09a7e77e2f0eb394/shapes.txt.gz.part03 filter=lfs diff=lfs merge=lfs -text
+data/gtfs_shapes_deduplicated/1b7d735293f406c6/shapes.txt.gz.part01 filter=lfs diff=lfs merge=lfs -text
+data/gtfs_shapes_deduplicated/1b7d735293f406c6/shapes.txt.gz.part02 filter=lfs diff=lfs merge=lfs -text
+data/gtfs_shapes_deduplicated/1b7d735293f406c6/shapes.txt.gz.part03 filter=lfs diff=lfs merge=lfs -text
+data/gtfs_shapes_deduplicated/a8fc638492806b0f/shapes.txt.gz.part01 filter=lfs diff=lfs merge=lfs -text
+data/gtfs_shapes_deduplicated/a8fc638492806b0f/shapes.txt.gz.part02 filter=lfs diff=lfs merge=lfs -text
+data/gtfs_shapes_deduplicated/a8fc638492806b0f/shapes.txt.gz.part03 filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,10 @@
+{
+  "component_group": "b874fb7fe9f7c216",
+  "component_parts": "data/scenario_gtfs_components/b874fb7fe9f7c216/calendar_dates.txt.gz.part01",
+  "component_gzip_bytes": "71008",
+  "component_gzip_sha256": "a40faf924596d335fee73cb92d8ac0e726045fa657f08d6421b65ef665df9547",
+  "representative_no_shapes_zip": "data/scenario_gtfs_no_shapes/1974_v2_no_shapes.zip",
+  "representative_member_path": "calendar_dates.txt",
+  "member_sha256": "b874fb7fe9f7c216e67493eba0e78a5b282ccd00cf641f8aa1c2339acc36ad4f",
+  "member_bytes": "721876"
+}

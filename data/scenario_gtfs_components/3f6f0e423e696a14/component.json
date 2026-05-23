@@ -1,0 +1,10 @@
+{
+  "component_group": "3f6f0e423e696a14",
+  "component_parts": "data/scenario_gtfs_components/3f6f0e423e696a14/stop_times.txt.gz.part01",
+  "component_gzip_bytes": "42623996",
+  "component_gzip_sha256": "7f0e6eb270493f85d5824882cd90d627a243b6cf5611a1fbbeaf07a0a47fabb6",
+  "representative_no_shapes_zip": "data/scenario_gtfs_no_shapes/bradfield_staged_part1_no_shapes.zip",
+  "representative_member_path": "stop_times.txt",
+  "member_sha256": "3f6f0e423e696a140e10746651ac8b0c74140873129b7c57319f9b73cd61afe9",
+  "member_bytes": "290248171"
+}

@@ -1,0 +1,10 @@
+{
+  "component_group": "16d1b5e0d2927d01",
+  "component_parts": "data/scenario_gtfs_components/16d1b5e0d2927d01/routes.txt.gz.part01",
+  "component_gzip_bytes": "166298",
+  "component_gzip_sha256": "e17a45e7c340550d84cd72b22dad2e0ee8ea28e56534ac9a0823eb01a7725d08",
+  "representative_no_shapes_zip": "data/scenario_gtfs_no_shapes/lightrail_with_oxford_street_no_shapes.zip",
+  "representative_member_path": "routes.txt",
+  "member_sha256": "16d1b5e0d2927d01218c46c54be7753b4e5b17b16ab5c33c36c5f7ce0522df6f",
+  "member_bytes": "1149133"
+}

@@ -1,0 +1,10 @@
+{
+  "component_group": "1077121cfea7267d",
+  "component_parts": "data/scenario_gtfs_components/1077121cfea7267d/routes.txt.gz.part01",
+  "component_gzip_bytes": "166550",
+  "component_gzip_sha256": "b304f669a78fa041e4f6acde5503edd4406ed8da44dfb83781fc8f22857827ad",
+  "representative_no_shapes_zip": "data/scenario_gtfs_no_shapes/extensive_lightrail_no_shapes.zip",
+  "representative_member_path": "routes.txt",
+  "member_sha256": "1077121cfea7267d34819bc2b008dd5f5f9e79c244f56b76744da3b39459f7db",
+  "member_bytes": "1150900"
+}

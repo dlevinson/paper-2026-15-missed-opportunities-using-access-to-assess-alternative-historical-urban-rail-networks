@@ -1,0 +1,10 @@
+{
+  "component_group": "f2d8b650d695ace2",
+  "component_parts": "data/scenario_gtfs_components/f2d8b650d695ace2/stops.txt.gz.part01",
+  "component_gzip_bytes": "4484131",
+  "component_gzip_sha256": "c2b76a10672d1083d3e85b859ea33d5e61afc9cae1d900946548c5224e9b77bc",
+  "representative_no_shapes_zip": "data/scenario_gtfs_no_shapes/lightrail_extension_no_shapes.zip",
+  "representative_member_path": "stops.txt",
+  "member_sha256": "f2d8b650d695ace2b6ac01a991c30fc444cd306352ddb40b7a8b4bc5d67db0f4",
+  "member_bytes": "16143006"
+}

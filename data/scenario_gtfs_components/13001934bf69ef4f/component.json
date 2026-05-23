@@ -1,0 +1,10 @@
+{
+  "component_group": "13001934bf69ef4f",
+  "component_parts": "data/scenario_gtfs_components/13001934bf69ef4f/stops.txt.gz.part01",
+  "component_gzip_bytes": "4483949",
+  "component_gzip_sha256": "fd8d0cdc79f3cee25f0897bb64b665d8ec574c038b345569e79784ccf9b2ecef",
+  "representative_no_shapes_zip": "data/scenario_gtfs_no_shapes/bradfield_malabar&sydenham_no_shapes.zip",
+  "representative_member_path": "stops.txt",
+  "member_sha256": "13001934bf69ef4f12bdc2af980802aa444818984aeb969edc22854bffa10b90",
+  "member_bytes": "16142211"
+}

@@ -1,0 +1,10 @@
+{
+  "component_group": "9cc64a8009cd2f90",
+  "component_parts": "data/scenario_gtfs_components/9cc64a8009cd2f90/trips.txt.gz.part01",
+  "component_gzip_bytes": "1423126",
+  "component_gzip_sha256": "69e9b96413fca4d76bca754d76ed956ca901885beb7756546cc025a34e1693ed",
+  "representative_no_shapes_zip": "data/scenario_gtfs_no_shapes/1974_v2_no_shapes.zip",
+  "representative_member_path": "trips.txt",
+  "member_sha256": "9cc64a8009cd2f905fb5dd0b4957a9d367997645d8fc01133afd2384683686a1",
+  "member_bytes": "24118158"
+}

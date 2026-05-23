@@ -1,0 +1,10 @@
+{
+  "component_group": "fcffedd27ca03707",
+  "component_parts": "data/scenario_gtfs_components/fcffedd27ca03707/trips.txt.gz.part01",
+  "component_gzip_bytes": "1426502",
+  "component_gzip_sha256": "6af45fe222cbb80560344ee51467f1c14dc42ee797d864d4977464542c5b95a6",
+  "representative_no_shapes_zip": "data/scenario_gtfs_no_shapes/extensive_lightrail_no_shapes.zip",
+  "representative_member_path": "trips.txt",
+  "member_sha256": "fcffedd27ca037079268557225e6e50398a11bcf06d5e76dbb43949fedf7807b",
+  "member_bytes": "24197750"
+}

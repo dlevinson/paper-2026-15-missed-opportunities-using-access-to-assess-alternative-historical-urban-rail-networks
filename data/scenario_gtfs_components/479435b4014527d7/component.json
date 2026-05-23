@@ -1,0 +1,10 @@
+{
+  "component_group": "479435b4014527d7",
+  "component_parts": "data/scenario_gtfs_components/479435b4014527d7/stops.txt.gz.part01",
+  "component_gzip_bytes": "4484212",
+  "component_gzip_sha256": "bb86b8cfa5a0c557038eb1ab2e1c7038ab62190c7a93970aa21b4ba6efda035d",
+  "representative_no_shapes_zip": "data/scenario_gtfs_no_shapes/2056_stage1and2_v2_no_shapes.zip",
+  "representative_member_path": "stops.txt",
+  "member_sha256": "479435b4014527d707e95e943c148ec825f8e07a099c856bb5535be46a3a0902",
+  "member_bytes": "16143593"
+}

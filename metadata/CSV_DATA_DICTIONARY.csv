@@ -1,0 +1,1013 @@
+file,column,inferred_type,non_empty_sample_count,example_values
+data/results_and_gis/1974 Proposal/1974 30 min accessibility v2.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/1974 Proposal/1974 30 min accessibility v2.csv,EMP_2016,numeric,500,304694.0583; 390046.5602; 508230.7839
+data/results_and_gis/1974 Proposal/1974 30 min accessibility v2.csv,unnamed_3,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/1974 Proposal/1974 30 min accessibility v2.csv,unnamed_4,numeric,500,1.68E-05; -4.51E-05; 2403.939717
+data/results_and_gis/1974 Proposal/1974 30 min accessibility v2.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/1974 Proposal/1974 30 min accessibility v2.csv,unnamed_6,numeric,500,6.83E-06; 8.75E-06; 1.14E-05
+data/results_and_gis/1974 Proposal/1974 30 min accessibility v2.csv,unnamed_7,integer,1,"42,726"
+data/results_and_gis/1974 Proposal/1974 45 min accessibility v2.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/1974 Proposal/1974 45 min accessibility v2.csv,EMP_2016,numeric,500,637053.0488; 762025.5442; 922335.6475
+data/results_and_gis/1974 Proposal/1974 45 min accessibility v2.csv,unnamed_3,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/1974 Proposal/1974 45 min accessibility v2.csv,unnamed_4,numeric,500,0; 7481.505336; 10143.01865
+data/results_and_gis/1974 Proposal/1974 45 min accessibility v2.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/1974 Proposal/1974 45 min accessibility v2.csv,unnamed_6,numeric,500,1.43E-05; 1.71E-05; 2.07E-05
+data/results_and_gis/1974 Proposal/1974 45 min accessibility v2.csv,unnamed_7,integer,1,"178,109"
+data/results_and_gis/1974 Proposal/1974 60 min accessibility v2.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/1974 Proposal/1974 60 min accessibility v2.csv,EMP_2016,numeric,500,1111625.755; 1197110.204; 1338526.604
+data/results_and_gis/1974 Proposal/1974 60 min accessibility v2.csv,unnamed_3,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/1974 Proposal/1974 60 min accessibility v2.csv,unnamed_4,numeric,500,11694.59058; 8360.527733; 1929.132987
+data/results_and_gis/1974 Proposal/1974 60 min accessibility v2.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/1974 Proposal/1974 60 min accessibility v2.csv,unnamed_6,numeric,500,2.49E-05; 2.68E-05; 3.00E-05
+data/results_and_gis/1974 Proposal/1974 60 min accessibility v2.csv,unnamed_7,integer,1,"443,829"
+data/results_and_gis/1974 Proposal/1974 LVA.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/1974 Proposal/1974 LVA.csv,Base 30 Mins,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/1974 Proposal/1974 LVA.csv,30 Mins,numeric,500,1.68E-05; -4.51E-05; 2403.939717
+data/results_and_gis/1974 Proposal/1974 LVA.csv,Base 45 Mins,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/1974 Proposal/1974 LVA.csv,45 Mins,numeric,500,0; 7481.505336; 10143.01865
+data/results_and_gis/1974 Proposal/1974 LVA.csv,Base 60 Mins,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/1974 Proposal/1974 LVA.csv,60 Mins,numeric,500,11694.59058; 8360.527733; 1929.132987
+data/results_and_gis/1974 Proposal/1974 LVA.csv,TZ16_CODE,integer,500,1; 2; 3
+data/results_and_gis/1974 Proposal/1974 LVA.csv,unnamed_9,text,500,YES; YES; YES
+data/results_and_gis/1974 Proposal/1974 LVA.csv,TZ16_NAME,text,500,Barangaroo_Headland Park; Barangaroo_Northern Cove; Barangaroo_Southern Cove
+data/results_and_gis/1974 Proposal/1974 LVA.csv,Tz16_Area,numeric,500,64884.12626; 74488.64591; 30794.77399
+data/results_and_gis/1974 Proposal/1974 LVA.csv,30 Min Lin,numeric,500,3.54E-02; -1.09E-01; 2.41E+06
+data/results_and_gis/1974 Proposal/1974 LVA.csv,45 Min Lin,numeric,500,0.00E+00; 6.07E+06; 3.40E+06
+data/results_and_gis/1974 Proposal/1974 LVA.csv,60 Min Lin,numeric,500,3.87E+06; 3.18E+06; 3.03E+05
+data/results_and_gis/1974 Proposal/1974 LVA.csv,30 Min Log,empty_or_unknown,0,
+data/results_and_gis/1974 Proposal/1974 LVA.csv,45 Min Log,empty_or_unknown,0,
+data/results_and_gis/1974 Proposal/1974 LVA.csv,60 Min Log,empty_or_unknown,0,
+data/results_and_gis/1974 Proposal/1974 LVA.csv,unnamed_18,empty_or_unknown,0,
+data/results_and_gis/1974 Proposal/1974 LVA.csv,unnamed_19,text,6,30 Min Lin; 45 Min Lin; 60 Min Lin
+data/results_and_gis/1974 Proposal/1974 LVA.csv,Coefficients,text,10,30 Min; 45 Min; 60 Min
+data/results_and_gis/1974 Proposal/1974 LVA.csv,Linear,text,10,0.0325; 0.0109; 0.0051
+data/results_and_gis/1974 Proposal/1974 LVA.csv,Log,text,10,0.2052; 0.2229; 0.2201
+data/results_and_gis/1974 Proposal/1974 LVA.csv,unnamed_23,text,7,"Randwick; $5,277.23; $9,404.08"
+data/results_and_gis/1974 Proposal/1974 LVA.csv,Land Values,text,11,Woollahra; Waverley; Randwick
+data/results_and_gis/1974 Proposal/1974 LVA.csv,unnamed_25,text,5,"$68,059.76; $45,903.15; $64,692.20"
+data/results_and_gis/1974 Proposal/1974 LVA_v2.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/1974 Proposal/1974 LVA_v2.csv,Base 30 Mins,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/1974 Proposal/1974 LVA_v2.csv,30 Mins,numeric,500,1.68E-05; -4.51E-05; 2403.939717
+data/results_and_gis/1974 Proposal/1974 LVA_v2.csv,Base 45 Mins,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/1974 Proposal/1974 LVA_v2.csv,45 Mins,numeric,500,0; 7481.505336; 10143.01865
+data/results_and_gis/1974 Proposal/1974 LVA_v2.csv,Base 60 Mins,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/1974 Proposal/1974 LVA_v2.csv,60 Mins,numeric,500,11694.59058; 8360.527733; 1929.132987
+data/results_and_gis/1974 Proposal/1974 LVA_v2.csv,TZ16_CODE,integer,500,1; 2; 3
+data/results_and_gis/1974 Proposal/1974 LVA_v2.csv,unnamed_9,text,500,YES; YES; YES
+data/results_and_gis/1974 Proposal/1974 LVA_v2.csv,TZ16_NAME,text,500,Barangaroo_Headland Park; Barangaroo_Northern Cove; Barangaroo_Southern Cove
+data/results_and_gis/1974 Proposal/1974 LVA_v2.csv,Tz16_Area,numeric,500,64884.12626; 74488.64591; 30794.77399
+data/results_and_gis/1974 Proposal/1974 LVA_v2.csv,30 Min Lin,numeric,500,3.54E-02; -1.09E-01; 2.41E+06
+data/results_and_gis/1974 Proposal/1974 LVA_v2.csv,45 Min Lin,numeric,500,0.00E+00; 6.07E+06; 3.40E+06
+data/results_and_gis/1974 Proposal/1974 LVA_v2.csv,60 Min Lin,numeric,500,3.87E+06; 3.18E+06; 3.03E+05
+data/results_and_gis/1974 Proposal/TravelZone_Uplift.csv,TZ16_CODE,integer,500,3; 4; 5
+data/results_and_gis/1974 Proposal/TravelZone_Uplift.csv,30_lin,numeric,500,9936924.018231193; 0.00028997345; 0.060446568
+data/results_and_gis/1974 Proposal/TravelZone_Uplift.csv,45_lin,numeric,500,14061730.08048682; 1006633.065871787; 9108362.53375901
+data/results_and_gis/1974 Proposal/TravelZone_Uplift.csv,60_lin,numeric,500,1251345.910527066; 62566.09039430281; 566119.5244886305
+data/results_and_gis/1974 Proposal/TravelZone_Uplift.csv,30_log,numeric,500,866298.2951979386; 1.8658407936535812e-05; 0.00502488709714385
+data/results_and_gis/1974 Proposal/TravelZone_Uplift.csv,45_log,numeric,500,2201705.047699546; 116001.45986189903; 1357232.5751685053
+data/results_and_gis/1974 Proposal/TravelZone_Uplift.csv,60_log,numeric,500,282195.4316806476; 10624.105349990648; 123272.41328847024
+data/results_and_gis/1974 Proposal/TravelZone_Uplift.csv,Average_Price,numeric,500,6904895.715909484; 356399.7188068019; 3224827.363661122
+data/results_and_gis/2001 Proposal/2001 30 min accessibility.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/2001 Proposal/2001 30 min accessibility.csv,EMP_2016,numeric,500,304694.0583; 390046.5602; 508230.7839
+data/results_and_gis/2001 Proposal/2001 30 min accessibility.csv,unnamed_3,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/2001 Proposal/2001 30 min accessibility.csv,unnamed_4,numeric,500,1.68E-05; -4.51E-05; 2403.939717
+data/results_and_gis/2001 Proposal/2001 30 min accessibility.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/2001 Proposal/2001 30 min accessibility.csv,unnamed_6,numeric,500,6.83E-06; 8.75E-06; 1.14E-05
+data/results_and_gis/2001 Proposal/2001 30 min accessibility.csv,unnamed_7,integer,1,"42,515"
+data/results_and_gis/2001 Proposal/2001 45 min accessibility.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/2001 Proposal/2001 45 min accessibility.csv,EMP_2016,numeric,500,638169.718; 756455.1975; 917050.0651
+data/results_and_gis/2001 Proposal/2001 45 min accessibility.csv,unnamed_3,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/2001 Proposal/2001 45 min accessibility.csv,unnamed_4,numeric,500,1116.66923; 1911.15858; 4857.436198
+data/results_and_gis/2001 Proposal/2001 45 min accessibility.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/2001 Proposal/2001 45 min accessibility.csv,unnamed_6,numeric,500,1.43E-05; 1.70E-05; 2.06E-05
+data/results_and_gis/2001 Proposal/2001 45 min accessibility.csv,unnamed_7,integer,1,"177,614"
+data/results_and_gis/2001 Proposal/2001 60 min accessibility.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/2001 Proposal/2001 60 min accessibility.csv,EMP_2016,numeric,500,1102424.972; 1189866.249; 1336597.471
+data/results_and_gis/2001 Proposal/2001 60 min accessibility.csv,unnamed_3,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/2001 Proposal/2001 60 min accessibility.csv,unnamed_4,numeric,500,2493.807315; 1116.572927; 0
+data/results_and_gis/2001 Proposal/2001 60 min accessibility.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/2001 Proposal/2001 60 min accessibility.csv,unnamed_6,numeric,500,2.47E-05; 2.67E-05; 3.00E-05
+data/results_and_gis/2001 Proposal/2001 60 min accessibility.csv,unnamed_7,integer,1,"443,145"
+data/results_and_gis/2001 Proposal/2001 LVAv2.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/2001 Proposal/2001 LVAv2.csv,Base 30 Mins,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/2001 Proposal/2001 LVAv2.csv,30 Mins,numeric,500,1.68E-05; -4.51E-05; 2403.939717
+data/results_and_gis/2001 Proposal/2001 LVAv2.csv,Base 45 Mins,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/2001 Proposal/2001 LVAv2.csv,45 Mins,numeric,500,1116.66923; 1911.15858; 4857.436198
+data/results_and_gis/2001 Proposal/2001 LVAv2.csv,Base 60 Mins,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/2001 Proposal/2001 LVAv2.csv,60 Mins,numeric,500,2493.807315; 1116.572927; 0
+data/results_and_gis/2001 Proposal/2001 LVAv2.csv,TZ16_CODE,integer,500,1; 2; 3
+data/results_and_gis/2001 Proposal/2001 LVAv2.csv,unnamed_9,text,500,YES; YES; YES
+data/results_and_gis/2001 Proposal/2001 LVAv2.csv,TZ16_NAME,text,500,Barangaroo_Headland Park; Barangaroo_Northern Cove; Barangaroo_Southern Cove
+data/results_and_gis/2001 Proposal/2001 LVAv2.csv,Tz16_Area,numeric,500,64884.12626; 74488.64591; 30794.77399
+data/results_and_gis/2001 Proposal/2001 LVAv2.csv,SA2_Name16,text,500,Sydney - Haymarket - The Rocks; Sydney - Haymarket - The Rocks; Sydney - Haymarket - The Rocks
+data/results_and_gis/2001 Proposal/2001 LVAv2.csv,unnamed_13,empty_or_unknown,0,
+data/results_and_gis/2001 Proposal/2001 LVAv2.csv,unnamed_14,empty_or_unknown,0,
+data/results_and_gis/2001 Proposal/2001 LVAv2.csv,unnamed_15,empty_or_unknown,0,
+data/results_and_gis/2001 Proposal/2001 LVAv2.csv,unnamed_16,empty_or_unknown,0,
+data/results_and_gis/2001 Proposal/2001 LVAv2.csv,unnamed_17,empty_or_unknown,0,
+data/results_and_gis/2001 Proposal/2001 LVAv2.csv,unnamed_18,empty_or_unknown,0,
+data/results_and_gis/2001 Proposal/2001 LVAv2.csv,unnamed_19,empty_or_unknown,0,
+data/results_and_gis/2001 Proposal/2001 LVAv2.csv,unnamed_20,empty_or_unknown,0,
+data/results_and_gis/2001 Proposal/2001 LVAv2.csv,unnamed_21,empty_or_unknown,0,
+data/results_and_gis/2001 Proposal/TravelZone_Uplift.csv,TZ16_CODE,integer,500,3; 4; 5
+data/results_and_gis/2001 Proposal/TravelZone_Uplift.csv,30_lin,numeric,500,9936924.018231193; 0.00028997345; 0.060446568
+data/results_and_gis/2001 Proposal/TravelZone_Uplift.csv,45_lin,numeric,500,6734085.685572719; 689146.2987786491; 2974053.2620480247
+data/results_and_gis/2001 Proposal/TravelZone_Uplift.csv,60_lin,numeric,500,0.0; 25797.767129659802; 233427.07796300642
+data/results_and_gis/2001 Proposal/TravelZone_Uplift.csv,30_log,numeric,500,866298.2951979386; 1.8658407936535812e-05; 0.00502488709714385
+data/results_and_gis/2001 Proposal/TravelZone_Uplift.csv,45_log,numeric,500,1054384.5146153895; 79415.21039497603; 443162.19875713316
+data/results_and_gis/2001 Proposal/TravelZone_Uplift.csv,60_log,numeric,500,0.0; 4380.618863233123; 50828.69956369714
+data/results_and_gis/2001 Proposal/TravelZone_Uplift.csv,Average_Price,numeric,500,4045232.280762428; 238314.68868754164; 1069160.1242489195
+data/results_and_gis/2001 Proposal/opportunities_2001_30mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/2001 Proposal/opportunities_2001_30mins.csv,EMP_2016,numeric,500,304694.0583; 389946.2795; 508230.7839
+data/results_and_gis/2001 Proposal/opportunities_2001_30mins.csv,unnamed_3,numeric,500,304694.0583; 389946.2795; 505826.8442
+data/results_and_gis/2001 Proposal/opportunities_2001_30mins.csv,unnamed_4,numeric,500,0; 0; 2403.939688
+data/results_and_gis/2001 Proposal/opportunities_2001_60mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/2001 Proposal/opportunities_2001_60mins.csv,EMP_2016,numeric,500,1111474.252187682; 1186846.583683712; 1338120.252436902
+data/results_and_gis/2001 Proposal/opportunities_2001_60mins.csv,unnamed_3,numeric,500,1108980.444872382; 1185730.010757112; 1338120.252436902
+data/results_and_gis/2001 Proposal/opportunities_2001_60mins.csv,unnamed_4,numeric,500,2493.807315; 1116.572927; 0
+data/results_and_gis/2056 Stage 1/2056 Metro Stage 1 LVA v2.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/2056 Stage 1/2056 Metro Stage 1 LVA v2.csv,Base 30 Mins,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/2056 Stage 1/2056 Metro Stage 1 LVA v2.csv,30 Mins,numeric,500,594.9463575; 10833.30486; 15799.42248
+data/results_and_gis/2056 Stage 1/2056 Metro Stage 1 LVA v2.csv,Base 45 Mins,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/2056 Stage 1/2056 Metro Stage 1 LVA v2.csv,45 Mins,numeric,500,16698.61852; 38496.15656; 33995.36414
+data/results_and_gis/2056 Stage 1/2056 Metro Stage 1 LVA v2.csv,Base 60 Mins,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/2056 Stage 1/2056 Metro Stage 1 LVA v2.csv,60 Mins,numeric,500,22264.08323; 30061.44041; 14318.53992
+data/results_and_gis/2056 Stage 1/2056 Metro Stage 1 LVA v2.csv,TZ16_CODE,integer,500,1; 2; 3
+data/results_and_gis/2056 Stage 1/2056 Metro Stage 1 LVA v2.csv,unnamed_9,text,500,YES; YES; YES
+data/results_and_gis/2056 Stage 1/2056 Metro Stage 1 LVA v2.csv,TZ16_NAME,text,500,Barangaroo_Headland Park; Barangaroo_Northern Cove; Barangaroo_Southern Cove
+data/results_and_gis/2056 Stage 1/2056 Metro Stage 1 LVA v2.csv,Tz16_Area,numeric,500,64884.12626; 74488.64591; 30794.77399
+data/results_and_gis/2056 Stage 1/2056 Stage 1 30 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/2056 Stage 1/2056 Stage 1 30 mins.csv,EMP_2016,numeric,500,304694.0583; 390544.8262; 518609.44445429003
+data/results_and_gis/2056 Stage 1/2056 Stage 1 30 mins.csv,unnamed_3,numeric,500,304694.0583; 389946.2795; 505826.8442
+data/results_and_gis/2056 Stage 1/2056 Stage 1 30 mins.csv,unnamed_4,numeric,500,0; 598.5466444; 12782.60023
+data/results_and_gis/2056 Stage 1/2056 Stage 1 60 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/2056 Stage 1/2056 Stage 1 60 mins.csv,EMP_2016,numeric,500,1144934.481866102; 1218730.873466732; 1356827.589934492
+data/results_and_gis/2056 Stage 1/2056 Stage 1 60 mins.csv,unnamed_3,numeric,500,1108980.444872382; 1185730.010757112; 1338120.252436902
+data/results_and_gis/2056 Stage 1/2056 Stage 1 60 mins.csv,unnamed_4,numeric,500,35954.03699; 33000.86271; 18707.3375
+data/results_and_gis/2056 Stage 1/2056 Stage 1v2 30 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/2056 Stage 1/2056 Stage 1v2 30 mins.csv,EMP_2016,numeric,500,305289.0047; 400879.8651; 521626.2667
+data/results_and_gis/2056 Stage 1/2056 Stage 1v2 30 mins.csv,unnamed_3,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/2056 Stage 1/2056 Stage 1v2 30 mins.csv,unnamed_4,numeric,500,594.9463575; 10833.30486; 15799.42248
+data/results_and_gis/2056 Stage 1/2056 Stage 1v2 30 mins.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/2056 Stage 1/2056 Stage 1v2 30 mins.csv,unnamed_6,numeric,500,6.85E-06; 8.99E-06; 1.17E-05
+data/results_and_gis/2056 Stage 1/2056 Stage 1v2 30 mins.csv,unnamed_7,integer,1,"45,857"
+data/results_and_gis/2056 Stage 1/2056 Stage 1v2 45 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/2056 Stage 1/2056 Stage 1v2 45 mins.csv,EMP_2016,numeric,500,653751.6673; 793040.1955; 946187.993
+data/results_and_gis/2056 Stage 1/2056 Stage 1v2 45 mins.csv,unnamed_3,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/2056 Stage 1/2056 Stage 1v2 45 mins.csv,unnamed_4,numeric,500,16698.61852; 38496.15656; 33995.36414
+data/results_and_gis/2056 Stage 1/2056 Stage 1v2 45 mins.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/2056 Stage 1/2056 Stage 1v2 45 mins.csv,unnamed_6,numeric,500,1.47E-05; 1.78E-05; 2.12E-05
+data/results_and_gis/2056 Stage 1/2056 Stage 1v2 45 mins.csv,unnamed_7,integer,1,"185,390"
+data/results_and_gis/2056 Stage 1/2056 Stage 1v2 60 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/2056 Stage 1/2056 Stage 1v2 60 mins.csv,EMP_2016,numeric,500,1122195.248; 1218811.117; 1350916.011
+data/results_and_gis/2056 Stage 1/2056 Stage 1v2 60 mins.csv,unnamed_3,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/2056 Stage 1/2056 Stage 1v2 60 mins.csv,unnamed_4,numeric,500,22264.08323; 30061.44041; 14318.53992
+data/results_and_gis/2056 Stage 1/2056 Stage 1v2 60 mins.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/2056 Stage 1/2056 Stage 1v2 60 mins.csv,unnamed_6,numeric,500,2.52E-05; 2.73E-05; 3.03E-05
+data/results_and_gis/2056 Stage 1/2056 Stage 1v2 60 mins.csv,unnamed_7,integer,1,"453,167"
+data/results_and_gis/2056 Stage 1/V2/2056 Metro Stage 1 LVA v3.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/2056 Stage 1/V2/2056 Metro Stage 1 LVA v3.csv,Base 30 Mins,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/2056 Stage 1/V2/2056 Metro Stage 1 LVA v3.csv,30 Mins,numeric,500,594.9463575; 10833.30486; 15694.69075
+data/results_and_gis/2056 Stage 1/V2/2056 Metro Stage 1 LVA v3.csv,Base 45 Mins,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/2056 Stage 1/V2/2056 Metro Stage 1 LVA v3.csv,45 Mins,numeric,500,6831.805063; 33649.95699; 15481.10002
+data/results_and_gis/2056 Stage 1/V2/2056 Metro Stage 1 LVA v3.csv,Base 60 Mins,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/2056 Stage 1/V2/2056 Metro Stage 1 LVA v3.csv,60 Mins,numeric,500,16467.59351; 24167.85253; 11610.21834
+data/results_and_gis/2056 Stage 1/V2/2056 Metro Stage 1 LVA v3.csv,TZ16_CODE,integer,500,1; 2; 3
+data/results_and_gis/2056 Stage 1/V2/2056 Metro Stage 1 LVA v3.csv,unnamed_9,text,500,YES; YES; YES
+data/results_and_gis/2056 Stage 1/V2/2056 Metro Stage 1 LVA v3.csv,TZ16_NAME,text,500,Barangaroo_Headland Park; Barangaroo_Northern Cove; Barangaroo_Southern Cove
+data/results_and_gis/2056 Stage 1/V2/2056 Metro Stage 1 LVA v3.csv,Tz16_Area,numeric,500,64884.12626; 74488.64591; 30794.77399
+data/results_and_gis/2056 Stage 1/V2/2056 Stage 1v3 30 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/2056 Stage 1/V2/2056 Stage 1v3 30 mins.csv,EMP_2016,numeric,500,305289.0047; 400879.8651; 521521.5349
+data/results_and_gis/2056 Stage 1/V2/2056 Stage 1v3 30 mins.csv,unnamed_3,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/2056 Stage 1/V2/2056 Stage 1v3 30 mins.csv,unnamed_4,numeric,500,594.9463575; 10833.30486; 15694.69075
+data/results_and_gis/2056 Stage 1/V2/2056 Stage 1v3 30 mins.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/2056 Stage 1/V2/2056 Stage 1v3 30 mins.csv,unnamed_6,numeric,500,6.85E-06; 8.99E-06; 1.17E-05
+data/results_and_gis/2056 Stage 1/V2/2056 Stage 1v3 30 mins.csv,unnamed_7,integer,1,"44,755"
+data/results_and_gis/2056 Stage 1/V2/2056 Stage 1v3 45 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/2056 Stage 1/V2/2056 Stage 1v3 45 mins.csv,EMP_2016,numeric,500,643884.8539; 788193.9959; 927673.7289
+data/results_and_gis/2056 Stage 1/V2/2056 Stage 1v3 45 mins.csv,unnamed_3,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/2056 Stage 1/V2/2056 Stage 1v3 45 mins.csv,unnamed_4,numeric,500,6831.805063; 33649.95699; 15481.10002
+data/results_and_gis/2056 Stage 1/V2/2056 Stage 1v3 45 mins.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/2056 Stage 1/V2/2056 Stage 1v3 45 mins.csv,unnamed_6,numeric,500,1.44E-05; 1.77E-05; 2.08E-05
+data/results_and_gis/2056 Stage 1/V2/2056 Stage 1v3 45 mins.csv,unnamed_7,integer,1,"182,509"
+data/results_and_gis/2056 Stage 1/V2/2056 Stage 1v3 60 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/2056 Stage 1/V2/2056 Stage 1v3 60 mins.csv,EMP_2016,numeric,500,1116398.758; 1212917.53; 1348207.689
+data/results_and_gis/2056 Stage 1/V2/2056 Stage 1v3 60 mins.csv,unnamed_3,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/2056 Stage 1/V2/2056 Stage 1v3 60 mins.csv,unnamed_4,numeric,500,16467.59351; 24167.85253; 11610.21834
+data/results_and_gis/2056 Stage 1/V2/2056 Stage 1v3 60 mins.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/2056 Stage 1/V2/2056 Stage 1v3 60 mins.csv,unnamed_6,numeric,500,2.50E-05; 2.72E-05; 3.02E-05
+data/results_and_gis/2056 Stage 1/V2/2056 Stage 1v3 60 mins.csv,unnamed_7,integer,1,"449,850"
+data/results_and_gis/2056 Stage 1/V2/TravelZone_Uplift.csv,TZ16_CODE,integer,500,3; 4; 5
+data/results_and_gis/2056 Stage 1/V2/TravelZone_Uplift.csv,30_lin,numeric,500,64875565.876091346; 1917992.5749143253; 24713650.849703398
+data/results_and_gis/2056 Stage 1/V2/TravelZone_Uplift.csv,45_lin,numeric,500,21462156.123538144; 1858693.6662290192; 16818100.25981981
+data/results_and_gis/2056 Stage 1/V2/TravelZone_Uplift.csv,60_lin,numeric,500,7531051.170649722; 297413.227225278; 2691097.317622224
+data/results_and_gis/2056 Stage 1/V2/TravelZone_Uplift.csv,30_log,numeric,500,5655833.939692697; 123413.67074122888; 2054431.035323507
+data/results_and_gis/2056 Stage 1/V2/TravelZone_Uplift.csv,45_log,numeric,500,3360421.3138241195; 214190.4394248197; 2506056.762724953
+data/results_and_gis/2056 Stage 1/V2/TravelZone_Uplift.csv,60_log,numeric,500,1698353.9229495698; 50502.58756154889; 585985.9029541081
+data/results_and_gis/2056 Stage 1/V2/TravelZone_Uplift.csv,Average_Price,numeric,500,21419635.73402663; 1058936.6720940247; 10964412.83998516
+data/results_and_gis/2056 Stage 2/2056 Metro Stage 1&2 LVA v2.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/2056 Stage 2/2056 Metro Stage 1&2 LVA v2.csv,Base 30 Mins,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/2056 Stage 2/2056 Metro Stage 1&2 LVA v2.csv,30 Mins,numeric,500,594.9463575; 10833.30486; 15799.42248
+data/results_and_gis/2056 Stage 2/2056 Metro Stage 1&2 LVA v2.csv,Base 45 Mins,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/2056 Stage 2/2056 Metro Stage 1&2 LVA v2.csv,45 Mins,numeric,500,15016.10651; 44322.25901; 34957.38322
+data/results_and_gis/2056 Stage 2/2056 Metro Stage 1&2 LVA v2.csv,Base 60 Mins,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/2056 Stage 2/2056 Metro Stage 1&2 LVA v2.csv,60 Mins,numeric,500,23824.23314; 30940.87909; 17366.33136
+data/results_and_gis/2056 Stage 2/2056 Metro Stage 1&2 LVA v2.csv,TZ16_CODE,integer,500,1; 2; 3
+data/results_and_gis/2056 Stage 2/2056 Metro Stage 1&2 LVA v2.csv,unnamed_9,text,500,YES; YES; YES
+data/results_and_gis/2056 Stage 2/2056 Metro Stage 1&2 LVA v2.csv,TZ16_NAME,text,500,Barangaroo_Headland Park; Barangaroo_Northern Cove; Barangaroo_Southern Cove
+data/results_and_gis/2056 Stage 2/2056 Metro Stage 1&2 LVA v2.csv,Tz16_Area,numeric,500,64884.12626; 74488.64591; 30794.77399
+data/results_and_gis/2056 Stage 2/2056 Stage 2 30 Mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/2056 Stage 2/2056 Stage 2 30 Mins.csv,EMP_2016,numeric,500,304694.0583; 390544.8262; 518609.44445429003
+data/results_and_gis/2056 Stage 2/2056 Stage 2 30 Mins.csv,unnamed_3,numeric,500,1.676E-05; -8.25E-06; 0
+data/results_and_gis/2056 Stage 2/2056 Stage 2 30 Mins.csv,unnamed_4,numeric,500,304694.0583; 390544.8262; 518609.44445429003
+data/results_and_gis/2056 Stage 2/2056 Stage 2 30 Mins.csv,unnamed_5,numeric,500,304694.0583; 389946.2795; 505826.8442
+data/results_and_gis/2056 Stage 2/2056 Stage 2 30 Mins.csv,unnamed_6,numeric,500,0; 598.5466444; 12782.60023
+data/results_and_gis/2056 Stage 2/2056 Stage 2 60 Mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/2056 Stage 2/2056 Stage 2 60 Mins.csv,EMP_2016,numeric,500,1144934.481866102; 1229205.698370732; 1361231.644011492
+data/results_and_gis/2056 Stage 2/2056 Stage 2 60 Mins.csv,unnamed_3,numeric,500,0; 10474.8249; 4404.054077
+data/results_and_gis/2056 Stage 2/2056 Stage 2 60 Mins.csv,unnamed_4,empty_or_unknown,0,
+data/results_and_gis/2056 Stage 2/2056 Stage 2 60 Mins.csv,unnamed_5,numeric,500,1144934.481866102; 1218730.873466732; 1356827.589934492
+data/results_and_gis/2056 Stage 2/2056 Stage 2 60 Mins.csv,unnamed_6,numeric,500,1108980.444872382; 1185730.010757112; 1338120.252436902
+data/results_and_gis/2056 Stage 2/2056 Stage 2 60 Mins.csv,unnamed_7,numeric,500,35954.03699; 33000.86271; 18707.3375
+data/results_and_gis/2056 Stage 2/2056 Stage 2v2 60 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/2056 Stage 2/2056 Stage 2v2 60 mins.csv,EMP_2016,numeric,500,1123755.397; 1219690.556; 1353963.803
+data/results_and_gis/2056 Stage 2/2056 Stage 2v2 60 mins.csv,unnamed_3,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/2056 Stage 2/2056 Stage 2v2 60 mins.csv,unnamed_4,numeric,500,23824.23314; 30940.87909; 17366.33136
+data/results_and_gis/2056 Stage 2/2056 Stage 2v2 60 mins.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/2056 Stage 2/2056 Stage 2v2 60 mins.csv,unnamed_6,numeric,500,2.52E-05; 2.74E-05; 3.04E-05
+data/results_and_gis/2056 Stage 2/2056 Stage 2v2 60 mins.csv,unnamed_7,integer,1,"457,073"
+data/results_and_gis/2056 Stage 2/2056 Stage2v2 30 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/2056 Stage 2/2056 Stage2v2 30 mins.csv,EMP_2016,numeric,500,305289.0047; 400879.8651; 521626.2667
+data/results_and_gis/2056 Stage 2/2056 Stage2v2 30 mins.csv,unnamed_3,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/2056 Stage 2/2056 Stage2v2 30 mins.csv,unnamed_4,numeric,500,594.9463575; 10833.30486; 15799.42248
+data/results_and_gis/2056 Stage 2/2056 Stage2v2 30 mins.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/2056 Stage 2/2056 Stage2v2 30 mins.csv,unnamed_6,numeric,500,6.85E-06; 8.99E-06; 1.17E-05
+data/results_and_gis/2056 Stage 2/2056 Stage2v2 30 mins.csv,unnamed_7,integer,1,"46,330"
+data/results_and_gis/2056 Stage 2/2056 Stage2v2 45 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/2056 Stage 2/2056 Stage2v2 45 mins.csv,EMP_2016,numeric,500,652069.1553; 798866.2979; 947150.0121
+data/results_and_gis/2056 Stage 2/2056 Stage2v2 45 mins.csv,unnamed_3,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/2056 Stage 2/2056 Stage2v2 45 mins.csv,unnamed_4,numeric,500,15016.10651; 44322.25901; 34957.38322
+data/results_and_gis/2056 Stage 2/2056 Stage2v2 45 mins.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/2056 Stage 2/2056 Stage2v2 45 mins.csv,unnamed_6,numeric,500,1.46E-05; 1.79E-05; 2.12E-05
+data/results_and_gis/2056 Stage 2/2056 Stage2v2 45 mins.csv,unnamed_7,integer,1,"188,361"
+data/results_and_gis/2056 Stage 2/V2/2056 Metro Stage 1&2 LVA v3.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/2056 Stage 2/V2/2056 Metro Stage 1&2 LVA v3.csv,Base 30 Mins,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/2056 Stage 2/V2/2056 Metro Stage 1&2 LVA v3.csv,30 Mins,numeric,500,594.9463575; 10833.30486; 15694.69075
+data/results_and_gis/2056 Stage 2/V2/2056 Metro Stage 1&2 LVA v3.csv,Base 45 Mins,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/2056 Stage 2/V2/2056 Metro Stage 1&2 LVA v3.csv,45 Mins,numeric,500,6831.805063; 33649.95699; 15704.88735
+data/results_and_gis/2056 Stage 2/V2/2056 Metro Stage 1&2 LVA v3.csv,Base 60 Mins,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/2056 Stage 2/V2/2056 Metro Stage 1&2 LVA v3.csv,60 Mins,numeric,500,18027.74341; 24167.85253; 14658.00979
+data/results_and_gis/2056 Stage 2/V2/2056 Metro Stage 1&2 LVA v3.csv,TZ16_CODE,integer,500,1; 2; 3
+data/results_and_gis/2056 Stage 2/V2/2056 Metro Stage 1&2 LVA v3.csv,unnamed_9,text,500,YES; YES; YES
+data/results_and_gis/2056 Stage 2/V2/2056 Metro Stage 1&2 LVA v3.csv,TZ16_NAME,text,500,Barangaroo_Headland Park; Barangaroo_Northern Cove; Barangaroo_Southern Cove
+data/results_and_gis/2056 Stage 2/V2/2056 Metro Stage 1&2 LVA v3.csv,Tz16_Area,numeric,500,64884.12626; 74488.64591; 30794.77399
+data/results_and_gis/2056 Stage 2/V2/2056 Stage 2v3 60 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/2056 Stage 2/V2/2056 Stage 2v3 60 mins.csv,EMP_2016,numeric,500,1117958.907; 1212917.53; 1351255.481
+data/results_and_gis/2056 Stage 2/V2/2056 Stage 2v3 60 mins.csv,unnamed_3,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/2056 Stage 2/V2/2056 Stage 2v3 60 mins.csv,unnamed_4,numeric,500,18027.74341; 24167.85253; 14658.00979
+data/results_and_gis/2056 Stage 2/V2/2056 Stage 2v3 60 mins.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/2056 Stage 2/V2/2056 Stage 2v3 60 mins.csv,unnamed_6,numeric,500,2.51E-05; 2.72E-05; 3.03E-05
+data/results_and_gis/2056 Stage 2/V2/2056 Stage 2v3 60 mins.csv,unnamed_7,integer,1,"453,131"
+data/results_and_gis/2056 Stage 2/V2/2056 Stage2v3 30 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/2056 Stage 2/V2/2056 Stage2v3 30 mins.csv,EMP_2016,numeric,500,305289.0047; 400879.8651; 521521.5349
+data/results_and_gis/2056 Stage 2/V2/2056 Stage2v3 30 mins.csv,unnamed_3,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/2056 Stage 2/V2/2056 Stage2v3 30 mins.csv,unnamed_4,numeric,500,594.9463575; 10833.30486; 15694.69075
+data/results_and_gis/2056 Stage 2/V2/2056 Stage2v3 30 mins.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/2056 Stage 2/V2/2056 Stage2v3 30 mins.csv,unnamed_6,numeric,500,6.85E-06; 8.99E-06; 1.17E-05
+data/results_and_gis/2056 Stage 2/V2/2056 Stage2v3 30 mins.csv,unnamed_7,integer,1,"45,122"
+data/results_and_gis/2056 Stage 2/V2/2056 Stage2v3 45 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/2056 Stage 2/V2/2056 Stage2v3 45 mins.csv,EMP_2016,numeric,500,643884.8539; 788193.9959; 927897.5163
+data/results_and_gis/2056 Stage 2/V2/2056 Stage2v3 45 mins.csv,unnamed_3,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/2056 Stage 2/V2/2056 Stage2v3 45 mins.csv,unnamed_4,numeric,500,6831.805063; 33649.95699; 15704.88735
+data/results_and_gis/2056 Stage 2/V2/2056 Stage2v3 45 mins.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/2056 Stage 2/V2/2056 Stage2v3 45 mins.csv,unnamed_6,numeric,500,1.44E-05; 1.77E-05; 2.08E-05
+data/results_and_gis/2056 Stage 2/V2/2056 Stage2v3 45 mins.csv,unnamed_7,integer,1,"184,922"
+data/results_and_gis/2056 Stage 2/V2/TravelZone_Uplift.csv,TZ16_CODE,integer,500,3; 4; 5
+data/results_and_gis/2056 Stage 2/V2/TravelZone_Uplift.csv,30_lin,numeric,500,64875565.876091346; 1917992.5749143253; 24713650.849703398
+data/results_and_gis/2056 Stage 2/V2/TravelZone_Uplift.csv,45_lin,numeric,500,21772402.721565723; 2237439.00636208; 20245118.48735472
+data/results_and_gis/2056 Stage 2/V2/TravelZone_Uplift.csv,60_lin,numeric,500,9508022.894630125; 318758.709226191; 2884238.5870252084
+data/results_and_gis/2056 Stage 2/V2/TravelZone_Uplift.csv,30_log,numeric,500,5655833.939692697; 123413.67074122888; 2054431.035323507
+data/results_and_gis/2056 Stage 2/V2/TravelZone_Uplift.csv,45_log,numeric,500,3408997.946784585; 257835.948261028; 3016715.0459089275
+data/results_and_gis/2056 Stage 2/V2/TravelZone_Uplift.csv,60_log,numeric,500,2144187.7922064727; 54127.181140831875; 628042.3757571098
+data/results_and_gis/2056 Stage 2/V2/TravelZone_Uplift.csv,Average_Price,numeric,500,22182041.84136262; 1192300.279472016; 12171132.672297793
+data/results_and_gis/Alternative Metro/30 Mins_alt_metro.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Alternative Metro/30 Mins_alt_metro.csv,EMP_2016,numeric,500,304694.0583; 396846.7274; 534205.9668
+data/results_and_gis/Alternative Metro/30 Mins_alt_metro.csv,EMP_2016,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Alternative Metro/30 Mins_alt_metro.csv,unnamed_4,numeric,500,0; 6800.1672; 28379.1226
+data/results_and_gis/Alternative Metro/30 Mins_alt_metro.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Alternative Metro/30 Mins_alt_metro.csv,unnamed_6,numeric,500,6.83E-06; 8.90E-06; 1.20E-05
+data/results_and_gis/Alternative Metro/30 Mins_alt_metro.csv,unnamed_7,integer,1,"46,139"
+data/results_and_gis/Alternative Metro/45 Mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Alternative Metro/45 Mins.csv,EMP_2016,numeric,500,653687.1063; 788494.763; 951203.002
+data/results_and_gis/Alternative Metro/45 Mins.csv,EMP_2016,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/Alternative Metro/45 Mins.csv,unnamed_4,numeric,500,16634.0575; 33950.7241; 39010.3731
+data/results_and_gis/Alternative Metro/45 Mins.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Alternative Metro/45 Mins.csv,unnamed_6,numeric,500,1.47E-05; 1.77E-05; 2.13E-05
+data/results_and_gis/Alternative Metro/45 Mins.csv,unnamed_7,integer,1,"185,488"
+data/results_and_gis/Alternative Metro/60 Mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Alternative Metro/60 Mins.csv,EMP_2016,numeric,500,1132630.965; 1217612.351; 1354749.752
+data/results_and_gis/Alternative Metro/60 Mins.csv,EMP_2016,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/Alternative Metro/60 Mins.csv,unnamed_4,numeric,500,32699.801; 28862.674; 18152.281
+data/results_and_gis/Alternative Metro/60 Mins.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Alternative Metro/60 Mins.csv,unnamed_6,numeric,500,2.53985E-05; 2.73042E-05; 3.03794E-05
+data/results_and_gis/Alternative Metro/60 Mins.csv,unnamed_7,integer,1,"453,575"
+data/results_and_gis/Alternative Metro/Alternative Metro LVA_v2.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Alternative Metro/Alternative Metro LVA_v2.csv,Base 30 Mins,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Alternative Metro/Alternative Metro LVA_v2.csv,30 Mins,numeric,500,0; 6800.1672; 28379.1226
+data/results_and_gis/Alternative Metro/Alternative Metro LVA_v2.csv,Base 45 Mins,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/Alternative Metro/Alternative Metro LVA_v2.csv,45 Mins,numeric,500,16634.0575; 33950.7241; 39010.3731
+data/results_and_gis/Alternative Metro/Alternative Metro LVA_v2.csv,Base 60 Mins,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/Alternative Metro/Alternative Metro LVA_v2.csv,60 Mins,numeric,500,32699.801; 28862.674; 18152.281
+data/results_and_gis/Alternative Metro/Alternative Metro LVA_v2.csv,TZ16_CODE,integer,500,1; 2; 3
+data/results_and_gis/Alternative Metro/Alternative Metro LVA_v2.csv,unnamed_9,text,500,YES; YES; YES
+data/results_and_gis/Alternative Metro/Alternative Metro LVA_v2.csv,TZ16_NAME,text,500,Barangaroo_Headland Park; Barangaroo_Northern Cove; Barangaroo_Southern Cove
+data/results_and_gis/Alternative Metro/Alternative Metro LVA_v2.csv,Tz16_Area,numeric,500,64884.12626; 74488.64591; 30794.77399
+data/results_and_gis/Alternative Metro/Alternative Metro LVA_v2.csv,unnamed_12,empty_or_unknown,0,
+data/results_and_gis/Alternative Metro/Alternative Metro LVA_v2.csv,unnamed_13,empty_or_unknown,0,
+data/results_and_gis/Alternative Metro/Alternative Metro LVA_v2.csv,unnamed_14,empty_or_unknown,0,
+data/results_and_gis/Alternative Metro/Alternative Metro LVA_v2.csv,unnamed_15,empty_or_unknown,0,
+data/results_and_gis/Alternative Metro/Alternative Metro LVA_v2.csv,unnamed_16,empty_or_unknown,0,
+data/results_and_gis/Alternative Metro/Alternative Metro LVA_v2.csv,unnamed_17,empty_or_unknown,0,
+data/results_and_gis/Alternative Metro/Alternative Metro LVA_v2.csv,unnamed_18,empty_or_unknown,0,
+data/results_and_gis/Alternative Metro/Alternative Metro LVA_v2.csv,unnamed_19,empty_or_unknown,0,
+data/results_and_gis/Alternative Metro/Alternative Metro LVA_v2.csv,unnamed_20,empty_or_unknown,0,
+data/results_and_gis/Alternative Metro/Alternative Metro LVA_v2.csv,unnamed_21,empty_or_unknown,0,
+data/results_and_gis/Alternative Metro/Alternative Metro LVA_v2.csv,unnamed_22,empty_or_unknown,0,
+data/results_and_gis/Alternative Metro/Alternative Metro LVA_v2.csv,unnamed_23,empty_or_unknown,0,
+data/results_and_gis/Alternative Metro/Alternative Metro LVA_v2.csv,unnamed_24,empty_or_unknown,0,
+data/results_and_gis/Alternative Metro/Alternative Metro LVA_v2.csv,unnamed_25,empty_or_unknown,0,
+data/results_and_gis/Alternative Metro/TravelZone_Uplift.csv,TZ16_CODE,integer,500,3; 4; 5
+data/results_and_gis/Alternative Metro/TravelZone_Uplift.csv,30_lin,numeric,500,117307927.0607465; 4733574.3516555; 47934763.943274
+data/results_and_gis/Alternative Metro/TravelZone_Uplift.csv,45_lin,numeric,500,54081862.195065945; 2552594.4394682003; 23096753.39518152
+data/results_and_gis/Alternative Metro/TravelZone_Uplift.csv,60_lin,numeric,500,11774606.908470308; 501831.66213240003; 4540745.8969128
+data/results_and_gis/Alternative Metro/TravelZone_Uplift.csv,30_log,numeric,500,10226872.726356843; 304582.9238887606; 3984788.2983727674
+data/results_and_gis/Alternative Metro/TravelZone_Uplift.csv,45_log,numeric,500,8467827.806558613; 294153.54159585235; 3441635.7465337953
+data/results_and_gis/Alternative Metro/TravelZone_Uplift.csv,60_log,numeric,500,2655333.1508520916; 85214.08981854828; 988746.5113445345
+data/results_and_gis/Alternative Metro/TravelZone_Uplift.csv,Average_Price,numeric,500,43207956.332362644; 1857834.9131242435; 17865758.470972568
+data/results_and_gis/Alternative Metro/With Coogee/30 Mins_alt_metro.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Alternative Metro/With Coogee/30 Mins_alt_metro.csv,EMP_2016,numeric,500,304694.0583; 396846.7274; 534205.9668
+data/results_and_gis/Alternative Metro/With Coogee/30 Mins_alt_metro.csv,EMP_2016,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Alternative Metro/With Coogee/30 Mins_alt_metro.csv,unnamed_4,numeric,500,1.676E-05; 6800.167211; 28379.12263
+data/results_and_gis/Alternative Metro/With Coogee/30 Mins_alt_metro.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Alternative Metro/With Coogee/30 Mins_alt_metro.csv,unnamed_6,numeric,500,6.83E-06; 8.90E-06; 1.20E-05
+data/results_and_gis/Alternative Metro/With Coogee/30 Mins_alt_metro.csv,unnamed_7,integer,1,"46,182"
+data/results_and_gis/Alternative Metro/With Coogee/45 Mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Alternative Metro/With Coogee/45 Mins.csv,EMP_2016,numeric,500,653687.1063; 788727.0871; 951203.002
+data/results_and_gis/Alternative Metro/With Coogee/45 Mins.csv,EMP_2016,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/Alternative Metro/With Coogee/45 Mins.csv,unnamed_4,numeric,500,16634.05749; 34183.04821; 39010.37311
+data/results_and_gis/Alternative Metro/With Coogee/45 Mins.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Alternative Metro/With Coogee/45 Mins.csv,unnamed_6,numeric,500,1.47E-05; 1.77E-05; 2.13E-05
+data/results_and_gis/Alternative Metro/With Coogee/45 Mins.csv,unnamed_7,integer,1,"185,789"
+data/results_and_gis/Alternative Metro/With Coogee/60 Mins_coogee.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Alternative Metro/With Coogee/60 Mins_coogee.csv,EMP_2016,numeric,500,1132630.965; 1217612.351; 1354749.752
+data/results_and_gis/Alternative Metro/With Coogee/60 Mins_coogee.csv,EMP_2016,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/Alternative Metro/With Coogee/60 Mins_coogee.csv,unnamed_4,numeric,500,32699.80052; 28862.67429; 18152.28071
+data/results_and_gis/Alternative Metro/With Coogee/60 Mins_coogee.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Alternative Metro/With Coogee/60 Mins_coogee.csv,unnamed_6,numeric,500,2.54E-05; 2.73E-05; 3.04E-05
+data/results_and_gis/Alternative Metro/With Coogee/60 Mins_coogee.csv,unnamed_7,integer,1,"453,801"
+data/results_and_gis/Alternative Metro/With Coogee/Alternative Metro Coogee LVA_v2.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Alternative Metro/With Coogee/Alternative Metro Coogee LVA_v2.csv,Base 30 Mins,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Alternative Metro/With Coogee/Alternative Metro Coogee LVA_v2.csv,30 Mins,numeric,500,1.68E-05; 6800.167211; 28379.12263
+data/results_and_gis/Alternative Metro/With Coogee/Alternative Metro Coogee LVA_v2.csv,Base 45 Mins,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/Alternative Metro/With Coogee/Alternative Metro Coogee LVA_v2.csv,45 Mins,numeric,500,16634.05749; 34183.04821; 39010.37311
+data/results_and_gis/Alternative Metro/With Coogee/Alternative Metro Coogee LVA_v2.csv,Base 60 Mins,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/Alternative Metro/With Coogee/Alternative Metro Coogee LVA_v2.csv,60 Mins,numeric,500,32699.80052; 28862.67429; 18152.28071
+data/results_and_gis/Alternative Metro/With Coogee/Alternative Metro Coogee LVA_v2.csv,TZ16_CODE,integer,500,1; 2; 3
+data/results_and_gis/Alternative Metro/With Coogee/Alternative Metro Coogee LVA_v2.csv,unnamed_9,text,500,YES; YES; YES
+data/results_and_gis/Alternative Metro/With Coogee/Alternative Metro Coogee LVA_v2.csv,TZ16_NAME,text,500,Barangaroo_Headland Park; Barangaroo_Northern Cove; Barangaroo_Southern Cove
+data/results_and_gis/Alternative Metro/With Coogee/Alternative Metro Coogee LVA_v2.csv,Tz16_Area,numeric,500,64884.12626; 74488.64591; 30794.77399
+data/results_and_gis/Alternative Metro/With Coogee/TravelZone_Uplift.csv,TZ16_CODE,integer,500,3; 4; 5
+data/results_and_gis/Alternative Metro/With Coogee/TravelZone_Uplift.csv,30_lin,numeric,500,117307927.18475448; 4733574.353490775; 47934763.9764864
+data/results_and_gis/Alternative Metro/With Coogee/TravelZone_Uplift.csv,45_lin,numeric,500,54081862.208929405; 2552594.4265422164; 23096753.222528137
+data/results_and_gis/Alternative Metro/With Coogee/TravelZone_Uplift.csv,60_lin,numeric,500,11774606.720359735; 501831.67509226507; 4540745.8057064405
+data/results_and_gis/Alternative Metro/With Coogee/TravelZone_Uplift.csv,30_log,numeric,500,10226872.737167826; 304582.92400685174; 3984788.3011336946
+data/results_and_gis/Alternative Metro/With Coogee/TravelZone_Uplift.csv,45_log,numeric,500,8467827.808729272; 294153.54010629974; 3441635.7208068
+data/results_and_gis/Alternative Metro/With Coogee/TravelZone_Uplift.csv,60_log,numeric,500,2655333.108430612; 85214.09201921274; 988746.4914843679
+data/results_and_gis/Alternative Metro/With Coogee/TravelZone_Uplift.csv,Average_Price,numeric,500,43207956.2967501; 1857834.9134610984; 17865758.389014874
+data/results_and_gis/Alternative Metro/With Maroubra/30 Mins_maroubra.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Alternative Metro/With Maroubra/30 Mins_maroubra.csv,EMP_2016,numeric,500,304694.0583; 396846.7274; 534205.9668
+data/results_and_gis/Alternative Metro/With Maroubra/30 Mins_maroubra.csv,EMP_2016,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Alternative Metro/With Maroubra/30 Mins_maroubra.csv,unnamed_4,numeric,500,1.68E-05; 6.80E+03; 2.84E+04
+data/results_and_gis/Alternative Metro/With Maroubra/30 Mins_maroubra.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Alternative Metro/With Maroubra/30 Mins_maroubra.csv,unnamed_6,numeric,500,6.83E-06; 8.90E-06; 1.20E-05
+data/results_and_gis/Alternative Metro/With Maroubra/30 Mins_maroubra.csv,unnamed_7,integer,1,"46,186"
+data/results_and_gis/Alternative Metro/With Maroubra/45 Mins_maroubra.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Alternative Metro/With Maroubra/45 Mins_maroubra.csv,EMP_2016,numeric,500,653687.1063; 789068.3799; 951203.002
+data/results_and_gis/Alternative Metro/With Maroubra/45 Mins_maroubra.csv,EMP_2016,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/Alternative Metro/With Maroubra/45 Mins_maroubra.csv,unnamed_4,numeric,500,16634.05749; 34524.341; 39010.37311
+data/results_and_gis/Alternative Metro/With Maroubra/45 Mins_maroubra.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Alternative Metro/With Maroubra/45 Mins_maroubra.csv,unnamed_6,numeric,500,1.47E-05; 1.77E-05; 2.13E-05
+data/results_and_gis/Alternative Metro/With Maroubra/45 Mins_maroubra.csv,unnamed_7,integer,1,"185,848"
+data/results_and_gis/Alternative Metro/With Maroubra/60 Mins_maroubra.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Alternative Metro/With Maroubra/60 Mins_maroubra.csv,EMP_2016,numeric,500,1132630.965; 1217612.351; 1354749.752
+data/results_and_gis/Alternative Metro/With Maroubra/60 Mins_maroubra.csv,EMP_2016,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/Alternative Metro/With Maroubra/60 Mins_maroubra.csv,unnamed_4,numeric,500,32699.80052; 28862.67429; 18152.28071
+data/results_and_gis/Alternative Metro/With Maroubra/60 Mins_maroubra.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Alternative Metro/With Maroubra/60 Mins_maroubra.csv,unnamed_6,numeric,500,2.54E-05; 2.73E-05; 3.04E-05
+data/results_and_gis/Alternative Metro/With Maroubra/60 Mins_maroubra.csv,unnamed_7,integer,1,"453,859"
+data/results_and_gis/Alternative Metro/With Maroubra/Alternative Metro Maroubra LVA_v2.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Alternative Metro/With Maroubra/Alternative Metro Maroubra LVA_v2.csv,Base 30 Mins,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Alternative Metro/With Maroubra/Alternative Metro Maroubra LVA_v2.csv,30 Mins,numeric,500,1.68E-05; 6.80E+03; 2.84E+04
+data/results_and_gis/Alternative Metro/With Maroubra/Alternative Metro Maroubra LVA_v2.csv,Base 45 Mins,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/Alternative Metro/With Maroubra/Alternative Metro Maroubra LVA_v2.csv,45 Mins,numeric,500,16634.05749; 34524.341; 39010.37311
+data/results_and_gis/Alternative Metro/With Maroubra/Alternative Metro Maroubra LVA_v2.csv,Base 60 Mins,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/Alternative Metro/With Maroubra/Alternative Metro Maroubra LVA_v2.csv,60 Mins,numeric,500,32699.80052; 28862.67429; 18152.28071
+data/results_and_gis/Alternative Metro/With Maroubra/Alternative Metro Maroubra LVA_v2.csv,TZ16_CODE,integer,500,1; 2; 3
+data/results_and_gis/Alternative Metro/With Maroubra/Alternative Metro Maroubra LVA_v2.csv,unnamed_9,text,500,YES; YES; YES
+data/results_and_gis/Alternative Metro/With Maroubra/Alternative Metro Maroubra LVA_v2.csv,TZ16_NAME,text,500,Barangaroo_Headland Park; Barangaroo_Northern Cove; Barangaroo_Southern Cove
+data/results_and_gis/Alternative Metro/With Maroubra/Alternative Metro Maroubra LVA_v2.csv,Tz16_Area,numeric,500,64884.12626; 74488.64591; 30794.77399
+data/results_and_gis/Alternative Metro/With Maroubra/TravelZone_Uplift.csv,TZ16_CODE,integer,500,3; 4; 5
+data/results_and_gis/Alternative Metro/With Maroubra/TravelZone_Uplift.csv,30_lin,numeric,500,117394225.871; 4735009.5; 47991918.0
+data/results_and_gis/Alternative Metro/With Maroubra/TravelZone_Uplift.csv,45_lin,numeric,500,54081862.208929405; 2552594.4265422164; 23096753.222528137
+data/results_and_gis/Alternative Metro/With Maroubra/TravelZone_Uplift.csv,60_lin,numeric,500,11774606.720359735; 501831.67509226507; 4540745.8057064405
+data/results_and_gis/Alternative Metro/With Maroubra/TravelZone_Uplift.csv,30_log,numeric,500,10234396.232832594; 304675.26883710374; 3989539.480974101
+data/results_and_gis/Alternative Metro/With Maroubra/TravelZone_Uplift.csv,45_log,numeric,500,8467827.808729272; 294153.54010629974; 3441635.7208068
+data/results_and_gis/Alternative Metro/With Maroubra/TravelZone_Uplift.csv,60_log,numeric,500,2655333.108430612; 85214.09201921274; 988746.4914843679
+data/results_and_gis/Alternative Metro/With Maroubra/TravelZone_Uplift.csv,Average_Price,numeric,500,43223593.32706848; 1858089.4953510112; 17876075.922907207
+data/results_and_gis/Alternative Metro/with coogee and maroubra/30 Mins_coogee_maroubra.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Alternative Metro/with coogee and maroubra/30 Mins_coogee_maroubra.csv,EMP_2016,numeric,500,304694.0583; 396846.7274; 534205.9668
+data/results_and_gis/Alternative Metro/with coogee and maroubra/30 Mins_coogee_maroubra.csv,EMP_2016,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Alternative Metro/with coogee and maroubra/30 Mins_coogee_maroubra.csv,unnamed_4,numeric,500,1.68E-05; 6.80E+03; 2.84E+04
+data/results_and_gis/Alternative Metro/with coogee and maroubra/30 Mins_coogee_maroubra.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Alternative Metro/with coogee and maroubra/30 Mins_coogee_maroubra.csv,unnamed_6,numeric,500,6.83E-06; 8.90E-06; 1.20E-05
+data/results_and_gis/Alternative Metro/with coogee and maroubra/30 Mins_coogee_maroubra.csv,unnamed_7,integer,1,"46,230"
+data/results_and_gis/Alternative Metro/with coogee and maroubra/45 Mins_coogee_maroubra.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Alternative Metro/with coogee and maroubra/45 Mins_coogee_maroubra.csv,EMP_2016,numeric,500,653687.1063; 789300.704; 951203.002
+data/results_and_gis/Alternative Metro/with coogee and maroubra/45 Mins_coogee_maroubra.csv,EMP_2016,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/Alternative Metro/with coogee and maroubra/45 Mins_coogee_maroubra.csv,unnamed_4,numeric,500,16634.05749; 34756.66507; 39010.37311
+data/results_and_gis/Alternative Metro/with coogee and maroubra/45 Mins_coogee_maroubra.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Alternative Metro/with coogee and maroubra/45 Mins_coogee_maroubra.csv,unnamed_6,numeric,500,1.47E-05; 1.77E-05; 2.13E-05
+data/results_and_gis/Alternative Metro/with coogee and maroubra/45 Mins_coogee_maroubra.csv,unnamed_7,integer,1,"186,154"
+data/results_and_gis/Alternative Metro/with coogee and maroubra/60 Mins_coogee_maroubra.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Alternative Metro/with coogee and maroubra/60 Mins_coogee_maroubra.csv,EMP_2016,numeric,500,1132630.965; 1217612.351; 1354749.752
+data/results_and_gis/Alternative Metro/with coogee and maroubra/60 Mins_coogee_maroubra.csv,EMP_2016,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/Alternative Metro/with coogee and maroubra/60 Mins_coogee_maroubra.csv,unnamed_4,numeric,500,32699.80052; 28862.67429; 18152.28071
+data/results_and_gis/Alternative Metro/with coogee and maroubra/60 Mins_coogee_maroubra.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Alternative Metro/with coogee and maroubra/60 Mins_coogee_maroubra.csv,unnamed_6,numeric,500,2.54E-05; 2.73E-05; 3.04E-05
+data/results_and_gis/Alternative Metro/with coogee and maroubra/60 Mins_coogee_maroubra.csv,unnamed_7,integer,1,"454,094"
+data/results_and_gis/Alternative Metro/with coogee and maroubra/Alternative Metro Coogee and Maroubra LVA_v2.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Alternative Metro/with coogee and maroubra/Alternative Metro Coogee and Maroubra LVA_v2.csv,Base 30 Mins,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Alternative Metro/with coogee and maroubra/Alternative Metro Coogee and Maroubra LVA_v2.csv,30 Mins,numeric,500,1.68E-05; 6.80E+03; 2.84E+04
+data/results_and_gis/Alternative Metro/with coogee and maroubra/Alternative Metro Coogee and Maroubra LVA_v2.csv,Base 45 Mins,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/Alternative Metro/with coogee and maroubra/Alternative Metro Coogee and Maroubra LVA_v2.csv,45 Mins,numeric,500,16634.05749; 34756.66507; 39010.37311
+data/results_and_gis/Alternative Metro/with coogee and maroubra/Alternative Metro Coogee and Maroubra LVA_v2.csv,Base 60 Mins,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/Alternative Metro/with coogee and maroubra/Alternative Metro Coogee and Maroubra LVA_v2.csv,60 Mins,numeric,500,32699.80052; 28862.67429; 18152.28071
+data/results_and_gis/Alternative Metro/with coogee and maroubra/Alternative Metro Coogee and Maroubra LVA_v2.csv,TZ16_CODE,integer,500,1; 2; 3
+data/results_and_gis/Alternative Metro/with coogee and maroubra/Alternative Metro Coogee and Maroubra LVA_v2.csv,unnamed_9,text,500,YES; YES; YES
+data/results_and_gis/Alternative Metro/with coogee and maroubra/Alternative Metro Coogee and Maroubra LVA_v2.csv,TZ16_NAME,text,500,Barangaroo_Headland Park; Barangaroo_Northern Cove; Barangaroo_Southern Cove
+data/results_and_gis/Alternative Metro/with coogee and maroubra/Alternative Metro Coogee and Maroubra LVA_v2.csv,Tz16_Area,numeric,500,64884.12626; 74488.64591; 30794.77399
+data/results_and_gis/Alternative Metro/with coogee and maroubra/TravelZone_Uplift.csv,TZ16_CODE,integer,500,3; 4; 5
+data/results_and_gis/Alternative Metro/with coogee and maroubra/TravelZone_Uplift.csv,30_lin,numeric,500,117394225.871; 4735009.5; 47991918.0
+data/results_and_gis/Alternative Metro/with coogee and maroubra/TravelZone_Uplift.csv,45_lin,numeric,500,54081862.208929405; 2552594.4265422164; 23096753.222528137
+data/results_and_gis/Alternative Metro/with coogee and maroubra/TravelZone_Uplift.csv,60_lin,numeric,500,11774606.720359735; 501831.67509226507; 4540745.8057064405
+data/results_and_gis/Alternative Metro/with coogee and maroubra/TravelZone_Uplift.csv,30_log,numeric,500,10234396.232832594; 304675.26883710374; 3989539.480974101
+data/results_and_gis/Alternative Metro/with coogee and maroubra/TravelZone_Uplift.csv,45_log,numeric,500,8467827.808729272; 294153.54010629974; 3441635.7208068
+data/results_and_gis/Alternative Metro/with coogee and maroubra/TravelZone_Uplift.csv,60_log,numeric,500,2655333.108430612; 85214.09201921274; 988746.4914843679
+data/results_and_gis/Alternative Metro/with coogee and maroubra/TravelZone_Uplift.csv,Average_Price,numeric,500,43223593.32706848; 1858089.4953510112; 17876075.922907207
+data/results_and_gis/Base Case Data/Version 2/base_case_30mins_v2.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Base Case Data/Version 2/base_case_30mins_v2.csv,EMP_2016,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Base Case Data/Version 2/base_case_30mins_v2.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Base Case Data/Version 2/base_case_30mins_v2.csv,unnamed_4,numeric,500,6.83E-06; 8.75E-06; 1.13E-05
+data/results_and_gis/Base Case Data/Version 2/base_case_30mins_v2.csv,unnamed_5,integer,1,"42,229"
+data/results_and_gis/Base Case Data/Version 2/base_case_45mins_v2.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Base Case Data/Version 2/base_case_45mins_v2.csv,EMP_2016,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/Base Case Data/Version 2/base_case_45mins_v2.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Base Case Data/Version 2/base_case_45mins_v2.csv,unnamed_4,numeric,500,1.43E-05; 1.69E-05; 2.05E-05
+data/results_and_gis/Base Case Data/Version 2/base_case_45mins_v2.csv,unnamed_5,integer,1,"175,828"
+data/results_and_gis/Base Case Data/Version 2/base_case_60mins_v2.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Base Case Data/Version 2/base_case_60mins_v2.csv,EMP_2016,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/Base Case Data/Version 2/base_case_60mins_v2.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Base Case Data/Version 2/base_case_60mins_v2.csv,unnamed_4,numeric,500,2.47E-05; 2.67E-05; 3.00E-05
+data/results_and_gis/Base Case Data/Version 2/base_case_60mins_v2.csv,unnamed_5,integer,1,"441,170"
+data/results_and_gis/Base Case Data/base LVAv2.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Base Case Data/base LVAv2.csv,Base 30 Mins,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Base Case Data/base LVAv2.csv,Base 45 Mins,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/Base Case Data/base LVAv2.csv,Base 60 Mins,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/Base Case Data/base LVAv2.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Base Case Data/base LVAv2.csv,TZ16_CODE,integer,500,1; 2; 3
+data/results_and_gis/Base Case Data/base LVAv2.csv,unnamed_7,text,500,YES; YES; YES
+data/results_and_gis/Base Case Data/base LVAv2.csv,TZ16_NAME,text,500,Barangaroo_Headland Park; Barangaroo_Northern Cove; Barangaroo_Southern Cove
+data/results_and_gis/Base Case Data/base LVAv2.csv,Tz16_Area,numeric,500,64884.12626; 74488.64591; 30794.77399
+data/results_and_gis/Base Case Data/base LVAv2.csv,SA2_Name16,text,500,Sydney - Haymarket - The Rocks; Sydney - Haymarket - The Rocks; Sydney - Haymarket - The Rocks
+data/results_and_gis/Base Case Data/base_case_30_mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Base Case Data/base_case_30_mins.csv,EMP_2016,numeric,500,304694.05831676; 389946.27954734; 505826.84422898
+data/results_and_gis/Base Case Data/base_case_60mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Base Case Data/base_case_60mins.csv,EMP_2016,numeric,500,1108980.444872382; 1185730.010757112; 1338120.252436902
+data/results_and_gis/Base Case Data/sa3_access.csv,SA3,text,44,Sydney Inner City; North Sydney - Mosman; Leichhardt
+data/results_and_gis/Base Case Data/sa3_access.csv,PWA_30,numeric,44,342153.4394206101; 192394.9861007665; 122162.2917241765
+data/results_and_gis/Base Case Data/sa3_access.csv,PWA_45,numeric,44,805671.6530428824; 586378.8621262902; 587086.8817053925
+data/results_and_gis/Base Case Data/sa3_access.csv,PWA_60,numeric,44,1205422.4178466096; 997924.0339304685; 995130.561480654
+data/results_and_gis/Base Case Data/sa3_access.csv,average,numeric,44,784415.836770034; 592232.6273858417; 568126.5783034078
+data/results_and_gis/Base Case Data/sa4_access.csv,SA4,text,15,Sydney - City and Inner South; Sydney - Eastern Suburbs; Sydney - Inner West
+data/results_and_gis/Base Case Data/sa4_access.csv,PWA_30,integer,14,"257,238; 65,780; 60,817"
+data/results_and_gis/Base Case Data/sa4_access.csv,PWA_45,integer,14,"688,542; 348,176; 438,781"
+data/results_and_gis/Base Case Data/sa4_access.csv,PWA_60,integer,14,"1,111,554; 741,563; 1,022,231"
+data/results_and_gis/Base Case Data/sa4_access.csv,average,integer,14,"685,778; 385,173; 507,276"
+data/results_and_gis/Base Case Data/sa4_access.csv,unnamed_6,integer,14,1; 3; 2
+data/results_and_gis/Bradfield Proposal/30 Min accessibility.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Bradfield Proposal/30 Min accessibility.csv,EMP_2016,numeric,500,304694.0583; 389946.2795; 508230.7839
+data/results_and_gis/Bradfield Proposal/30 Min accessibility.csv,unnamed_3,numeric,500,304694.0583; 389946.2795; 505826.8442
+data/results_and_gis/Bradfield Proposal/30 Min accessibility.csv,unnamed_4,numeric,500,0; 0; 2403.939688
+data/results_and_gis/Bradfield Proposal/60 Min accessibility.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Bradfield Proposal/60 Min accessibility.csv,EMP_2016,numeric,500,1125266.949278282; 1198396.755609242; 1343451.129396602
+data/results_and_gis/Bradfield Proposal/60 Min accessibility.csv,unnamed_3,numeric,500,1108980.444872382; 1185730.010757112; 1338120.252436902
+data/results_and_gis/Bradfield Proposal/60 Min accessibility.csv,unnamed_4,numeric,500,16286.50441; 12666.74485; 5330.87696
+data/results_and_gis/Bradfield Proposal/Bradfield Full LVA v2.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Bradfield Proposal/Bradfield Full LVA v2.csv,Base 30 Mins,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Bradfield Proposal/Bradfield Full LVA v2.csv,30 Mins,numeric,500,1.68E-05; -4.51E-05; 2.90E-05
+data/results_and_gis/Bradfield Proposal/Bradfield Full LVA v2.csv,Base 45 Mins,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/Bradfield Proposal/Bradfield Full LVA v2.csv,45 Mins,numeric,500,0; 7034.198669; 9406.770715
+data/results_and_gis/Bradfield Proposal/Bradfield Full LVA v2.csv,Base 60 Mins,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/Bradfield Proposal/Bradfield Full LVA v2.csv,60 Mins,numeric,500,14723.35605; 10887.85361; 4294.655836
+data/results_and_gis/Bradfield Proposal/Bradfield Full LVA v2.csv,TZ16_CODE,integer,500,1; 2; 3
+data/results_and_gis/Bradfield Proposal/Bradfield Full LVA v2.csv,unnamed_9,text,500,YES; YES; YES
+data/results_and_gis/Bradfield Proposal/Bradfield Full LVA v2.csv,TZ16_NAME,text,500,Barangaroo_Headland Park; Barangaroo_Northern Cove; Barangaroo_Southern Cove
+data/results_and_gis/Bradfield Proposal/Bradfield Full LVA v2.csv,Tz16_Area,numeric,500,64884.12626; 74488.64591; 30794.77399
+data/results_and_gis/Bradfield Proposal/Bradfield_v2 30 min accessibility.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Bradfield Proposal/Bradfield_v2 30 min accessibility.csv,EMP_2016,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Bradfield Proposal/Bradfield_v2 30 min accessibility.csv,unnamed_3,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Bradfield Proposal/Bradfield_v2 30 min accessibility.csv,unnamed_4,numeric,500,1.68E-05; -4.51E-05; 2.90E-05
+data/results_and_gis/Bradfield Proposal/Bradfield_v2 30 min accessibility.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Bradfield Proposal/Bradfield_v2 30 min accessibility.csv,unnamed_6,numeric,500,6.83E-06; 8.75E-06; 1.13E-05
+data/results_and_gis/Bradfield Proposal/Bradfield_v2 30 min accessibility.csv,unnamed_7,integer,1,"42,938"
+data/results_and_gis/Bradfield Proposal/Bradfield_v2 45 min accessibility.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Bradfield Proposal/Bradfield_v2 45 min accessibility.csv,EMP_2016,numeric,500,637053.0488; 761578.2376; 921599.3996
+data/results_and_gis/Bradfield Proposal/Bradfield_v2 45 min accessibility.csv,unnamed_3,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/Bradfield Proposal/Bradfield_v2 45 min accessibility.csv,unnamed_4,numeric,500,0; 7034.198669; 9406.770715
+data/results_and_gis/Bradfield Proposal/Bradfield_v2 45 min accessibility.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Bradfield Proposal/Bradfield_v2 45 min accessibility.csv,unnamed_6,numeric,500,1.43E-05; 1.71E-05; 2.07E-05
+data/results_and_gis/Bradfield Proposal/Bradfield_v2 45 min accessibility.csv,unnamed_7,integer,1,"181,332"
+data/results_and_gis/Bradfield Proposal/Bradfield_v2 60 min accessibility.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Bradfield Proposal/Bradfield_v2 60 min accessibility.csv,EMP_2016,numeric,500,1114654.52; 1199637.53; 1340892.127
+data/results_and_gis/Bradfield Proposal/Bradfield_v2 60 min accessibility.csv,unnamed_3,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/Bradfield Proposal/Bradfield_v2 60 min accessibility.csv,unnamed_4,numeric,500,14723.35605; 10887.85361; 4294.655836
+data/results_and_gis/Bradfield Proposal/Bradfield_v2 60 min accessibility.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Bradfield Proposal/Bradfield_v2 60 min accessibility.csv,unnamed_6,numeric,500,2.50E-05; 2.69E-05; 3.01E-05
+data/results_and_gis/Bradfield Proposal/Bradfield_v2 60 min accessibility.csv,unnamed_7,integer,1,"448,770"
+data/results_and_gis/Bradfield Proposal/Stage 1/Bradfield Sydenham LVA v2.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Bradfield Proposal/Stage 1/Bradfield Sydenham LVA v2.csv,Base 30 Mins,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Bradfield Proposal/Stage 1/Bradfield Sydenham LVA v2.csv,30 Mins,numeric,500,1.68E-05; -4.51E-05; 2.90E-05
+data/results_and_gis/Bradfield Proposal/Stage 1/Bradfield Sydenham LVA v2.csv,Base 45 Mins,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/Bradfield Proposal/Stage 1/Bradfield Sydenham LVA v2.csv,45 Mins,numeric,500,830.833583; 7034.198669; 9323.853727
+data/results_and_gis/Bradfield Proposal/Stage 1/Bradfield Sydenham LVA v2.csv,Base 60 Mins,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/Bradfield Proposal/Stage 1/Bradfield Sydenham LVA v2.csv,60 Mins,numeric,500,11694.59058; 8360.527733; 1487.94581
+data/results_and_gis/Bradfield Proposal/Stage 1/Bradfield Sydenham LVA v2.csv,TZ16_CODE,integer,500,1; 2; 3
+data/results_and_gis/Bradfield Proposal/Stage 1/Bradfield Sydenham LVA v2.csv,unnamed_9,text,500,YES; YES; YES
+data/results_and_gis/Bradfield Proposal/Stage 1/Bradfield Sydenham LVA v2.csv,TZ16_NAME,text,500,Barangaroo_Headland Park; Barangaroo_Northern Cove; Barangaroo_Southern Cove
+data/results_and_gis/Bradfield Proposal/Stage 1/Bradfield Sydenham LVA v2.csv,Tz16_Area,numeric,500,64884.12626; 74488.64591; 30794.77399
+data/results_and_gis/Bradfield Proposal/Stage 1/Bradfield_stage 1 30 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Bradfield Proposal/Stage 1/Bradfield_stage 1 30 mins.csv,EMP_2016,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Bradfield Proposal/Stage 1/Bradfield_stage 1 30 mins.csv,unnamed_3,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Bradfield Proposal/Stage 1/Bradfield_stage 1 30 mins.csv,unnamed_4,numeric,500,1.68E-05; -4.51E-05; 2.90E-05
+data/results_and_gis/Bradfield Proposal/Stage 1/Bradfield_stage 1 30 mins.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Bradfield Proposal/Stage 1/Bradfield_stage 1 30 mins.csv,unnamed_6,numeric,500,6.83E-06; 8.75E-06; 1.13E-05
+data/results_and_gis/Bradfield Proposal/Stage 1/Bradfield_stage 1 30 mins.csv,unnamed_7,integer,1,"43,468"
+data/results_and_gis/Bradfield Proposal/Stage 1/TravelZone_Uplift.csv,TZ16_CODE,integer,500,3; 4; 5
+data/results_and_gis/Bradfield Proposal/Stage 1/TravelZone_Uplift.csv,30_lin,numeric,500,0.1198743855725; 0.00028997345; 0.060446568
+data/results_and_gis/Bradfield Proposal/Stage 1/TravelZone_Uplift.csv,45_lin,numeric,500,12926084.32885165; 827212.2224499041; 7484900.976209064
+data/results_and_gis/Bradfield Proposal/Stage 1/TravelZone_Uplift.csv,60_lin,numeric,500,965166.6924864954; 25946.13420143337; 135676.1354504861
+data/results_and_gis/Bradfield Proposal/Stage 1/TravelZone_Uplift.csv,30_log,numeric,500,0.01045061587155441; 1.8658407936535812e-05; 0.00502488709714385
+data/results_and_gis/Bradfield Proposal/Stage 1/TravelZone_Uplift.csv,45_log,numeric,500,2023892.1491826428; 95325.52493364728; 1115321.3751834475
+data/results_and_gis/Bradfield Proposal/Stage 1/TravelZone_Uplift.csv,60_log,numeric,500,217658.1464315403; 4405.812500730018; 29543.451372291755
+data/results_and_gis/Bradfield Proposal/Stage 1/TravelZone_Uplift.csv,Average_Price,numeric,500,4630417.028833549; 284386.1189352178; 2540192.3814650923
+data/results_and_gis/Bradfield Proposal/Stage 1/bradfield_stage 1 45 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Bradfield Proposal/Stage 1/bradfield_stage 1 45 mins.csv,EMP_2016,numeric,500,637883.8823; 761578.2376; 921516.4826
+data/results_and_gis/Bradfield Proposal/Stage 1/bradfield_stage 1 45 mins.csv,unnamed_3,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/Bradfield Proposal/Stage 1/bradfield_stage 1 45 mins.csv,unnamed_4,numeric,500,830.833583; 7034.198669; 9323.853727
+data/results_and_gis/Bradfield Proposal/Stage 1/bradfield_stage 1 45 mins.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Bradfield Proposal/Stage 1/bradfield_stage 1 45 mins.csv,unnamed_6,numeric,500,1.43E-05; 1.71E-05; 2.07E-05
+data/results_and_gis/Bradfield Proposal/Stage 1/bradfield_stage 1 45 mins.csv,unnamed_7,integer,1,"181,495"
+data/results_and_gis/Bradfield Proposal/Stage 1/bradfield_stage 1 60 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Bradfield Proposal/Stage 1/bradfield_stage 1 60 mins.csv,EMP_2016,numeric,500,1111625.755; 1197110.204; 1338085.417
+data/results_and_gis/Bradfield Proposal/Stage 1/bradfield_stage 1 60 mins.csv,unnamed_3,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/Bradfield Proposal/Stage 1/bradfield_stage 1 60 mins.csv,unnamed_4,numeric,500,11694.59058; 8360.527733; 1487.94581
+data/results_and_gis/Bradfield Proposal/Stage 1/bradfield_stage 1 60 mins.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Bradfield Proposal/Stage 1/bradfield_stage 1 60 mins.csv,unnamed_6,numeric,500,2.49E-05; 2.68E-05; 3.00E-05
+data/results_and_gis/Bradfield Proposal/Stage 1/bradfield_stage 1 60 mins.csv,unnamed_7,integer,1,"448,502"
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/Bradfield Malabar & Sydenham LVA v2.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/Bradfield Malabar & Sydenham LVA v2.csv,Base 30 Mins,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/Bradfield Malabar & Sydenham LVA v2.csv,30 Mins,numeric,500,1.68E-05; -4.51E-05; 2.90E-05
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/Bradfield Malabar & Sydenham LVA v2.csv,Base 45 Mins,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/Bradfield Malabar & Sydenham LVA v2.csv,45 Mins,numeric,500,-4.53E-05; 7034.198669; 9323.853727
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/Bradfield Malabar & Sydenham LVA v2.csv,Base 60 Mins,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/Bradfield Malabar & Sydenham LVA v2.csv,60 Mins,numeric,500,13887.96586; 11047.81902; 5399.975684
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/Bradfield Malabar & Sydenham LVA v2.csv,TZ16_CODE,integer,500,1; 2; 3
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/Bradfield Malabar & Sydenham LVA v2.csv,unnamed_9,text,500,YES; YES; YES
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/Bradfield Malabar & Sydenham LVA v2.csv,TZ16_NAME,text,500,Barangaroo_Headland Park; Barangaroo_Northern Cove; Barangaroo_Southern Cove
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/Bradfield Malabar & Sydenham LVA v2.csv,Tz16_Area,numeric,500,64884.12626; 74488.64591; 30794.77399
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/Malabar&Sydenham 30 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/Malabar&Sydenham 30 mins.csv,EMP_2016,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/Malabar&Sydenham 30 mins.csv,EMP_2016,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/Malabar&Sydenham 30 mins.csv,unnamed_4,numeric,500,1.676E-05; -4.506E-05; 2.898E-05
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/Malabar&Sydenham 30 mins.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/Malabar&Sydenham 30 mins.csv,unnamed_6,numeric,500,6.83257E-06; 8.74655E-06; 1.13429E-05
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/Malabar&Sydenham 30 mins.csv,unnamed_7,integer,1,"43,249"
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/Malabar&Sydenham 45 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/Malabar&Sydenham 45 mins.csv,EMP_2016,numeric,500,637053.0488; 761578.2376; 921516.4826
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/Malabar&Sydenham 45 mins.csv,EMP_2016,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/Malabar&Sydenham 45 mins.csv,unnamed_4,numeric,500,-4.534E-05; 7034.198669; 9323.853727
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/Malabar&Sydenham 45 mins.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/Malabar&Sydenham 45 mins.csv,unnamed_6,numeric,500,1.42855E-05; 1.70779E-05; 2.06644E-05
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/Malabar&Sydenham 45 mins.csv,unnamed_7,integer,1,"181,016"
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/Malabar&Sydenham V2 60mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/Malabar&Sydenham V2 60mins.csv,EMP_2016,numeric,500,1113819.13; 1199797.496; 1341997.447
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/Malabar&Sydenham V2 60mins.csv,EMP_2016,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/Malabar&Sydenham V2 60mins.csv,unnamed_4,numeric,500,13887.96586; 11047.81902; 5399.975684
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/Malabar&Sydenham V2 60mins.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/Malabar&Sydenham V2 60mins.csv,unnamed_6,numeric,500,2.50E-05; 2.69E-05; 3.01E-05
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/Malabar&Sydenham V2 60mins.csv,unnamed_7,integer,1,"448,195"
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/TravelZone_Uplift.csv,TZ16_CODE,integer,500,3; 4; 5
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/TravelZone_Uplift.csv,30_lin,numeric,500,0.1198743855725; 0.00028997345; 0.060446568
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/TravelZone_Uplift.csv,45_lin,numeric,500,12926084.32885165; 827212.212601536; 7484900.976209064
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/TravelZone_Uplift.csv,60_lin,numeric,500,3502732.851832675; 135792.034412907; 1228693.1269018753
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/TravelZone_Uplift.csv,30_log,numeric,500,0.01045061587155441; 1.8658407936535812e-05; 0.00502488709714385
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/TravelZone_Uplift.csv,45_log,numeric,500,2023892.1491826428; 95325.52379875007; 1115321.3751834475
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/TravelZone_Uplift.csv,60_log,numeric,500,789913.6448758367; 23058.319134219822; 267547.6827635762
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/TravelZone_Uplift.csv,Average_Price,numeric,500,5476272.4152822755; 321001.4157229196; 2904531.378615556
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/V1/Bradfield Stage 1 and 2 30 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/V1/Bradfield Stage 1 and 2 30 mins.csv,EMP_2016,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/V1/Bradfield Stage 1 and 2 30 mins.csv,unnamed_3,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/V1/Bradfield Stage 1 and 2 30 mins.csv,unnamed_4,numeric,500,1.676E-05; -4.51E-05; 2.898E-05
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/V1/Bradfield Stage 1 and 2 30 mins.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/V1/Bradfield Stage 1 and 2 30 mins.csv,unnamed_6,numeric,500,1.95798E-05; 2.50645E-05; 3.25046E-05
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/V1/Bradfield Stage 1 and 2 30 mins.csv,unnamed_7,numeric,1,122026.787
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/V1/Bradfield Stage 1 and 2 45 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/V1/Bradfield Stage 1 and 2 45 mins.csv,EMP_2016,numeric,500,637053.0487546601; 755411.9956; 915972.4289
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/V1/Bradfield Stage 1 and 2 45 mins.csv,unnamed_3,numeric,500,637053.0487546601; 754544.0389; 912192.6289
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/V1/Bradfield Stage 1 and 2 45 mins.csv,unnamed_4,numeric,500,0; 867.9566693; 3779.800021
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/V1/Bradfield Stage 1 and 2 45 mins.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/V1/Bradfield Stage 1 and 2 45 mins.csv,unnamed_6,numeric,500,4.09373E-05; 4.85431E-05; 5.88607E-05
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/V1/Bradfield Stage 1 and 2 45 mins.csv,unnamed_7,numeric,1,511306.0568
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/V1/Bradfield Stage 1 and 2 60 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/V1/Bradfield Stage 1 and 2 60 mins.csv,EMP_2016,numeric,500,1104755.402194682; 1193503.855636812; 1338820.125538492
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/V1/Bradfield Stage 1 and 2 60 mins.csv,unnamed_3,numeric,500,1099931.164306382; 1188749.676568212; 1336597.471175692
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/V1/Bradfield Stage 1 and 2 60 mins.csv,unnamed_4,numeric,500,4824.237888; 4754.179069; 2222.654363
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/V1/Bradfield Stage 1 and 2 60 mins.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/V1/Bradfield Stage 1 and 2 60 mins.csv,unnamed_6,numeric,500,7.0992E-05; 7.6695E-05; 8.60331E-05
+data/results_and_gis/Bradfield Proposal/Stage 1 and 2/V1/Bradfield Stage 1 and 2 60 mins.csv,unnamed_7,numeric,1,1272698.565
+data/results_and_gis/Bradfield Proposal/Stage 2/Bradfield Malabar LVA v2.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Bradfield Proposal/Stage 2/Bradfield Malabar LVA v2.csv,Base 30 Mins,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Bradfield Proposal/Stage 2/Bradfield Malabar LVA v2.csv,30 Mins,numeric,500,1.68E-05; -4.51E-05; 2.90E-05
+data/results_and_gis/Bradfield Proposal/Stage 2/Bradfield Malabar LVA v2.csv,Base 45 Mins,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/Bradfield Proposal/Stage 2/Bradfield Malabar LVA v2.csv,45 Mins,numeric,500,830.833583; 7034.198669; 8817.568395
+data/results_and_gis/Bradfield Proposal/Stage 2/Bradfield Malabar LVA v2.csv,Base 60 Mins,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/Bradfield Proposal/Stage 2/Bradfield Malabar LVA v2.csv,60 Mins,numeric,500,9463.56363; 8360.527733; 1487.94581
+data/results_and_gis/Bradfield Proposal/Stage 2/Bradfield Malabar LVA v2.csv,TZ16_CODE,integer,500,1; 2; 3
+data/results_and_gis/Bradfield Proposal/Stage 2/Bradfield Malabar LVA v2.csv,unnamed_9,text,500,YES; YES; YES
+data/results_and_gis/Bradfield Proposal/Stage 2/Bradfield Malabar LVA v2.csv,TZ16_NAME,text,500,Barangaroo_Headland Park; Barangaroo_Northern Cove; Barangaroo_Southern Cove
+data/results_and_gis/Bradfield Proposal/Stage 2/Bradfield Malabar LVA v2.csv,Tz16_Area,numeric,500,64884.12626; 74488.64591; 30794.77399
+data/results_and_gis/Bradfield Proposal/Stage 2/TravelZone_Uplift.csv,TZ16_CODE,integer,500,3; 4; 5
+data/results_and_gis/Bradfield Proposal/Stage 2/TravelZone_Uplift.csv,30_lin,numeric,500,0.1198743855725; 0.00028997345; 0.060446568
+data/results_and_gis/Bradfield Proposal/Stage 2/TravelZone_Uplift.csv,45_lin,numeric,500,12224197.846340485; 827212.2224499041; 7484900.976209064
+data/results_and_gis/Bradfield Proposal/Stage 2/TravelZone_Uplift.csv,60_lin,numeric,500,965166.6924864954; 14994.581511055561; 135676.1354504861
+data/results_and_gis/Bradfield Proposal/Stage 2/TravelZone_Uplift.csv,30_log,numeric,500,0.01045061587155441; 1.8658407936535812e-05; 0.00502488709714385
+data/results_and_gis/Bradfield Proposal/Stage 2/TravelZone_Uplift.csv,45_log,numeric,500,1913994.7892837096; 95325.52493364728; 1115321.3751834475
+data/results_and_gis/Bradfield Proposal/Stage 2/TravelZone_Uplift.csv,60_log,numeric,500,217658.1464315403; 2546.1717784907696; 29543.451372291755
+data/results_and_gis/Bradfield Proposal/Stage 2/TravelZone_Uplift.csv,Average_Price,numeric,500,4396454.867996494; 280735.60137175856; 2540192.3814650923
+data/results_and_gis/Bradfield Proposal/Stage 2/bradfield malabar 30 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Bradfield Proposal/Stage 2/bradfield malabar 30 mins.csv,EMP_2016,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Bradfield Proposal/Stage 2/bradfield malabar 30 mins.csv,unnamed_3,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Bradfield Proposal/Stage 2/bradfield malabar 30 mins.csv,unnamed_4,numeric,500,1.68E-05; -4.51E-05; 2.90E-05
+data/results_and_gis/Bradfield Proposal/Stage 2/bradfield malabar 30 mins.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Bradfield Proposal/Stage 2/bradfield malabar 30 mins.csv,unnamed_6,numeric,500,6.83E-06; 8.75E-06; 1.13E-05
+data/results_and_gis/Bradfield Proposal/Stage 2/bradfield malabar 30 mins.csv,unnamed_7,integer,1,"43,288"
+data/results_and_gis/Bradfield Proposal/Stage 2/bradfield malabar 45 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Bradfield Proposal/Stage 2/bradfield malabar 45 mins.csv,EMP_2016,numeric,500,637883.8823; 761578.2376; 921010.1973
+data/results_and_gis/Bradfield Proposal/Stage 2/bradfield malabar 45 mins.csv,unnamed_3,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/Bradfield Proposal/Stage 2/bradfield malabar 45 mins.csv,unnamed_4,numeric,500,830.833583; 7034.198669; 8817.568395
+data/results_and_gis/Bradfield Proposal/Stage 2/bradfield malabar 45 mins.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Bradfield Proposal/Stage 2/bradfield malabar 45 mins.csv,unnamed_6,numeric,500,1.43E-05; 1.71E-05; 2.07E-05
+data/results_and_gis/Bradfield Proposal/Stage 2/bradfield malabar 45 mins.csv,unnamed_7,integer,1,"182,143"
+data/results_and_gis/Bradfield Proposal/Stage 2/bradfield malabar 60 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Bradfield Proposal/Stage 2/bradfield malabar 60 mins.csv,EMP_2016,numeric,500,1109394.728; 1197110.204; 1338085.417
+data/results_and_gis/Bradfield Proposal/Stage 2/bradfield malabar 60 mins.csv,unnamed_3,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/Bradfield Proposal/Stage 2/bradfield malabar 60 mins.csv,unnamed_4,numeric,500,9463.56363; 8360.527733; 1487.94581
+data/results_and_gis/Bradfield Proposal/Stage 2/bradfield malabar 60 mins.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Bradfield Proposal/Stage 2/bradfield malabar 60 mins.csv,unnamed_6,numeric,500,2.49E-05; 2.68E-05; 3.00E-05
+data/results_and_gis/Bradfield Proposal/Stage 2/bradfield malabar 60 mins.csv,unnamed_7,integer,1,"449,317"
+data/results_and_gis/Bradfield Proposal/Stage 3/Bradfield Vaucluse 30 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Bradfield Proposal/Stage 3/Bradfield Vaucluse 30 mins.csv,EMP_2016,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Bradfield Proposal/Stage 3/Bradfield Vaucluse 30 mins.csv,unnamed_3,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Bradfield Proposal/Stage 3/Bradfield Vaucluse 30 mins.csv,unnamed_4,numeric,500,1.68E-05; -4.51E-05; 2.90E-05
+data/results_and_gis/Bradfield Proposal/Stage 3/Bradfield Vaucluse 30 mins.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Bradfield Proposal/Stage 3/Bradfield Vaucluse 30 mins.csv,unnamed_6,numeric,500,6.83E-06; 8.75E-06; 1.13E-05
+data/results_and_gis/Bradfield Proposal/Stage 3/Bradfield Vaucluse 30 mins.csv,unnamed_7,integer,1,"42,583"
+data/results_and_gis/Bradfield Proposal/Stage 3/Bradfield Vaucluse 45 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Bradfield Proposal/Stage 3/Bradfield Vaucluse 45 mins.csv,EMP_2016,numeric,500,637053.0488; 755411.9956; 915972.4289
+data/results_and_gis/Bradfield Proposal/Stage 3/Bradfield Vaucluse 45 mins.csv,unnamed_3,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/Bradfield Proposal/Stage 3/Bradfield Vaucluse 45 mins.csv,unnamed_4,numeric,500,0; 867.9566693; 3779.800021
+data/results_and_gis/Bradfield Proposal/Stage 3/Bradfield Vaucluse 45 mins.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Bradfield Proposal/Stage 3/Bradfield Vaucluse 45 mins.csv,unnamed_6,numeric,500,1.43E-05; 1.69E-05; 2.05E-05
+data/results_and_gis/Bradfield Proposal/Stage 3/Bradfield Vaucluse 45 mins.csv,unnamed_7,integer,1,"178,426"
+data/results_and_gis/Bradfield Proposal/Stage 3/Bradfield Vaucluse 60 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Bradfield Proposal/Stage 3/Bradfield Vaucluse 60 mins.csv,EMP_2016,numeric,500,1104755.402; 1193503.856; 1338820.126
+data/results_and_gis/Bradfield Proposal/Stage 3/Bradfield Vaucluse 60 mins.csv,unnamed_3,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/Bradfield Proposal/Stage 3/Bradfield Vaucluse 60 mins.csv,unnamed_4,numeric,500,4824.237888; 4754.179069; 2222.654363
+data/results_and_gis/Bradfield Proposal/Stage 3/Bradfield Vaucluse 60 mins.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Bradfield Proposal/Stage 3/Bradfield Vaucluse 60 mins.csv,unnamed_6,numeric,500,2.48E-05; 2.68E-05; 3.00E-05
+data/results_and_gis/Bradfield Proposal/Stage 3/Bradfield Vaucluse 60 mins.csv,unnamed_7,integer,1,"444,122"
+data/results_and_gis/Bradfield Proposal/Stage 3/Bradfield Vaucluse LVA v2.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Bradfield Proposal/Stage 3/Bradfield Vaucluse LVA v2.csv,Base 30 Mins,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Bradfield Proposal/Stage 3/Bradfield Vaucluse LVA v2.csv,30 Mins,numeric,500,1.68E-05; -4.51E-05; 2.90E-05
+data/results_and_gis/Bradfield Proposal/Stage 3/Bradfield Vaucluse LVA v2.csv,Base 45 Mins,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/Bradfield Proposal/Stage 3/Bradfield Vaucluse LVA v2.csv,45 Mins,numeric,500,0; 867.9566693; 3779.800021
+data/results_and_gis/Bradfield Proposal/Stage 3/Bradfield Vaucluse LVA v2.csv,Base 60 Mins,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/Bradfield Proposal/Stage 3/Bradfield Vaucluse LVA v2.csv,60 Mins,numeric,500,4824.237888; 4754.179069; 2222.654363
+data/results_and_gis/Bradfield Proposal/Stage 3/Bradfield Vaucluse LVA v2.csv,TZ16_CODE,integer,500,1; 2; 3
+data/results_and_gis/Bradfield Proposal/Stage 3/Bradfield Vaucluse LVA v2.csv,unnamed_9,text,500,YES; YES; YES
+data/results_and_gis/Bradfield Proposal/Stage 3/Bradfield Vaucluse LVA v2.csv,TZ16_NAME,text,500,Barangaroo_Headland Park; Barangaroo_Northern Cove; Barangaroo_Southern Cove
+data/results_and_gis/Bradfield Proposal/Stage 3/Bradfield Vaucluse LVA v2.csv,Tz16_Area,numeric,500,64884.12626; 74488.64591; 30794.77399
+data/results_and_gis/Bradfield Proposal/Stage 3/TravelZone_Uplift.csv,TZ16_CODE,integer,500,3; 4; 5
+data/results_and_gis/Bradfield Proposal/Stage 3/TravelZone_Uplift.csv,30_lin,numeric,500,0.1198743855725; 0.00028997345; 0.060446568
+data/results_and_gis/Bradfield Proposal/Stage 3/TravelZone_Uplift.csv,45_lin,numeric,500,5240109.427731399; 325556.3482860779; 2281211.5188396
+data/results_and_gis/Bradfield Proposal/Stage 3/TravelZone_Uplift.csv,60_lin,numeric,500,1441740.6505398126; 64011.77885809111; 579200.6113924249
+data/results_and_gis/Bradfield Proposal/Stage 3/TravelZone_Uplift.csv,30_log,numeric,500,0.01045061587155441; 1.8658407936535812e-05; 0.00502488709714385
+data/results_and_gis/Bradfield Proposal/Stage 3/TravelZone_Uplift.csv,45_log,numeric,500,820466.2805712725; 37516.164478252846; 339922.19487787096
+data/results_and_gis/Bradfield Proposal/Stage 3/TravelZone_Uplift.csv,60_log,numeric,500,325132.02131235955; 10869.5921056079; 126120.81734682436
+data/results_and_gis/Bradfield Proposal/Stage 3/TravelZone_Uplift.csv,Average_Price,numeric,500,2227283.3811445707; 129856.04243282833; 953470.7209892509
+data/results_and_gis/Bradfield Proposal/TravelZone_Uplift.csv,TZ16_CODE,integer,500,3; 4; 5
+data/results_and_gis/Bradfield Proposal/TravelZone_Uplift.csv,30_lin,numeric,500,0.1198743855725; 0.00028997345; 0.060446568
+data/results_and_gis/Bradfield Proposal/TravelZone_Uplift.csv,45_lin,numeric,500,13041035.936906023; 900023.390949508; 7611715.209785976
+data/results_and_gis/Bradfield Proposal/TravelZone_Uplift.csv,60_lin,numeric,500,2785759.2264061985; 177207.91188582272; 1603438.1912020538
+data/results_and_gis/Bradfield Proposal/TravelZone_Uplift.csv,30_log,numeric,500,0.01045061587155441; 1.8658407936535812e-05; 0.00502488709714385
+data/results_and_gis/Bradfield Proposal/TravelZone_Uplift.csv,45_log,numeric,500,2041890.612689327; 103716.07172428942; 1134217.9011141716
+data/results_and_gis/Bradfield Proposal/TravelZone_Uplift.csv,60_log,numeric,500,628226.3927509277; 30090.98879060333; 349148.3456023187
+data/results_and_gis/Bradfield Proposal/TravelZone_Uplift.csv,Average_Price,numeric,500,5275598.409491574; 359077.10099654883; 3071717.811241253
+data/results_and_gis/Combination Proposal/30 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Combination Proposal/30 mins.csv,EMP_2016,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Combination Proposal/30 mins.csv,EMP_2016,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Combination Proposal/30 mins.csv,unnamed_4,numeric,500,0; 0; 0
+data/results_and_gis/Combination Proposal/30 mins.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Combination Proposal/30 mins.csv,unnamed_6,numeric,500,6.83E-06; 8.75E-06; 1.13E-05
+data/results_and_gis/Combination Proposal/30 mins.csv,unnamed_7,integer,1,"43,316"
+data/results_and_gis/Combination Proposal/30 mins.csv,TZ16_CODE,integer,500,1; 2; 3
+data/results_and_gis/Combination Proposal/30 mins.csv,unnamed_9,text,500,YES; YES; YES
+data/results_and_gis/Combination Proposal/30 mins.csv,TZ16_NAME,text,500,Barangaroo_Headland Park; Barangaroo_Northern Cove; Barangaroo_Southern Cove
+data/results_and_gis/Combination Proposal/30 mins.csv,Tz16_Area,numeric,500,64884.12626; 74488.64591; 30794.77399
+data/results_and_gis/Combination Proposal/30 mins.csv,unnamed_12,numeric,500,0; 0; 0
+data/results_and_gis/Combination Proposal/30 mins.csv,unnamed_13,text,1,"$18,380,492.76"
+data/results_and_gis/Combination Proposal/30 mins.csv,unnamed_14,text,4,Jobs; Factor; Uplift $M
+data/results_and_gis/Combination Proposal/30 mins.csv,unnamed_15,text,2,"Woollahra; $207,542.74"
+data/results_and_gis/Combination Proposal/30 mins.csv,unnamed_16,text,4,"Waverley; 604,232; 0.1727"
+data/results_and_gis/Combination Proposal/30 mins.csv,unnamed_17,text,4,"Randwick; 940,574; 0.1727"
+data/results_and_gis/Combination Proposal/30 mins.csv,unnamed_18,text,5,Rest of Sydney; 948.261004; 0.1727
+data/results_and_gis/Combination Proposal/45 mins combination.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Combination Proposal/45 mins combination.csv,EMP_2016,numeric,500,637883.8823; 761578.2376; 921010.1973
+data/results_and_gis/Combination Proposal/45 mins combination.csv,EMP_2016,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/Combination Proposal/45 mins combination.csv,unnamed_4,numeric,500,830.8335; 7034.1987; 8817.5684
+data/results_and_gis/Combination Proposal/45 mins combination.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Combination Proposal/45 mins combination.csv,unnamed_6,numeric,500,1.43E-05; 1.71E-05; 2.07E-05
+data/results_and_gis/Combination Proposal/45 mins combination.csv,unnamed_7,integer,1,"182,522"
+data/results_and_gis/Combination Proposal/60 mins combination.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Combination Proposal/60 mins combination.csv,EMP_2016,numeric,500,1109394.728; 1197110.204; 1338085.417
+data/results_and_gis/Combination Proposal/60 mins combination.csv,EMP_2016,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/Combination Proposal/60 mins combination.csv,unnamed_4,numeric,500,9463.563937; 8360.527301; 1487.945985
+data/results_and_gis/Combination Proposal/60 mins combination.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Combination Proposal/60 mins combination.csv,unnamed_6,numeric,500,2.49E-05; 2.68E-05; 3.00E-05
+data/results_and_gis/Combination Proposal/60 mins combination.csv,unnamed_7,integer,1,"449,841"
+data/results_and_gis/Combination Proposal/Combination LVA v2.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Combination Proposal/Combination LVA v2.csv,Base 30 Mins,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Combination Proposal/Combination LVA v2.csv,30 Mins,numeric,500,0; 0; 0
+data/results_and_gis/Combination Proposal/Combination LVA v2.csv,Base 45 Mins,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/Combination Proposal/Combination LVA v2.csv,45 Mins,numeric,500,830.8335; 7034.1987; 8817.5684
+data/results_and_gis/Combination Proposal/Combination LVA v2.csv,Base 60 Mins,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/Combination Proposal/Combination LVA v2.csv,60 Mins,numeric,500,9463.563937; 8360.527301; 1487.945985
+data/results_and_gis/Combination Proposal/Combination LVA v2.csv,TZ16_CODE,integer,500,1; 2; 3
+data/results_and_gis/Combination Proposal/Combination LVA v2.csv,unnamed_9,text,500,YES; YES; YES
+data/results_and_gis/Combination Proposal/Combination LVA v2.csv,TZ16_NAME,text,500,Barangaroo_Headland Park; Barangaroo_Northern Cove; Barangaroo_Southern Cove
+data/results_and_gis/Combination Proposal/Combination LVA v2.csv,Tz16_Area,numeric,500,64884.12626; 74488.64591; 30794.77399
+data/results_and_gis/Combination Proposal/Metro_30mins/Combination Metro LVA v2.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Combination Proposal/Metro_30mins/Combination Metro LVA v2.csv,Base 30 Mins,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Combination Proposal/Metro_30mins/Combination Metro LVA v2.csv,30 Mins,numeric,500,1.68E-05; -4.51E-05; 2.90E-05
+data/results_and_gis/Combination Proposal/Metro_30mins/Combination Metro LVA v2.csv,Base 45 Mins,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/Combination Proposal/Metro_30mins/Combination Metro LVA v2.csv,45 Mins,numeric,500,-4.53E-05; 8351.129467; 12937.23459
+data/results_and_gis/Combination Proposal/Metro_30mins/Combination Metro LVA v2.csv,Base 60 Mins,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/Combination Proposal/Metro_30mins/Combination Metro LVA v2.csv,60 Mins,numeric,500,17926.73334; 15347.2787; 8875.2476
+data/results_and_gis/Combination Proposal/Metro_30mins/Combination Metro LVA v2.csv,TZ16_CODE,integer,500,1; 2; 3
+data/results_and_gis/Combination Proposal/Metro_30mins/Combination Metro LVA v2.csv,unnamed_9,text,500,YES; YES; YES
+data/results_and_gis/Combination Proposal/Metro_30mins/Combination Metro LVA v2.csv,TZ16_NAME,text,500,Barangaroo_Headland Park; Barangaroo_Northern Cove; Barangaroo_Southern Cove
+data/results_and_gis/Combination Proposal/Metro_30mins/Combination Metro LVA v2.csv,Tz16_Area,numeric,500,64884.12626; 74488.64591; 30794.77399
+data/results_and_gis/Combination Proposal/Metro_30mins/TravelZone_Uplift.csv,TZ16_CODE,integer,500,3; 4; 5
+data/results_and_gis/Combination Proposal/Metro_30mins/TravelZone_Uplift.csv,30_lin,numeric,500,0.1198743855725; 0.00028997345; 0.060446568
+data/results_and_gis/Combination Proposal/Metro_30mins/TravelZone_Uplift.csv,45_lin,numeric,500,17935479.275937006; 1271197.418404878; 11172086.288467368
+data/results_and_gis/Combination Proposal/Metro_30mins/TravelZone_Uplift.csv,60_lin,numeric,500,5756992.837723509; 194359.96748871572; 1758635.947592777
+data/results_and_gis/Combination Proposal/Metro_30mins/TravelZone_Uplift.csv,30_log,numeric,500,0.01045061587155441; 1.8658407936535812e-05; 0.00502488709714385
+data/results_and_gis/Combination Proposal/Metro_30mins/TravelZone_Uplift.csv,45_log,numeric,500,2808234.4795921445; 146489.08456025715; 1664747.0263838433
+data/results_and_gis/Combination Proposal/Metro_30mins/TravelZone_Uplift.csv,60_log,numeric,500,1298279.768493032; 33003.51288385601; 382942.6260319187
+data/results_and_gis/Combination Proposal/Metro_30mins/TravelZone_Uplift.csv,Average_Price,numeric,500,7897490.726274339; 488519.1286826365; 4310240.756265291
+data/results_and_gis/Combination Proposal/Metro_30mins/metro_com_30.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Combination Proposal/Metro_30mins/metro_com_30.csv,EMP_2016,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Combination Proposal/Metro_30mins/metro_com_30.csv,EMP_2016,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Combination Proposal/Metro_30mins/metro_com_30.csv,unnamed_4,numeric,500,1.676E-05; -4.506E-05; 2.898E-05
+data/results_and_gis/Combination Proposal/Metro_30mins/metro_com_30.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Combination Proposal/Metro_30mins/metro_com_30.csv,unnamed_6,numeric,500,6.83257E-06; 8.74655E-06; 1.13429E-05
+data/results_and_gis/Combination Proposal/Metro_30mins/metro_com_30.csv,unnamed_7,integer,1,"43,719"
+data/results_and_gis/Combination Proposal/Metro_30mins/metro_com_45.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Combination Proposal/Metro_30mins/metro_com_45.csv,EMP_2016,numeric,500,637053.0488; 762895.1684; 925129.8635
+data/results_and_gis/Combination Proposal/Metro_30mins/metro_com_45.csv,EMP_2016,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/Combination Proposal/Metro_30mins/metro_com_45.csv,unnamed_4,numeric,500,-4.534E-05; 8351.129467; 12937.23459
+data/results_and_gis/Combination Proposal/Metro_30mins/metro_com_45.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Combination Proposal/Metro_30mins/metro_com_45.csv,unnamed_6,numeric,500,1.42855E-05; 1.71074E-05; 2.07455E-05
+data/results_and_gis/Combination Proposal/Metro_30mins/metro_com_45.csv,unnamed_7,integer,1,"183,170"
+data/results_and_gis/Combination Proposal/Metro_30mins/metro_com_60.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Combination Proposal/Metro_30mins/metro_com_60.csv,EMP_2016,numeric,500,1117857.897; 1204096.956; 1345472.719
+data/results_and_gis/Combination Proposal/Metro_30mins/metro_com_60.csv,EMP_2016,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/Combination Proposal/Metro_30mins/metro_com_60.csv,unnamed_4,numeric,500,17926.73334; 15347.2787; 8875.2476
+data/results_and_gis/Combination Proposal/Metro_30mins/metro_com_60.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Combination Proposal/Metro_30mins/metro_com_60.csv,unnamed_6,numeric,500,2.50673E-05; 2.70011E-05; 3.01714E-05
+data/results_and_gis/Combination Proposal/Metro_30mins/metro_com_60.csv,unnamed_7,integer,1,"449,185"
+data/results_and_gis/Combination Proposal/V2/Combination v2 LVA v2.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Combination Proposal/V2/Combination v2 LVA v2.csv,Base 30 Mins,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Combination Proposal/V2/Combination v2 LVA v2.csv,30 Mins,numeric,500,1.68E-05; -4.51E-05; 2.90E-05
+data/results_and_gis/Combination Proposal/V2/Combination v2 LVA v2.csv,Base 45 Mins,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/Combination Proposal/V2/Combination v2 LVA v2.csv,45 Mins,numeric,500,8.31E+02; 7.03E+03; 8.82E+03
+data/results_and_gis/Combination Proposal/V2/Combination v2 LVA v2.csv,Base 60 Mins,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/Combination Proposal/V2/Combination v2 LVA v2.csv,60 Mins,numeric,500,9463.563937; 8360.527301; 1487.945985
+data/results_and_gis/Combination Proposal/V2/Combination v2 LVA v2.csv,TZ16_CODE,integer,500,1; 2; 3
+data/results_and_gis/Combination Proposal/V2/Combination v2 LVA v2.csv,unnamed_9,text,500,YES; YES; YES
+data/results_and_gis/Combination Proposal/V2/Combination v2 LVA v2.csv,TZ16_NAME,text,500,Barangaroo_Headland Park; Barangaroo_Northern Cove; Barangaroo_Southern Cove
+data/results_and_gis/Combination Proposal/V2/Combination v2 LVA v2.csv,Tz16_Area,numeric,500,64884.12626; 74488.64591; 30794.77399
+data/results_and_gis/Combination Proposal/V2/Mills v2 30 Mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Combination Proposal/V2/Mills v2 30 Mins.csv,EMP_2016,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Combination Proposal/V2/Mills v2 30 Mins.csv,EMP_2016,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Combination Proposal/V2/Mills v2 30 Mins.csv,unnamed_4,numeric,500,1.68E-05; -4.51E-05; 2.90E-05
+data/results_and_gis/Combination Proposal/V2/Mills v2 30 Mins.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Combination Proposal/V2/Mills v2 30 Mins.csv,unnamed_6,numeric,500,6.83E-06; 8.75E-06; 1.13E-05
+data/results_and_gis/Combination Proposal/V2/Mills v2 30 Mins.csv,unnamed_7,integer,1,"43,336"
+data/results_and_gis/Combination Proposal/V2/Mills v2 45 Mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Combination Proposal/V2/Mills v2 45 Mins.csv,EMP_2016,numeric,500,637883.8823; 761578.2376; 921010.1973
+data/results_and_gis/Combination Proposal/V2/Mills v2 45 Mins.csv,EMP_2016,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/Combination Proposal/V2/Mills v2 45 Mins.csv,unnamed_4,numeric,500,8.31E+02; 7.03E+03; 8.82E+03
+data/results_and_gis/Combination Proposal/V2/Mills v2 45 Mins.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Combination Proposal/V2/Mills v2 45 Mins.csv,unnamed_6,numeric,500,1.43E-05; 1.71E-05; 2.07E-05
+data/results_and_gis/Combination Proposal/V2/Mills v2 45 Mins.csv,unnamed_7,integer,1,"182,522"
+data/results_and_gis/Combination Proposal/V2/Mills v2 60 Mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Combination Proposal/V2/Mills v2 60 Mins.csv,EMP_2016,numeric,500,1109394.728; 1197110.204; 1338085.417
+data/results_and_gis/Combination Proposal/V2/Mills v2 60 Mins.csv,EMP_2016,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/Combination Proposal/V2/Mills v2 60 Mins.csv,unnamed_4,numeric,500,9463.563937; 8360.527301; 1487.945985
+data/results_and_gis/Combination Proposal/V2/Mills v2 60 Mins.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Combination Proposal/V2/Mills v2 60 Mins.csv,unnamed_6,numeric,500,2.49E-05; 2.68E-05; 3.00E-05
+data/results_and_gis/Combination Proposal/V2/Mills v2 60 Mins.csv,unnamed_7,integer,1,"449,841"
+data/results_and_gis/Combination Proposal/V2/TravelZone_Uplift.csv,TZ16_CODE,integer,500,3; 4; 5
+data/results_and_gis/Combination Proposal/V2/TravelZone_Uplift.csv,30_lin,numeric,500,0.1198743855725; 0.00028997345; 0.060446568
+data/results_and_gis/Combination Proposal/V2/TravelZone_Uplift.csv,45_lin,numeric,500,12227568.891426; 824800.82; 7463081.76
+data/results_and_gis/Combination Proposal/V2/TravelZone_Uplift.csv,60_lin,numeric,500,965166.8060014971; 14994.583313916779; 135676.20435037633
+data/results_and_gis/Combination Proposal/V2/TravelZone_Uplift.csv,30_log,numeric,500,0.01045061587155441; 1.8658407936535812e-05; 0.00502488709714385
+data/results_and_gis/Combination Proposal/V2/TravelZone_Uplift.csv,45_log,numeric,500,1914522.6081892294; 95047.64194531014; 1112070.1046182031
+data/results_and_gis/Combination Proposal/V2/TravelZone_Uplift.csv,60_log,numeric,500,217658.17203070893; 2546.1720846276467; 29543.46637522908
+data/results_and_gis/Combination Proposal/V2/TravelZone_Uplift.csv,Average_Price,numeric,500,4397578.587529999; 279931.8011560776; 2532919.3323620344
+data/results_and_gis/Lightrail/Extensive/Extensive 30 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Lightrail/Extensive/Extensive 30 mins.csv,EMP_2016,numeric,500,304694.0583; 398900.2576; 527262.5365
+data/results_and_gis/Lightrail/Extensive/Extensive 30 mins.csv,EMP_2016,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Lightrail/Extensive/Extensive 30 mins.csv,unnamed_4,numeric,500,1.68E-05; 8.85E+03; 2.14E+04
+data/results_and_gis/Lightrail/Extensive/Extensive 30 mins.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Lightrail/Extensive/Extensive 30 mins.csv,unnamed_6,numeric,500,6.83E-06; 8.95E-06; 1.18E-05
+data/results_and_gis/Lightrail/Extensive/Extensive 30 mins.csv,unnamed_7,integer,1,"46,955"
+data/results_and_gis/Lightrail/Extensive/Extensive 45 Mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Lightrail/Extensive/Extensive 45 Mins.csv,EMP_2016,numeric,500,641884.5331; 763867.6461; 920116.2396
+data/results_and_gis/Lightrail/Extensive/Extensive 45 Mins.csv,EMP_2016,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/Lightrail/Extensive/Extensive 45 Mins.csv,unnamed_4,numeric,500,4831.484305; 9323.607245; 7923.610733
+data/results_and_gis/Lightrail/Extensive/Extensive 45 Mins.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Lightrail/Extensive/Extensive 45 Mins.csv,unnamed_6,numeric,500,1.44E-05; 1.71E-05; 2.06E-05
+data/results_and_gis/Lightrail/Extensive/Extensive 45 Mins.csv,unnamed_7,integer,1,"183,765"
+data/results_and_gis/Lightrail/Extensive/Extensive 60 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Lightrail/Extensive/Extensive 60 mins.csv,EMP_2016,numeric,500,1102908.879; 1193560.179; 1342500.089
+data/results_and_gis/Lightrail/Extensive/Extensive 60 mins.csv,EMP_2016,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/Lightrail/Extensive/Extensive 60 mins.csv,unnamed_4,numeric,500,2977.715091; 4810.501799; 5902.618325
+data/results_and_gis/Lightrail/Extensive/Extensive 60 mins.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Lightrail/Extensive/Extensive 60 mins.csv,unnamed_6,numeric,500,2.47E-05; 2.68E-05; 3.01E-05
+data/results_and_gis/Lightrail/Extensive/Extensive 60 mins.csv,unnamed_7,integer,1,"449,460"
+data/results_and_gis/Lightrail/Extensive/Extensive LVA v2.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Lightrail/Extensive/Extensive LVA v2.csv,Base 30 Mins,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Lightrail/Extensive/Extensive LVA v2.csv,30 Mins,numeric,500,1.68E-05; 8.85E+03; 2.14E+04
+data/results_and_gis/Lightrail/Extensive/Extensive LVA v2.csv,Base 45 Mins,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/Lightrail/Extensive/Extensive LVA v2.csv,45 Mins,numeric,500,4831.484305; 9323.607245; 7923.610733
+data/results_and_gis/Lightrail/Extensive/Extensive LVA v2.csv,Base 60 Mins,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/Lightrail/Extensive/Extensive LVA v2.csv,60 Mins,numeric,500,2977.715091; 4810.501799; 5902.618325
+data/results_and_gis/Lightrail/Extensive/Extensive LVA v2.csv,TZ16_CODE,integer,500,1; 2; 3
+data/results_and_gis/Lightrail/Extensive/Extensive LVA v2.csv,unnamed_9,text,500,YES; YES; YES
+data/results_and_gis/Lightrail/Extensive/Extensive LVA v2.csv,TZ16_NAME,text,500,Barangaroo_Headland Park; Barangaroo_Northern Cove; Barangaroo_Southern Cove
+data/results_and_gis/Lightrail/Extensive/Extensive LVA v2.csv,Tz16_Area,numeric,500,64884.12626; 74488.64591; 30794.77399
+data/results_and_gis/Lightrail/Extensive/TravelZone_Uplift.csv,TZ16_CODE,integer,500,3; 4; 5
+data/results_and_gis/Lightrail/Extensive/TravelZone_Uplift.csv,30_lin,numeric,500,88459029.35350001; 2771265.25; 44006430.0
+data/results_and_gis/Lightrail/Extensive/TravelZone_Uplift.csv,45_lin,numeric,500,10984863.504149657; 1207358.609880335; 12911807.226853369
+data/results_and_gis/Lightrail/Extensive/TravelZone_Uplift.csv,60_lin,numeric,500,3828775.5961693437; 137559.1191191829; 3612011.470743096
+data/results_and_gis/Lightrail/Extensive/TravelZone_Uplift.csv,30_log,numeric,500,7711833.781078082; 178317.6961023359; 3658228.2437997805
+data/results_and_gis/Lightrail/Extensive/TravelZone_Uplift.csv,45_log,numeric,500,1719946.9259432352; 139132.48637591494; 1923981.9789374645
+data/results_and_gis/Lightrail/Extensive/TravelZone_Uplift.csv,60_log,numeric,500,863440.6945991828; 23358.380940279894; 786514.7757027773
+data/results_and_gis/Lightrail/Extensive/TravelZone_Uplift.csv,Average_Price,numeric,500,20966356.88920268; 939903.0673502284; 13452049.273165451
+data/results_and_gis/Lightrail/Light rail extension_v2 60 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Lightrail/Light rail extension_v2 60 mins.csv,EMP_2016,numeric,500,1102908.879; 1188982.001; 1337532.575
+data/results_and_gis/Lightrail/Light rail extension_v2 60 mins.csv,EMP_2016,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/Lightrail/Light rail extension_v2 60 mins.csv,unnamed_4,numeric,500,2977.715; 232.324; 935.104
+data/results_and_gis/Lightrail/Light rail extension_v2 60 mins.csv,ERP_2016,numeric,500,1.03E-04; 1.03E-04; 1.03E-04
+data/results_and_gis/Lightrail/Light rail extension_v2 60 mins.csv,unnamed_6,numeric,500,2.4732E-05; 2.66622E-05; 2.99933E-05
+data/results_and_gis/Lightrail/Light rail extension_v2 60 mins.csv,unnamed_7,integer,1,"442,053"
+data/results_and_gis/Lightrail/Light rail extensionv2 30 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Lightrail/Light rail extensionv2 30 mins.csv,EMP_2016,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Lightrail/Light rail extensionv2 30 mins.csv,Base,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Lightrail/Light rail extensionv2 30 mins.csv,unnamed_4,numeric,500,0; 0; 0
+data/results_and_gis/Lightrail/Light rail extensionv2 30 mins.csv,ERP_2016,numeric,500,1.03E-04; 1.03E-04; 1.03E-04
+data/results_and_gis/Lightrail/Light rail extensionv2 30 mins.csv,unnamed_6,numeric,500,6.83257E-06; 8.74655E-06; 1.13429E-05
+data/results_and_gis/Lightrail/Light rail extensionv2 30 mins.csv,unnamed_7,integer,1,"42,253"
+data/results_and_gis/Lightrail/LightRail Extension LVA v2.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Lightrail/LightRail Extension LVA v2.csv,Base 30 Mins,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Lightrail/LightRail Extension LVA v2.csv,30 Mins,numeric,500,0; 0; 0
+data/results_and_gis/Lightrail/LightRail Extension LVA v2.csv,Base 45 Mins,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/Lightrail/LightRail Extension LVA v2.csv,45 Mins,numeric,500,0; 0; 0
+data/results_and_gis/Lightrail/LightRail Extension LVA v2.csv,Base 60 Mins,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/Lightrail/LightRail Extension LVA v2.csv,60 Mins,numeric,500,2977.715; 232.324; 935.104
+data/results_and_gis/Lightrail/LightRail Extension LVA v2.csv,TZ16_CODE,integer,500,1; 2; 3
+data/results_and_gis/Lightrail/LightRail Extension LVA v2.csv,unnamed_9,text,500,YES; YES; YES
+data/results_and_gis/Lightrail/LightRail Extension LVA v2.csv,TZ16_NAME,text,500,Barangaroo_Headland Park; Barangaroo_Northern Cove; Barangaroo_Southern Cove
+data/results_and_gis/Lightrail/LightRail Extension LVA v2.csv,Tz16_Area,numeric,500,64884.12626; 74488.64591; 30794.77399
+data/results_and_gis/Lightrail/Oxford Street/Oxford Street 30 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Lightrail/Oxford Street/Oxford Street 30 mins.csv,EMP_2016,numeric,500,304694.0583; 390046.5602; 509438.8201
+data/results_and_gis/Lightrail/Oxford Street/Oxford Street 30 mins.csv,L2&L3,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Lightrail/Oxford Street/Oxford Street 30 mins.csv,Marginal,numeric,500,1.68E-05; -4.51E-05; 3611.975881
+data/results_and_gis/Lightrail/Oxford Street/Oxford Street 30 mins.csv,Base,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Lightrail/Oxford Street/Oxford Street 30 mins.csv,Net to Base,numeric,500,1.68E-05; -4.51E-05; 3611.975881
+data/results_and_gis/Lightrail/Oxford Street/Oxford Street 30 mins.csv,ERP,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Lightrail/Oxford Street/Oxford Street 30 mins.csv,unnamed_8,numeric,500,6.83E-06; 8.75E-06; 1.14E-05
+data/results_and_gis/Lightrail/Oxford Street/Oxford Street 30 mins.csv,unnamed_9,integer,1,"42,459"
+data/results_and_gis/Lightrail/Oxford Street/Oxford Street 45 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Lightrail/Oxford Street/Oxford Street 45 mins.csv,EMP_2016,numeric,500,637963.3506; 758089.2769; 912524.3753
+data/results_and_gis/Lightrail/Oxford Street/Oxford Street 45 mins.csv,T2&T3,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/Lightrail/Oxford Street/Oxford Street 45 mins.csv,Marginal,numeric,500,910.3017817; 3545.237984; 331.7464123
+data/results_and_gis/Lightrail/Oxford Street/Oxford Street 45 mins.csv,Base,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/Lightrail/Oxford Street/Oxford Street 45 mins.csv,Net to Base,numeric,500,910.3017817; 3545.237984; 331.7464123
+data/results_and_gis/Lightrail/Oxford Street/Oxford Street 45 mins.csv,ERP,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Lightrail/Oxford Street/Oxford Street 45 mins.csv,unnamed_8,numeric,500,1.43E-05; 1.70E-05; 2.05E-05
+data/results_and_gis/Lightrail/Oxford Street/Oxford Street 45 mins.csv,unnamed_9,integer,1,"177,020"
+data/results_and_gis/Lightrail/Oxford Street/Oxford Street 60 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Lightrail/Oxford Street/Oxford Street 60 mins.csv,EMP_2016,numeric,500,1102908.879; 1188982.001; 1337532.575
+data/results_and_gis/Lightrail/Oxford Street/Oxford Street 60 mins.csv,T2&T3,numeric,500,1102908.879; 1188982.001; 1337532.575
+data/results_and_gis/Lightrail/Oxford Street/Oxford Street 60 mins.csv,Marginal,numeric,500,9.13E-05; -0.00036819; 9.36E-05
+data/results_and_gis/Lightrail/Oxford Street/Oxford Street 60 mins.csv,unnamed_5,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/Lightrail/Oxford Street/Oxford Street 60 mins.csv,Gains over Base,numeric,500,2977.715091; 232.3236318; 935.1040936
+data/results_and_gis/Lightrail/Oxford Street/Oxford Street 60 mins.csv,ERP,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Lightrail/Oxford Street/Oxford Street 60 mins.csv,unnamed_8,numeric,500,2.47E-05; 2.67E-05; 3.00E-05
+data/results_and_gis/Lightrail/Oxford Street/Oxford Street 60 mins.csv,unnamed_9,integer,1,"442,606"
+data/results_and_gis/Lightrail/Oxford Street/Oxford Street LVA v2.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Lightrail/Oxford Street/Oxford Street LVA v2.csv,Base 30 Mins,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Lightrail/Oxford Street/Oxford Street LVA v2.csv,30 Mins,numeric,500,1.68E-05; -4.51E-05; 3611.975881
+data/results_and_gis/Lightrail/Oxford Street/Oxford Street LVA v2.csv,Base 45 Mins,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/Lightrail/Oxford Street/Oxford Street LVA v2.csv,45 Mins,numeric,500,910.3017817; 3545.237984; 331.7464123
+data/results_and_gis/Lightrail/Oxford Street/Oxford Street LVA v2.csv,Base 60 Mins,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/Lightrail/Oxford Street/Oxford Street LVA v2.csv,60 Mins,numeric,500,2977.715091; 232.3236318; 935.1040936
+data/results_and_gis/Lightrail/Oxford Street/Oxford Street LVA v2.csv,TZ16_CODE,integer,500,1; 2; 3
+data/results_and_gis/Lightrail/Oxford Street/Oxford Street LVA v2.csv,unnamed_9,text,500,YES; YES; YES
+data/results_and_gis/Lightrail/Oxford Street/Oxford Street LVA v2.csv,TZ16_NAME,text,500,Barangaroo_Headland Park; Barangaroo_Northern Cove; Barangaroo_Southern Cove
+data/results_and_gis/Lightrail/Oxford Street/Oxford Street LVA v2.csv,Tz16_Area,numeric,500,64884.12626; 74488.64591; 30794.77399
+data/results_and_gis/Lightrail/Oxford Street/TravelZone_Uplift.csv,TZ16_CODE,integer,500,3; 4; 5
+data/results_and_gis/Lightrail/Oxford Street/TravelZone_Uplift.csv,30_lin,numeric,500,14930461.7047436; 962837.4545316475; 16071078.511548063
+data/results_and_gis/Lightrail/Oxford Street/TravelZone_Uplift.csv,45_lin,numeric,500,459915.20531538135; 494759.5038142832; 3664586.7236363115
+data/results_and_gis/Lightrail/Oxford Street/TravelZone_Uplift.csv,60_lin,numeric,500,606561.9588326904; 34518.378007416904; 286213.13432262006
+data/results_and_gis/Lightrail/Oxford Street/TravelZone_Uplift.csv,30_log,numeric,500,1301633.533436218; 61953.99614422365; 1335979.158483632
+data/results_and_gis/Lightrail/Oxford Street/TravelZone_Uplift.csv,45_log,numeric,500,72010.88509455958; 57014.64284138235; 546058.2467391742
+data/results_and_gis/Lightrail/Oxford Street/TravelZone_Uplift.csv,60_log,numeric,500,136787.92760169244; 5861.4320017507625; 62322.852783917784
+data/results_and_gis/Lightrail/Oxford Street/TravelZone_Uplift.csv,Average_Price,numeric,500,3060841.5944126598; 347224.53571987856; 4218109.564324927
+data/results_and_gis/Lightrail/TravelZone_Uplift.csv,TZ16_CODE,integer,500,3; 4; 5
+data/results_and_gis/Lightrail/TravelZone_Uplift.csv,30_lin,numeric,500,0.0; 0.0; 0.0
+data/results_and_gis/Lightrail/TravelZone_Uplift.csv,45_lin,numeric,500,0.0; 360461.4713186; 0.0
+data/results_and_gis/Lightrail/TravelZone_Uplift.csv,60_lin,numeric,500,606561.8981183808; 34518.370029900005; 286213.1147784
+data/results_and_gis/Lightrail/TravelZone_Uplift.csv,30_log,numeric,500,0.0; 0.0; 0.0
+data/results_and_gis/Lightrail/TravelZone_Uplift.csv,45_log,numeric,500,0.0; 41538.52909720673; 0.0
+data/results_and_gis/Lightrail/TravelZone_Uplift.csv,60_log,numeric,500,136787.9139097943; 5861.430647119532; 62322.848528167786
+data/results_and_gis/Lightrail/TravelZone_Uplift.csv,Average_Price,numeric,500,202187.2993727936; 131659.94711616667; 95404.3715928
+data/results_and_gis/Lightrail/V1/Light rail extension 60 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Lightrail/V1/Light rail extension 60 mins.csv,EMP_2016,numeric,500,1102908.879091282; 1188982.000631812; 1337532.575093592
+data/results_and_gis/Lightrail/V1/Light rail extension 60 mins.csv,unnamed_3,numeric,500,1099931.164306382; 1188749.676568212; 1336597.471175692
+data/results_and_gis/Lightrail/V1/Light rail extension 60 mins.csv,unnamed_4,numeric,500,2977.714785; 232.3240636; 935.1039179
+data/results_and_gis/Lightrail/V1/light rail extension 30 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Lightrail/V1/light rail extension 30 mins.csv,EMP_2016,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Lightrail/V1/light rail extension 30 mins.csv,unnamed_3,numeric,500,304694.0583; 390046.5602; 505826.8442
+data/results_and_gis/Lightrail/V1/light rail extension 30 mins.csv,unnamed_4,numeric,500,1.676E-05; -4.506E-05; 2.898E-05
+data/results_and_gis/Lightrail/V1/light rail extension 45 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Lightrail/V1/light rail extension 45 mins.csv,EMP_2016,numeric,500,637053.0487546601; 754544.0389; 912192.6289
+data/results_and_gis/Lightrail/V1/light rail extension 45 mins.csv,unnamed_3,numeric,500,637053.0487546601; 754544.0389; 912192.6289
+data/results_and_gis/Lightrail/V1/light rail extension 45 mins.csv,unnamed_4,numeric,500,0; -4.83401E-05; 2.0722E-05
+data/results_and_gis/Lightrail/light rail extension_v2 45 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/Lightrail/light rail extension_v2 45 mins.csv,EMP_2016,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/Lightrail/light rail extension_v2 45 mins.csv,EMP_2016,numeric,500,637053.0488; 754544.0389; 912192.6289
+data/results_and_gis/Lightrail/light rail extension_v2 45 mins.csv,unnamed_4,numeric,500,0; 0; 0
+data/results_and_gis/Lightrail/light rail extension_v2 45 mins.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/Lightrail/light rail extension_v2 45 mins.csv,unnamed_6,numeric,500,1.42855E-05; 1.69202E-05; 2.04553E-05
+data/results_and_gis/Lightrail/light rail extension_v2 45 mins.csv,unnamed_7,integer,1,"176,295"
+data/results_and_gis/temp 60 mins.csv,num_opportunities,integer,500,1; 2; 3
+data/results_and_gis/temp 60 mins.csv,EMP_2016,numeric,500,1117503.974; 1202493.601; 1344852.806
+data/results_and_gis/temp 60 mins.csv,EMP_2016,numeric,500,1099931.164; 1188749.677; 1336597.471
+data/results_and_gis/temp 60 mins.csv,unnamed_4,numeric,500,17572.80984; 13743.92387; 8255.335397
+data/results_and_gis/temp 60 mins.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299
+data/results_and_gis/temp 60 mins.csv,unnamed_6,numeric,500,7.18112E-05; 7.72727E-05; 8.64208E-05
+data/results_and_gis/temp 60 mins.csv,unnamed_7,integer,1,"1,280,951"
+data/source_inputs/travel_zone_population_jobs/filtered_merge_travel_zones_population_jobs.csv,TZ16_CODE,integer,500,1; 2; 3
+data/source_inputs/travel_zone_population_jobs/filtered_merge_travel_zones_population_jobs.csv,TZ16_NAME,text,500,Barangaroo_Headland Park; Barangaroo_Northern Cove; Barangaroo_Southern Cove
+data/source_inputs/travel_zone_population_jobs/filtered_merge_travel_zones_population_jobs.csv,Tz16_Area,numeric,500,64884.1262627; 74488.645912; 30794.7739938
+data/source_inputs/travel_zone_population_jobs/filtered_merge_travel_zones_population_jobs.csv,geometry,wkt_geometry,500,"POLYGON ((9688462.9018 4425001.3836, 9688444.9045 4424996.361199999, 9688433.913999997 4424987.709799999, 9688424.3393 4424986.5418, 9688420.4172 4424988.0294, 9688417.873599999 4424991.459799999, 9688410.315800004 4424976.1248, 9688409.291900001 4424975.944399999, 9688404.426200002 4424979.2468, 96"
+data/source_inputs/travel_zone_population_jobs/filtered_merge_travel_zones_population_jobs.csv,SA2_Name16,text,500,Sydney - Haymarket - The Rocks; Sydney - Haymarket - The Rocks; Sydney - Haymarket - The Rocks
+data/source_inputs/travel_zone_population_jobs/filtered_merge_travel_zones_population_jobs.csv,SA3_Name16,text,500,Sydney Inner City; Sydney Inner City; Sydney Inner City
+data/source_inputs/travel_zone_population_jobs/filtered_merge_travel_zones_population_jobs.csv,SA4_Name16,text,500,Sydney - City and Inner South; Sydney - City and Inner South; Sydney - City and Inner South
+data/source_inputs/travel_zone_population_jobs/filtered_merge_travel_zones_population_jobs.csv,LGA_Name18,text,500,Sydney (C); Sydney (C); Sydney (C)
+data/source_inputs/travel_zone_population_jobs/filtered_merge_travel_zones_population_jobs.csv,EMP_2016,numeric,500,313.6928667; 360.1263848; 148.8825919
+data/source_inputs/travel_zone_population_jobs/filtered_merge_travel_zones_population_jobs.csv,ERP_2016,numeric,500,0.00010299; 0.00010299; 0.00010299

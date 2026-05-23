@@ -1,0 +1,10 @@
+{
+  "component_group": "e36c6a38bf4b73ef",
+  "component_parts": "data/scenario_gtfs_components/e36c6a38bf4b73ef/stops.txt.gz.part01",
+  "component_gzip_bytes": "4484131",
+  "component_gzip_sha256": "071a1241617447e2053a80ebad896de18a210a78cccff7564c6de4a15f157ece",
+  "representative_no_shapes_zip": "data/scenario_gtfs_no_shapes/alt_metro_coogee_no_shapes.zip",
+  "representative_member_path": "stops.txt",
+  "member_sha256": "e36c6a38bf4b73efd262d48335431acd9172630491b25a2339e6ab26adb45905",
+  "member_bytes": "16143050"
+}

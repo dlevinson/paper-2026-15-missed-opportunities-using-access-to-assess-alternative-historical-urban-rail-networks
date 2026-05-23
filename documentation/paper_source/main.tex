@@ -1,0 +1,1166 @@
+%% 
+%% Copyright 2007-2024 Elsevier Ltd
+%% 
+%% This file is part of the 'Elsarticle Bundle'.
+%% ---------------------------------------------
+%% 
+%% It may be distributed under the conditions of the LaTeX Project Public
+%% License, either version 1.3 of this license or (at your option) any
+%% later version.  The latest version of this license is in
+%%    http://www.latex-project.org/lppl.txt
+%% and version 1.3 or later is part of all distributions of LaTeX
+%% version 1999/12/01 or later.
+%% 
+%% The list of all files belonging to the 'Elsarticle Bundle' is
+%% given in the file `manifest.txt'.
+%% 
+%% Template article for Elsevier's document class `elsarticle'
+%% with harvard style bibliographic references
+
+\documentclass[preprint,12pt,authoryear]{elsarticle}
+
+%% Use the option review to obtain double line spacing
+%% \documentclass[authoryear,preprint,review,12pt]{elsarticle}
+
+%% Use the options 1p,twocolumn; 3p; 3p,twocolumn; 5p; or 5p,twocolumn
+%% for a journal layout:
+%% \documentclass[final,1p,times,authoryear]{elsarticle}
+%% \documentclass[final,1p,times,twocolumn,authoryear]{elsarticle}
+%% \documentclass[final,3p,times,authoryear]{elsarticle}
+%% \documentclass[final,3p,times,twocolumn,authoryear]{elsarticle}
+%% \documentclass[final,5p,times,authoryear]{elsarticle}
+%% \documentclass[final,5p,times,twocolumn,authoryear]{elsarticle}
+
+%% For including figures, graphicx.sty has been loaded in
+%% elsarticle.cls. If you prefer to use the old commands
+%% please give \usepackage{epsfig}
+
+%% The amssymb package provides various useful mathematical symbols
+\usepackage{amssymb}
+%% The amsmath package provides various useful equation environments.
+\usepackage{amsmath}
+%% The amsthm package provides extended theorem environments
+%% \usepackage{amsthm}
+
+%% The lineno packages adds line numbers. Start line numbering with
+%% \begin{linenumbers}, end it with \end{linenumbers}. Or switch it on
+%% for the whole article with \linenumbers.
+%% \usepackage{lineno}
+\usepackage{ltablex}
+\usepackage{array} % required for text wrapping in tables
+\usepackage[hidelinks]{hyperref}
+
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{cleveref}
+\usepackage{csquotes}% Recommended
+
+\usepackage[style=authoryear, backend=biber]{biblatex}
+
+\DeclareSourcemap{
+  \maps[datatype=bibtex]{
+    \map{
+      \step[fieldsource=shortauthor, final]
+      \step[fieldsource=author, final]
+    }
+  }
+}
+
+
+
+
+\addbibresource{bib.bib}% Syntax for version >= 1.2
+
+\usepackage{booktabs}  % For \toprule, \midrule, \bottomrule
+\usepackage{float} 
+\usepackage{xcolor}
+
+%\journal{Transport Policy}
+
+\begin{document}
+
+\begin{frontmatter}
+
+%% Title, authors and addresses
+
+%% use the tnoteref command within \title for footnotes;
+%% use the tnotetext command for theassociated footnote;
+%% use the fnref command within \author or \affiliation for footnotes;
+%% use the fntext command for theassociated footnote;
+%% use the corref command within \author for corresponding author footnotes;
+%% use the cortext command for theassociated footnote;
+%% use the ead command for the email address,
+%% and the form \ead[url] for the home page:
+%% \title{Title\tnoteref{label1}}
+%% \tnotetext[label1]{}
+%% \author{Name\corref{cor1}\fnref{label2}}
+%% \ead{email address}
+%% \ead[url]{home page}
+%% \fntext[label2]{}
+%% \cortext[cor1]{}
+%% \affiliation{organization={},
+%%            addressline={}, 
+%%            city={},
+%%            postcode={}, 
+%%            state={},
+%%            country={}}
+%% \fntext[label3]{}
+
+\title{Missed Opportunities: Using Access to Assess Alternative Historical Urban Rail Networks} %% Article title
+
+%% use optional labels to link authors explicitly to addresses:
+%% \author[label1,label2]{}
+%% \affiliation[label1]{organization={},
+%%             addressline={},
+%%             city={},
+%%             postcode={},
+%%             state={},
+%%             country={}}
+%%
+%% \affiliation[label2]{organization={},
+%%             addressline={},
+%%             city={},
+%%             postcode={},
+%%             state={},
+%%             country={}}
+
+%\author{Stuart Mills} %% Author name
+%\author{David Levinson}
+
+%% Author affiliation
+%\affiliation{organization={University of Sydney}}%,
+            %Department and Organization
+            %addressline={}, 
+            %city={},
+            %postcode={}, 
+            %state={},
+            %country={}}
+
+%% Abstract
+\begin{abstract}
+%% Text of abstract
+{In this paper, we use Sydney as a case study to reassess past and proposed rail lines through an accessibility-based appraisal framework. We estimate changes in job accessibility under alternative network configurations and monetise those changes using land-value uplift implied by previously estimated Sydney hedonic models. We treat this land-value uplift measure as a partial indicator of capitalised accessibility benefits, rather than a full substitute for conventional cost-benefit analysis. We review Bradfield's 1916 heavy-rail proposal, the 1974 Sydney Area Transportation Study (SATS), the 2001 Long Term Strategy for Rail, and Sydney Metro 2056 proposals, and we also examine two revised heavy-rail or metro routes and several light-rail options. Costs are benchmarked from recent Sydney and international projects, and benefit/cost ratios are reported under multiple discount rates. The results identify several historical and revised alignments that perform well under this access-based land-value metric, while also showing the importance of cost assumptions and the interpretation of land-value uplift in policy appraisal.}
+\end{abstract}
+
+
+
+%%Research highlights
+%\begin{highlights}
+%\item Re-evaluates historical Sydney railway proposals through the lens of access.
+%\item Examines the potential for land-value capture to fund railway infrastructure.
+%\item Refines historical proposals to improve the benefit-cost ratio.
+%\end{highlights}
+
+%% Keywords
+%\begin{keyword}
+%% keywords here, in the form: keyword \sep keyword
+%Value-capture \sep Accessibility \sep Land-value uplift \sep Cost-benefit analysis \sep Retrospective re-evaluation
+%% PACS codes here, in the form: \PACS code \sep code
+
+%% MSC codes here, in the form: \MSC code \sep code
+%% or \MSC[2008] code \sep code (2000 is the default)
+
+%\end{keyword}
+
+\end{frontmatter}
+
+%% Add \usepackage{lineno} before \begin{document} and uncomment 
+%% following line to enable line numbers
+%% \linenumbers
+
+%% main text
+%%
+\clearpage
+\maketitle
+%% Abstract
+\begin{abstract}
+%% Text of abstract
+{In this paper, we use Sydney as a case study to reassess past and proposed rail lines through an accessibility-based appraisal framework. We estimate changes in job accessibility under alternative network configurations and monetise those changes using land-value uplift implied by previously estimated Sydney hedonic models. We treat this land-value uplift measure as a partial indicator of capitalised accessibility benefits, rather than a full substitute for conventional cost-benefit analysis. We review Bradfield's 1916 heavy-rail proposal, the 1974 Sydney Area Transportation Study (SATS), the 2001 Long Term Strategy for Rail, and Sydney Metro 2056 proposals, and we also examine two revised heavy-rail or metro routes and several light-rail options. Costs are benchmarked from recent Sydney and international projects, and benefit/cost ratios are reported under multiple discount rates. The results identify several historical and revised alignments that perform well under this access-based land-value metric, while also showing the importance of cost assumptions and the interpretation of land-value uplift in policy appraisal.}
+\end{abstract}
+
+
+%% Use \section commands to start a section
+\section{Introduction}
+\label{sec:introduction}
+
+In the early years of railway construction, most railways were privately financed with the return on investment being sourced from passenger fares, real estate, or through higher profits elsewhere facilitated by the increased efficiency of transporting  goods \parencite{levinson2008density,levinson2016accessibility,xie2010streetcars}.  Even in cases where governments financed rail, such as in Sydney, potential revenues helped justify their construction \parencite{bradfield1916}.  In the latter half of the twentieth century,  investment in railways decreased due to diminishing returns as networks became more complete, as well as due to declining revenues from the rise of cars and buses \parencite{burke2016problems,jones2010mass}. 
+
+{Infrastructure has several potential economic benefits beyond passenger revenue. The most common method to justify an infrastructure project in conventional appraisal is to value productivity gains through reductions in travel time, usually expressed as the Value of Travel Time Savings (VTTS). This is recommended by cost-benefit analysis guides in many nations, including Australia, the United States, and the European Union \parencite{TfNSW2024,FRA2016,EuropeanCommission2014}. In this paper, however, we do not seek to replace conventional cost-benefit analysis with a complete alternative. Instead, we use a narrower accessibility-based framework to compare alternative alignments on a common basis and to examine the component of accessibility improvement that may be capitalised into land values.}
+
+{For this paper, we estimate the benefit of infrastructure proposals through accessibility modelling and subsequent land-value uplift \parencite{iacono2012value}. We interpret this uplift as a partial indicator of capitalised accessibility benefits, one that is especially relevant for questions of value capture and alignment comparison, rather than as a complete measure of total social welfare.}
+
+{To explore this methodology, we examine Sydney's Eastern Suburbs. Over the past century there have been multiple unsuccessful attempts to expand the railway network in this corridor, and there was also a tram network that was removed in 1961. We reassess these historical and contemporary proposals through the lens of accessibility using a consistent contemporary modelling framework. The historical proposals are not reproduced as exact historical artefacts, but are translated into comparable modern alignments that preserve their broad corridor logic while accounting for networks already built, changed development patterns, and obvious operational conflicts.}
+
+% ROADMAP PARAGRAPH
+
+{The remainder of this paper is structured as follows. Section \ref{sec:economicbenefits} reviews the economic rationale for focusing on accessibility and land-value uplift. Section \ref{sec:economiccosts} discusses infrastructure-cost benchmarks. Section \ref{sec:historicalproposals} outlines the historical and contemporary transport proposals analysed in the Sydney case study. Section \ref{sec:methodology} describes the methodology used, including accessibility modelling, network analysis, and economic evaluation. Section \ref{sec:results} presents the results, comparing accessibility gains, land-value uplift, and benefit/cost ratios across proposals. Section \ref{sec:newscenarios} develops refined scenarios. Section \ref{sec:discussion} discusses interpretation, limitations, and implications for transport investment.}
+
+\section{Background}
+\subsection{Review of Economic Benefits}
+\label{sec:economicbenefits}
+
+
+%The most common method to evaluate transport infrastructure projects is  cost-benefit analysis \parencite{TfNSW2024}, which typically includes the benefits of travel time savings, operating cost savings, environmental externalities, wider economic benefit, and land value uplift. The key benefit is the value of travel time savings \parencite{TfNSW2024}. 
+
+
+{As discussed above, a significant portion of an infrastructure project's value is derived from productivity gains from a reduction in travel time. In the case of Australia}, the official value of travel time is \$AU14.99 per hour per person for private light vehicle travel and \$AU48.64 per hour per person for business car travel. This is 40\% and 135\%  of the average weekly wage for private and business travel respectively, based on a study from Austroads in 1997 \parencite{atap2024}. This value for travel time is based on opportunity cost; if 30 minutes is spent travelling, when it could have  been spent working, that represents  30 minutes less production. Differing values for the value of travel time are used in the UK and US due to different assumptions, reflecting the rather arbitrary nature of this method \parencite{itf2019,EuropeanCommission2014,FRA2016}. 
+
+A second option for determining the value of travel time is through surveys, using information such as the purpose of the trip, travel costs, and whether minimising costs or time is preferred. This approach results in significant variability. People with more time and lower incomes prefer to minimise travel cost, while people with less time and higher incomes would prefer to minimise travel time \parencite{itf2019}. Users may have further priorities such as comfort, reliability, or may even derive utility from the travel time; this could be due to working while travelling, preferring a scenic route, or making use of active transport \parencite{goodwin2019}.  
+Ascribing a single monetary value from these variables is reductionist as there is no value that is applicable to all people in all circumstances \parencite{Cherlow1981}, but nevertheless may be necessary for application, as it would be regressive policy to build new infrastructure based on people's actual value of time, potentially leading to highways for billionaires.  
+
+{Travel-time-savings based methods remain central to conventional appraisal, but they are not the only way to evaluate transport investments. Accessibility-based land-value models offer a complementary perspective that is grounded in observed land-market outcomes and can be informative for alignment comparison and value-capture questions \parencite{Wang_Levinson_2022}. Given that travel-time savings often represent a large share of reported project benefits \parencite{Douglas2018}, it is useful to compare those conventional methods with alternative access-based indicators rather than rely on a single metric alone.}
+
+For this paper we adopt an accessibility and subsequent land value uplift based analysis.  Gains in accessibility improve land value, since individuals pay a premium to live in areas with greater access \parencite{levinson2020b}. These gains can be captured through taxes and other means to fund the infrastructure or provide other benefits to the economy \parencite{levinson2019}. This is not a new concept for Australia: approximately one third of the funds required to build the Sydney Harbour Bridge were planned to be raised by a 0.2\% betterment levy applied to all north shore properties \parencite{burke2016problems}; in the 1980s, a betterment levy was applied to a Melbourne district to pay for one-quarter of the city rail loop \parencite{burke2016problems}; The Australian Capital Territory (ACT) employs a leasehold land system, where leasehold interest is charged based on the unimproved value of land allowing for improvements in land value to be captured \parencite{Mangioni2016}. 
+
+{The land-value change brought about by improvements in accessibility is treated here as a monetised indicator of capitalised accessibility benefit because part of it may be captured fiscally. {Both governments and businesses have an interest in efficient development, hence understanding where improvements in access result in the highest uplift would be useful.} It is not interpreted as the full social benefit of the transport improvement. Some benefits, including leisure, freight, business-travel, reliability, and broader network effects, may be only partly reflected, or not reflected at all, in nearby land values.}
+
+An access-based approach implicitly captures option value \parencite{Wang_Levinson_2022, MANN2024}, where  the option to reach a destination within a particular time  has value.
+
+%It is difficult to determine the value of time, while it is easier to observe how the market values accessibility. We measure land value and accessibility, and can then observe how land value varies with respect to accessibility. 
+
+
+\subsubsection{Theory of Access}
+
+Accessibility refers to the potential of opportunities for interaction \parencite{Hansen1959,levinson2020b}.  Access is typically operationalised using the Hansen equation as shown below.
+
+\begin{equation} \label{eq:1}
+A_{i} = \sum_{j}O_{i}f(C_{ij})
+\end{equation}
+
+Where:\\
+\(A_{i}\) : Access from location \(i\). \\
+\(O_{j}\) : Number of opportunities available at destination \(j\). \\
+\(C_{ij}\) : Cost of travel from \(i\) to \(j\). \\
+\(f(C_{ij})\) : Impedance function\\
+
+For this paper we employ a cumulative opportunities measure \parencite{levinson2020a} for the impedance function:
+
+\begin{equation} \label{eq:2}
+{f(C_{ij} = 1 \:\text{if}\: C_{ij} \leq t}, \: \text{else}     \: {f(C_{ij}) = 0}
+\end{equation}
+
+{In the above equation \(t\) refers to some time-based travel shed, generally 30, 45, or 60 minutes. This method benefits from ease of understanding and replicability \parencite{levinson2020a}, {as well as alignment with trends in policy initiatives, such as the creation of  '30 minute cities'.} At the same time, cumulative opportunities measures are sensitive to threshold choice, because opportunities just within and just beyond the threshold are treated differently. We therefore interpret the threshold-specific results cautiously and use the three travel sheds together rather than relying on a single cut-off. }With the above equations, we can calculate the accessibility at a particular location. For opportunities, we use the number of jobs as a measure.  
+
+We can compare how different transport proposals improve the accessibility for a population by using person-weighted access as shown in the below equation \parencite{levinson2020a}. 
+
+\begin{equation} \label{eq:3}
+A_{pw} = \frac{\sum\limits_{i=1}^{I}P_{i}A_{i}}{\sum\limits_{i=1}^{I}P_{i}}
+\end{equation}
+
+Where:\\
+\(A_{pw}\) : Average person weighted access for a region. \\
+\(P_{i}\) : Population within location \(i\). \\
+\(A_{i}\) : Number of opportunities accessible at location \(i\). \\
+
+A proposed new infrastructure project aims to increase the number of opportunities that are accessible, in this paper we use the number of jobs as a surrogate measure. Using person-weighted access, we can easily compare which option provides the greatest benefit for an entire region. 
+
+\subsubsection{Hedonic Price Model}\label{sec:Hedonic Price Model}   
+
+
+We model the link between access and land value using a hedonic price model.  The value of an item can be regressed with respect to its components to determine how much each variable contributes to the overall value,  \parencite{GOODMAN1998}. Hedonic methods date back to 1939, where variables such as horsepower, window area, and wheelbase were used to determine the value of a car \parencite{Court1939}. These methods are widely used in real estate analysis. 
+
+For this paper, we adopt the coefficients from \textcite{MANN2024}, which calculated the price of access for the Sydney metropolitan area. \textcite{MANN2024} regressed the land value per \(m^2\) of houses in Sydney with respect to various factors such as bathrooms, bedrooms, average income, as well as accessibility to jobs for 30, 45, and 60 minute travelsheds. This analysis was done for both linear and log-log models. A summary of the various access coefficients from \textcite{MANN2024} is in \ref{HPM} below. 
+
+{These coefficients come from prior Sydney hedonic models and so carry the usual concerns associated with transferability across time and submarkets, omitted variables, endogeneity, and functional-form choice. For that reason, we treat the six model variants as a set of plausible mappings from accessibility to land value, and later report average results for compactness while interpreting them as indicative rather than point-precise.}
+
+
+\begin{table}[H]
+%\renewcommand\thetable{2.2.1}
+\centering
+ 
+\caption{Hedonic Price Model Coefficients}
+\label{HPM}
+
+\begin{tabular}{lcccccc}
+    \toprule 
+    \textbf{Model Type}& \multicolumn{3}{c}{\textbf{Linear }}& \multicolumn{3}{c}{\textbf{Log-Log }}\\
+    \midrule
+
+    \textbf{Travelshed}& 30 Min& 45 Min& 60 Min& 30 Min& 45 Min& 60 Min\\
+ \midrule
+ \textbf{Access Coefficient}& 0.0325& 0.0109& 0.0051& 0.2052& 0.2229& 0.2201\\
+ & & & & & &\\
+     \bottomrule
+\end{tabular}
+\end{table}
+
+
+
+\subsection{Review of Economic Costs}\label{Cost Analysis}
+\label{sec:economiccosts}
+We compare recent infrastructure projects by the New South Wales government to estimate the potential cost of an Eastern Suburbs project. We also use data from international projects. 
+
+
+\begin{table}[H]
+%\renewcommand\thetable{2.2.1}
+\centering
+ 
+\caption{Cost of Recent Railway Projects in Sydney}
+
+\begin{tabular}{p{4.5cm}ccc}
+    \toprule
+
+    \textbf{Recent Rail Projects (Exp. Yr Open)}& Total Cost \$Ab & KM of Track& \$Ab / km\\
+    \midrule
+ Sydney Metro Northwest (2019)& 7.40& 37&0.2\\
+ Sydney Metro City \& Southwest (2024)**& 20.50& 17.1& 1.19\\
+ Western Sydney Airport Metro (2027)& 13.00& 23&0.57\\
+ Sydney Metro West (2032)& 25.32& 24& 1.06\\
+ \midrule
+  CBD \& Southeast Light Rail (2020)& 1.60& 12& 0.26\\
+  Parramatta Light Rail Stage 1 (2024)& 2.88& 12& 0.24\\
+ \bottomrule
+\end{tabular}
+\end{table}
+\textit{*Data for above costs sourced from (\cite{sydneymetro2024}; \cite{sydneymetroSW}; \cite{sydneymetroWSA}; \cite{transportNSW2021LightRail}; \cite{NSWParramattaLightRail2024}; \cite{nswgovernment2024}; \cite{TransitCosts2024}).} \\
+**\textit{for cost of new railway between Chatswood and Sydenham only}\\
+
+\subsubsection{Analysis of Domestic Costs}
+
+The cost of recently constructed or under construction metro railway ranges from \$0.2 billion to \$1.19 billion per kilometre, with an approximate average of \$0.76 billion per kilometre. For Light Rail, the recently constructed projects had lower costs, with an average of \$0.25 billion per kilometre. Without recently constructed heavy rail passenger lines in Sydney to compare, we assume that a new heavy rail line would have similar costs to metro. 
+
+The Northwest and Western Sydney Airport Metro Lines are in relatively undeveloped areas compared to the CBD and Southwest, as well as the Metro West lines. The costs of the latter lines are much higher; we assume new lines in heavily developed areas would have similar costs to the new city metro. When only considering  the cost of Sydney Metro West and Sydney Metro CBD and Southwest, the average cost per km for new metro rail within dense urban areas of Sydney is \$AU 1.13 billion.
+
+The decision to proceed with the Bankstown Line conversion (of the former T3 rail line to an automated metro) would cost the state government an additional \$AU1.1 billion \parencite{osullivan2023}. From a wider range of case studies, railway construction of this kind can reach an upper limit of \$AU80 million per km \parencite{flyvbjerg2008}. This figure has been adjusted for inflation and foreign exchange. When applying this figure to the 13.5 km for the Bankstown conversion, this results in a total cost of \$1.08 billion, which is similar to the actual cost. This figure will be used when estimating for converting tracks to metro standards. 
+
+
+
+\subsubsection{International Cost Comparison}
+
+
+Data were collected by \textcite{TransitCosts2024} for 684 new urban metro lines across 187 cities. We filter this data to include only fully underground lines in  developed nations within Europe, North America, Oceania, and Asia. This is to ensure only metro lines with similar urban geographical constraints and labour costs will be considered. A summary of this information can be seen in \cref{tab:inter_rail_table}.
+
+\begin{table}[H]
+%\renewcommand\thetable{3.2.1}
+\centering
+
+ 
+\caption{Summary Statistics of International Metro Projects (\$AU Millions)}
+
+\begin{tabular}{ccccc}
+    \toprule
+
+     \textbf{Minimum}& \textbf{Quartile One}& \textbf{Median}& \textbf{Quartile Three}& \textbf{Maximum}\\
+    \midrule
+  95.30& 241.38& 367.54& 632.78& 7,676.76\\
+      \bottomrule
+\end{tabular}
+\label{tab:inter_rail_table}
+\end{table}
+
+As can be seen in Table \ref{tab:inter_rail_table}, the construction costs in Sydney are in the upper range of construction costs, indicating that Sydney has unusually high construction costs compared to international standards. 
+
+\subsection{Historical Background of Proposals and Networks to be Analysed} \label{sec:historicalproposals}
+
+\subsubsection{Heavy Rail and Metro Proposals }
+There are four proposals that we consider, with three being historical and since-dismissed, and one being the current government vision for the future of rail:
+
+\begin{itemize}
+    \item Bradfield's Proposal (1916), the original vision for Sydney's railway network, developed by Chief Engineer John Bradfield and is what the current network is based on \parencite{bradfield1916}; 
+    \item The Sydney Area Transportation Study (1974), undertaken during the construction of the Eastern Suburbs Railway to assess the ideal route \parencite{sats1974}; 
+    \item The Long-Term Strategic Plan for Rail (2001), prepared to assess future railway needs and prepared after the construction of the Airport Line was completed and the Bondi Beach line was abandoned \parencite{rail2001}; and 
+    \item Future Transport Strategy 2056 (2018), a vision prepared by TfNSW for the future of the Metro network in Sydney \parencite{transportNSW2018}.   
+\end{itemize}
+
+These are displayed in Figure \ref{fig:maphistoricalrail} below. The historic proposals have been slightly altered to better fit the development changes, subsequence investments, and population centres of modern Sydney compared to when they were originally proposed. For instance, both Bradfield's Proposal and the 2001 Proposal included sections through Moore Park towards Randwick, which has been made redundant by the Eastern Suburbs light rail and so this section has been excluded. The 1974 Proposal included intermediary stations at Frenchmans Road and at the University of NSW. These stations have been removed as they would have been excessively close to other stations and have significant coverage overlap; the modified spacing more closely aligns with the 800 metre walking coverage of railway stations as defined in the Integrated Transport Planning Guidelines \parencite{integratedpt2013}. 
+
+
+\begin{figure}[H]
+%    \renewcommand{\thefigure}{4.1.1}
+    \centering
+    \includegraphics[scale=0.5]{figures/Heavy rail proposals v2.png}
+    \caption{Map of Historical Railway Proposals, with Existing and Under Construction Rail Networks}
+    \label{fig:maphistoricalrail}
+\end{figure} 
+
+
+\subsubsection{Light Rail Extension }
+
+Sydney previously had an extensive tram network, and many streets and rights-of-way were constructed. Some of these could once again be considered for use \textcite{levinson2022}. We consider three scenarios: An extension of L3 Kingsford Line along Anzac Parade to La Perouse an extension from the existing L2 Randwick Line to Coogee Beach; we consider an additional line following the historical route along Oxford Street through to Bondi Beach, terminating at the original tram terminus \parencite{levinson2022}; finally we consider a scenario that is based on the historic 1925 tram network  for the Eastern Suburbs sourced from \textcite{LahoorpoorLevinson2022},  shown in Figure \ref{fig:maphistoricallrt}.
+
+\begin{figure}[H]
+%    \renewcommand{\thefigure}{4.2.1}
+    \centering
+    \includegraphics[scale=0.5]{figures/New Light rail figure.png}
+    \caption{Selected Historical Tram Routes Tested as Modern Light Rail. }
+        \label{fig:maphistoricallrt}
+\end{figure}
+
+
+Base maps for the above figures and all others produced in this paper, as well as for the GTFS networks, are sourced from  \textcite{OpenStreetMap}. 
+
+\section{Methodology}
+\label{sec:methodology}
+\subsection{Modelling Accessibility} \label{method accessibility}
+
+The first step is to create a base case. The base case will be analysed using the Python version of R5 (R5Py), a route finding analysis program developed by Conveyal that uses a map extract from OpenStreetMap (OSM) and public transport information coded in General Transit Feed Specification (GTFS) format to construct a transport network that can be used for analysis \parencite{fink_2022_7060438}. The OSM data is used by the program for pathfinding between stations and route options, while the GTFS data provides the times and headways, which can be used to calculate travel times. We use GTFS data sourced from TfNSW, for the morning peak period (8-9 am) on a typical weekday in August 2024; this being the most recent dataset at the time of modelling. The data was edited to include Sydney Metro West and other currently under construction routes, thereby creating a 2032 base case.
+
+Travel zones, small geographies for transport modelling defined by Transport for New South Wales (TfNSW) \parencite{TfNSW_Travel_Zones_2016} are used to create a polygonal grid of Sydney.  There are 4,236 travel zones of varying sizes with an average population of approximately 2000 persons per travel zone and approximately 1000 jobs per zone on average.
+
+With this grid and the GTFS data, a travel time matrix can be created to calculate the time required to travel from each origin to every destination. Commuters depart at fixed times and travel to each destination via the fastest option. R5py repeats these calculations within a set time frame and averages the results to determine travel times. We use a 60-minute time window. 
+
+TfNSW also assigns employment and population data to each travel zone, which is used to calculate job accessibility and person-weighted average accessibility. Values for the 30-, 45-, and 60-minute accessibility areas can then be mapped in QGIS to visualize job accessibility in Sydney using isochrones. This method follows the guidance of the \textit{Transport Access Manual} \parencite{levinson2020a}. {The purpose of this modelling exercise is comparative. It provides a consistent accessibility measure across historical and contemporary alignments, but it is not intended to reproduce a full conventional cost-benefit analysis with all transport, environmental, safety, and wider-economic components.}
+
+
+
+\subsection{Analysing Proposed Networks}
+
+To analyse each network option with R5Py, we must edit the base network GTFS dataset to include the networks identified above.  For extending the T4 Line, we edit the existing trips and add new stations to the end of these trips. This means the existing frequency will remain. For new metro routes, we assume a frequency of every four minutes, as per recent metro projects. New light rail lines will have a frequency of approximately every eight minutes, as per the current frequency for the L2 and L3 lines.  The walking catchment for a railway station is 800 metres as per TfNSW guidelines and so we use an average spacing of approximately 1.6 km as the maximum spacing between stations, although there are exceptions. Light rail stops are spaced 500-800 metres apart. All new heavy rail and metro construction is assumed to be underground; all light rail is assumed to be at-grade.  
+
+\subsection{Assessing Economics of Proposed Network}
+
+With the access modelled, we can apply these gains to the coefficients discussed in Section \ref{sec:Hedonic Price Model}.  We use the following equations \parencite{MANN2024}. 
+
+
+\begin{equation} \label{eq:4}
+U_{i} = C_{l}L_{i}\Delta A_{i}
+\end{equation}
+
+Where:\\
+\(U_{i}\) : Land value uplift at location \(i\). \\
+\(C_{l}\) : Linear HPM access coefficient. \\
+\(L_{i}\) : Sum of land area at location \(i\). \\
+\(\Delta\) \(A_{i}\) : Change in access at location i\\
+
+\begin{equation} \label{eq:5}
+U_{i} = V_{i}C_{e}\frac{\Delta A_{i}}{A_{i}}
+\end{equation}
+Where:\\
+\(V_{i}\) : Sum of land value at location i. \\
+\(C_{e}\) : Elastic HPM access coefficient. \\
+\(\Delta\) \(A_{i}\) : Change in access at location i.\\
+\(A_{ i}\): Base access at location \(i\).
+
+We take land value information for all Sydney properties, approximately 1.3 million, from \textcite{NSWValuer2023} and join it to a separate spatial dataset for Sydney properties. These two datasets can be joined via property ID. We then spatially join this property information to the accessibility data based on travel zones. We then use the land value and land area numbers for each property and the change in access values, applying them to the above equations. With this we can sum all the data and calculate total land value uplift. With the costs derived in Section \ref{Cost Analysis}, we can then calculate the benefit/cost ratios (BCRs). {Because the hedonic coefficients are taken from prior Sydney models, and because capitalisation in land markets is not identical to total welfare, these BCRs should be interpreted as access-based land-value ratios, not as full social BCRs. To support replication, we identify the main spatial inputs, GTFS edits, and scenario assumptions used to construct each network alternative.}
+
+\section{Results and Analysis}
+\label{sec:results}
+
+\subsection{Base Case Data}
+
+
+Figure \ref{30min accessibility map}, Figure \ref{45min accessibility map}, and Figure \ref{60 min accessibility map} below show the base case accessibility in the year 2032 following the opening of Sydney Metro West for 30, 45, and 60 minute travelsheds respectively. \Cref{base case PWA} shows the person weighted access for each of these travel sheds.  
+
+\begin{figure}[H]
+%    \renewcommand{\thefigure}{6.1.1}
+    \centering
+    \includegraphics[scale=0.5]{figures/Accessibility Results/Base Case Accessibility/Base Case 30 Mins.png}
+    \caption{30 Minute Job Accessibility - Base Case 2032}\label{30min accessibility map}
+\end{figure}
+
+\begin{figure}[H]
+%    \renewcommand{\thefigure}{6.1.2}
+    \centering
+    \includegraphics[scale=0.5]{figures/Accessibility Results/Base Case Accessibility/Base Case 45 mins.png}
+    \caption{45 Minute Job Accessibility - Base Case 2032}\label{45min accessibility map}
+\end{figure}
+
+\begin{figure}[H]
+%    \renewcommand{\thefigure}{6.1.3}
+    \centering
+    \includegraphics[scale=0.5]{figures/Accessibility Results/Base Case Accessibility/Base Case 60 Mins.png}
+    \caption{60 Minute Job Accessibility - Base Case 2032}\label{60 min accessibility map}
+\end{figure}
+
+\begin{table}[H]
+%\renewcommand\thetable{6.1.1} 
+\centering
+\caption{Accessibility Summary of Base Case}\label{base case PWA}
+\begin{tabular}{lccc}
+    \toprule 
+    & \multicolumn{3}{c}{PWA}\\
+    \midrule
+
+    \textbf{Network} & 30 Min & 45 Min & 60 Min \\
+    \midrule
+    Base & 42,229 & 175,828 & 441,170 \\
+    \bottomrule
+\end{tabular}
+\end{table}
+
+
+\subsection{Accessibility Results}
+We edit the base case GTFS data to model each proposal listed in Section \ref{sec:historicalproposals}. The differences in accessibility between each proposal and the base case are shown in the tables below.
+\begin{table}[H]
+%\renewcommand\thetable{6.2.1}
+\centering
+ 
+\caption{Accessibility Summary of Historical Rail Proposals}\label{heavy rail accessibility}
+
+\begin{tabular}{p{4cm}cccc}
+    \toprule 
+    & \multicolumn{3}{c}{Net Change in PWA}& \\
+
+
+    \textbf{Proposals}& 30 Min& 45 Min& 60 Min &km Track \\
+ & & & & \\
+    \midrule
+ & & &  & \\
+ Bradfield Vaucluse& 354& 2,598&2,952&4.50
+ \\
+ & & & & \\
+ Bradfield Sydenham& 1,239& 5,667& 7,332&10.50
+ \\
+ & & & & \\
+ Bradfield Malabar& 1,059& 6,315& 8,147&11.10
+ \\
+ & & & & \\
+ Bradfield Sydenham \& Malabar& 1,020& 5,188& 7,025&21.60
+ \\
+ & & & & \\
+ -- \textit{Marginal Malabar}& -219& -479&-307&11.10
+ \\
+ & & & & \\
+ Bradfield Full& 709& 5,504& 7,600&43.20
+ \\
+ & & & & \\
+ -- \textit{Marginal Vaucluse}& -311& 316&575&21.60
+ \\
+ & & & & \\
+ 1974 & 497& 2,281& 2,659&4.53
+ \\
+ & & & & \\
+ 2001 & 286& 1,786& 1,975&2.70
+ \\
+ & & & & \\
+ 2056 Stage 1 & 2,526& 6,681& 8,680&15.50
+ \\
+ & & & & \\
+ 2056 Stage 1 \&2 & 2,893& 9,094& 11,961&26.80
+ \\
+ & & & & \\
+ -- \textit{Marginal Stage 2}& 367& 2,413& 3,281&11.30
+ \\
+     \bottomrule
+\end{tabular}
+\end{table}
+\begin{table}[H]
+%\renewcommand\thetable{6.2.2}
+\centering
+ 
+\caption{Accessibility Summary of Light Rail Proposals}\label{lightrail accessibility}
+
+\begin{tabular}{p{4cm}cccc}
+    \toprule 
+    & \multicolumn{3}{c}{Net Change in PWA}& \\
+    \midrule
+
+    \textbf{Proposals}& 30 Min& 45 Min& 60 Min &km Track \\
+    \midrule
+ & & &  & \\
+ Light Rail Extension& 24& 467& 883&10.00
+ \\
+ & & & & \\
+ Lightrail and Oxford Street & 230& 1,192& 1,436&18.80
+ \\
+ & & & & \\
+ -- \textit{Marginal Oxford St}& 205& 725&553&8.80
+ \\
+ & & & & \\
+ 1925 Light Rail& 4,726& 7,937&8,290&67.69
+ \\
+ & & & & \\
+ -- \textit{Marginal 1925 }& 4,496& 6,745&6,853&48.89
+ \\
+      \bottomrule
+\end{tabular}
+\end{table}
+
+
+
+
+
+In Table \ref{lightrail accessibility}, we can see that light rail extensions alone offered little improvements in accessibility. The small gains in accessibility from the extensions of the existing light rail provide are likely the result of following the same route as buses do currently, with marginal difference in speed. This shows that in terms of time-based access to jobs, light rail has little advantage over buses. The more comprehensive 1925 Light Rail proposal does show significant gains in accessibility, but with the requirement of constructing close to 70 km of new railway. The expansion of the light rail network has increasing returns as synergies are created when there is greater coverage.
+
+From Table \ref{heavy rail accessibility}, we can see that each additional leg of Bradfield's Proposal marginally decreased accessibility. This is likely due to the line branching which means the frequency of trains would decrease on the branches. If the delay in waiting for a train becomes too long, some travellers would switch to another form of transport such as buses, thereby negating any potential improvements in accessibility that the extended line could bring had the frequency been greater. Each leg of Bradfield's Proposal had high improvements in PWA per kilometre, but with the full proposal having quite low per kilometre improvement due to the division of frequency with branching.
+
+When considering each leg of Bradfield's Proposal as independent options, all of these had higher improvements in PWA per kilometre compared to the 2056 plan. The 2001 and 1974 Proposals also performed better than the 2056 Plan, with the 2001 Proposal performing the best. 
+
+
+
+\subsection{Land Value Uplift and Benefit/Cost Analysis}
+{We use the gains in access from above to calculate land-value uplift. This is done for both linear and logarithmic models, and for 30, 45, and 60 minute travelsheds using \ref{eq:3} and \ref{eq:4}. For compact presentation, we report the average of the six results (two functional forms by three time thresholds), but this average should be understood as a summary across model variants rather than as a uniquely correct estimate of economic benefit. We use the present value of benefits and costs. We assume all of these proposals will begin construction in 2032, once Sydney Metro West has been completed, and will be finished by 2041. This is when the current proposed plan for a southeastern Metro line is expected to be finished \parencite{SouthEastSydneyTransportStrategy}. We use a government standard of 7\% as the default discount rate, which we vary in later sensitivity analyses \parencite{atap2024}.}
+
+We also compare how the BCRs differ when using domestic costs, compared to an international benchmark cost. For the international benchmark, we adopt the third quartile cost per kilometre. This benchmark only applies to heavy rail and metro projects, and not light rail.
+
+
+\begin{table}[H]
+%\renewcommand\thetable{6.3.1}
+\centering
+ 
+\caption{Benefit/Cost Ratios - Heavy Rail Proposals}\label{bcr heavy}
+
+\begin{tabular}{p{4cm}cccccc}
+    \toprule 
+    & &\multicolumn{2}{c}{\textbf{Domestic}}& \multicolumn{2}{c}{\textbf{International}}&\\
+    \midrule
+
+    \textbf{Proposals}& \textbf{Average LVA }& \textbf{Cost}& \textbf{BCR}& \textbf{Cost }& \textbf{BCR}& \textbf{Rank}\\
+ & \textbf{ (\$AUb)}& \textbf{(\$AUb)}& & \textbf{ (\$AUb)}& &\\
+    \midrule
+ & & & & & & \\
+ Bradfield Vaucluse& 4.792& 2.960& 1.62& 1.655& 2.89
+& 1\\
+ & & 
+& 
+& 
+& 
+
+&
+\\
+ Bradfield Sydenham& 3.549& 6.906& 0.51& 3.862& 0.92
+& 5\\
+ & & 
+& 
+& 
+& 
+
+&
+\\
+ Bradfield Malabar& 5.372& 7.300& 0.74& 4.083& 1.32
+&3\\
+ & & 
+& 
+& 
+& 
+
+&
+\\
+ Bradfield Sydenham & 4.688& 14.206& 0.33& 7.945& 0.59
+&8\\
+ \& Malabar& & 
+& 
+& 
+& 
+
+&
+\\
+-- \textit{Marginal Malabar}& 1.139& 7.300& 0.16& 4.083& 0.28
+&
+\\
+ & & 
+& 
+& 
+& 
+
+&
+\\
+ Bradfield Full& 5.857& 17.165& 0.34& 9.600& 0.61
+&7\\
+ & & 
+& 
+& 
+& 
+
+&
+\\
+-- \textit{Marginal Vaucluse}& 1.169& 2.960& 0.40& 1.655& 
+0.71
+&
+\\
+ & & 
+& 
+& 
+& 
+
+&
+\\
+ 1974 & 1.668& 2.979& 0.56& 1.666& 1.00
+&5\\
+ & & 
+& 
+& 
+& 
+
+&
+
+\\
+ 2001 & 1.816& 1.776& 1.02& 0.993& 1.83
+&2\\
+ & & & & & 
+&
+\\
+ 2056 Stage 1 
+& 7.032& 10.194& 0.69& 5.701& 1.23
+&4\\
+ & & & & & &\\
+ 2056 Stage 1 \&2 
+& 8.940& 17.626& 0.51& 9.858& 0.91
+&6\\
+ & & & & & &\\
+-- \textit{Marginal Stage 2}
+& 1.908& 10.194& 0.26& 4.156& 0.46
+&\\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[H]
+%\renewcommand\thetable{6.3.2}
+\centering
+ 
+\caption{Benefit/Cost Ratio - Light Rail Proposals}\label{light rail bcr}
+
+\begin{tabular}{p{4cm}cccc}
+    \midrule
+
+    \textbf{Proposals}& \textbf{Average LVA}& \textbf{Costs}& \textbf{BCR }& \textbf{Rank}\\
+ & \textbf{ (\$AUb)}& \textbf{ (\$AUb)}& &\\
+    \midrule
+ & & & & \\
+ Light Rail Extension& 0.364& 1.455& 0.25
+&3\\
+ 
+& & & &
+\\
+ Lightrail and Oxford Street & 0.933& 2.735& 0.34
+& 2\\
+ 
+& & & &
+\\
+-- \textit{Marginal Oxford St}& 0.569& 1.280& 0.44
+& \\
+ 
+& & & &
+\\
+ 1925 Light Rail& 10.552& 9.849& 1.07
+& 1\\
+ 
+& & & &
+\\
+-- \textit{Marginal Extensive}& 9.619& 7.114& 1.35
+&\\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+From Table \ref{bcr heavy} and Table \ref{light rail bcr}, we can see how each proposal would affect the land value of the surrounding area and compare it to costs to determine the BCR. These are ranked for each technology using the BCRs with domestic costs.
+
+The proposals that resulted in the highest average land value uplift and BCRs, were the Bradfield Vaucluse leg, 1925 Light Rail, and the 2001 Proposal, which ranked first, second, and third respectively. 
+
+
+It is noteworthy how much higher the BCRs are when using international costs. Even though these are based on the third quartile costs of constructing underground metros in dense urban areas in developed nations, the costs in Sydney are significantly higher. Further research on why this is the case would be useful, as lowering costs would allow more  public transport services to be constructed and operated. 
+
+A project is considered worth building if the BCR ratio is greater than one \parencite{atap2024}. As can be seen in the above tables, there are several proposals that have a BCR ratio of greater than one: Bradfield Vaucluse, the 2001 Proposal and the 1925 Light Rail.  
+
+
+
+
+An unexpected result is that the improvements in accessibility as measured by person weighted access do not fully correlate to land value uplift; some proposals had higher increases in person weighted access, but less land value uplift compared to others. One example is the Bradfield Vaucluse Proposal compared to the Bradfield Sydenham and Malabar proposals, whereby the Vaucluse leg had lower improvement in person weighted access, but the higher land value uplift. This would be explained by elasticity. The proposals improving accessibility for more people would be in higher density areas, which would have higher levels of access already, and so further increases in accessibility have less impact. Areas having a high land value receiving a high percentage increase in access will see an even higher economic value resulting.
+
+%For the linear models, the reason for this difference is less obvious. In theory, the improvements in land value should be directly correlated to the increase in accessibility. This is likely due to comparing the personal impact of accessibility to the land value impact of accessibility. Land value uplift is a function of land area and existing land value, with these values corresponding to individual land parcels and properties.
+
+%Therefore, 
+{Some historical options that were dismissed for having little benefit compared with cost perform more favourably when examined through this access-based land-value metric. This does not imply that they would necessarily dominate under a full social cost-benefit analysis, but it does suggest that some historical proposals may have generated more capitalised accessibility value than earlier appraisal frameworks recognised. These high land values also suggest reconsideration of existing land-use regulations in these areas to enable improved accessibility to be enjoyed by more people.}
+
+\section{New Scenarios}
+\label{sec:newscenarios}
+
+After considering the result of the previous proposals, we  devise new options that we hope will outperform the alternatives discussed above. 
+
+\subsection{Alternative T4 Extension }
+The first set of new scenarios revolve around the T4 line.
+
+First, we consider a new proposal that combines elements of the SATS 1974 and Bradfield's 1916 Proposals.
+The T4 Eastern Suburbs Line will be extended from Bondi Junction through Waverley, Randwick, Maroubra, and terminate in Matraville. This line resembles Bradfield’s Proposal to Malabar as well as the 1974 Proposal to Kingsford, but is aligned so that stations are located with the local activity centres of modern-day Sydney. Matraville is close to the commercial and industrial areas of Hillsdale and Botany. 
+
+Second, we test a version of this proposal assuming the existing T4 Line between Bondi Junction and Central station will be converted to modern metro standards. The line will then be extended along this alignment as a new metro line. As Sydney is embarking on several metro projects, it is likely all major new railways will be built as metros, and over time separable existing lines (like the T4 or T8) automated to have similar performance. As such, it is worth testing if the benefits of extending the T4 Line still outweigh the costs, if it has to be converted to Metro. 
+
+\begin{figure}[H]
+%    \renewcommand{\thefigure}{6.4.1}
+    \centering
+    \includegraphics[scale=0.5]{figures/alternative t4 extension figure.png}
+    \caption{Alternative T4 Extension}
+\end{figure}
+ 
+\subsection{Alternative Sydney Metro 2056 Route }
+
+We also consider a new route for the Sydney Metro 2056 proposal. The current goal behind the 2056 Metro plan is to alleviate any capacity issues with the existing T4 Line. A new railway to the Eastern Suburbs would future-proof against anticipated further growth. 
+
+We propose a more direct route through to the southeast via Randwick. This will provide railway coverage to new areas: along Oxford Street in Darlinghurst and Woollahra; residents within Randwick; as well as capitalising on high density residential and commercial areas within Eastgardens, Hillsdale, and Matraville.
+
+It is currently proposed the new metro goes to Zetland before turning eastward to Randwick. This creates an awkward bend, which would increase travel times, while our alternative proposal provides a more direct route. 
+
+There are additional Light Rail options that we will consider as part of this proposal to add access to beaches.
+
+\begin{figure}[H]
+%    \renewcommand{\thefigure}{6.4.2}
+    \centering
+    \includegraphics[scale=0.5]{figures/Network Maps/Alternative MetroM and C map.png}
+    \caption{Alternative Sydney Metro 2056 Proposal and Light Rail Options}
+\end{figure}
+
+\subsection{Accessibility and BCR Results of Refined Proposals}
+
+\begin{table}[H]
+%\renewcommand\thetable{6.4.1}
+\centering
+ 
+\caption{Accessibility Summary of Refined Proposals}
+
+\begin{tabular}{p{4cm}cccc}
+    \toprule 
+    & \multicolumn{3}{c}{Net Change in PWA}& \\
+    \midrule
+
+    \textbf{Proposals}& 30 Min& 45 Min& 60 Min &km Track \\
+ & & & & \\
+    \midrule
+ & & &  & \\
+ Alt T4 Extension& 1,087& 6,694& 8,671& 8.97 \\
+ & & & & \\
+ Alt T4 Extension & 1,490& 7,342& 8,015&8.97
+ \\
+ \& Metro Conversion& & & & \\
+ Alternative Metro 2056& 3,910& 9,660& 12,405&12.2
+ \\
+ & & & & \\
+ AM + Coogee LR& 3,953& 9,961& 9,679&14.56
+ \\
+ & & & & \\
+-- \textit{Marginal Coogee }& 43& 301& 226&2.36 \\
+ & & & & \\
+ AM + Maroubra LR& 3,957& 10,020& 5,357&16.94
+ \\
+ & & & & \\
+-- \textit{Marginal Maroubra}& 47& 360& 226&4.74 \\
+ & & & & \\
+ AM + Coogee \& Maroubra LR& 4,001& 10,326& 4,777&19.3
+ \\
+ & & & &\\
+-- \textit{Marginal Coogee \& Maroubra}& 91& 666& 51&7.1 \\
+ \bottomrule
+\end{tabular}
+\end{table}
+
+From the above table, we can see that these two new routes offer greater increases in PWA per kilometre than the existing proposals.
+
+\begin{table}[H]
+%\renewcommand\thetable{6.4.2}
+\centering
+ 
+\caption{Benefit/Cost Ratio - New Proposals}\label{bcr new}
+
+\begin{tabular}{p{4cm}cccccc}
+    \toprule 
+    & &\multicolumn{2}{c}{\textbf{Domestic}}& \multicolumn{2}{c}{\textbf{International}}&\\
+    \midrule
+
+    \textbf{Proposals}& \textbf{Average LVA }& \textbf{Cost}& \textbf{BCR}& \textbf{Cost }& \textbf{BCR}& \textbf{Rank}\\
+ & \textbf{ (\$AUb)}& \textbf{(\$AUb)}& \textbf{BCR}& \textbf{(\$AUb)}& &\\
+    \midrule
+ & & & & & & \\
+ Alt T4 Extension& 6.130& 5.899& 1.04& 3.299& 1.86
+&6\\
+ & & & & & &\\
+ Alt T4 Extension & 6.993& 6.217& 1.12& 3.617& 1.93
+& 5
+\\
+ \& Metro Conversion& 
+& 
+& 
+
+& 
+
+& 
+
+
+&
+
+\\
+ Alternative Metro 2056
+& 10.023& 8.024& 1.25& 4.488
+& 
+2.17
+&
+1
+\\
+ & 
+& 
+& 
+& 
+
+& 
+
+
+&
+
+\\
+ AM + Coogee LR
+& 10.219& 
+
+8.367& 
+1.22& 
+4.831& 
+
+2.12
+&
+
+2
+\\
+ & & & & 
+& 
+&
+\\
+-- \textit{Marginal Coogee }
+& 0.195& 
+0.343
+& 0.57& 
+& 
+&
+\\
+ & & 
+& & 
+& 
+&
+\\
+ AM + Maroubra LR
+& 10.545& 
+
+8.713& 1.21& 5.177& 2.04
+&3
+\\
+ & & & & 
+& 
+&
+\\
+-- \textit{Marginal Maroubra}
+& 0.522& 0.690& 0.76
+& 
+& 
+&
+\\
+ & & & & 
+& 
+&
+\\
+ AM + Coogee & 10.742& 9.057& 1.19& 5.521& 1.95
+&4
+\\
+ \& Maroubra LR& & & & 
+& &
+\\
+-- \textit{Marginal Coogee} & 0.719& 1.033& 0.70
+& & &\\
+ \textit{\& Maroubra}& & & & & &\\
+ \bottomrule
+\end{tabular}
+\end{table}
+
+From  tables \ref{bcr heavy} - \ref{bcr new}, it is clear there are potential routes that offer greater BCRs than the original proposed routes.
+
+
+\subsection{Top Performing Proposals}
+
+With the above results considered, we take the top performing proposal for each technology and conduct a sensitivity analysis by altering the discount rate. This discount rate accounts for a range of variables, such as interest rates and future consumption preferences \parencite{TfNSW2024}. Thus, by altering the rate we use to discount future benefits and costs, we can observe how robust a proposal is.
+
+\begin{figure}[H]
+%    \renewcommand{\thefigure}{6.5.1}\label{sensitivity bcr}
+    \centering
+    \includegraphics[scale=0.55]{figures/Appraisal Results/BCR Line Chart v2.png}
+    \caption{Line Graph Summarising the BCRs with Respect to Discount Ratio for Top Performing Proposals}
+\end{figure} 
+
+
+From this, we can see these proposals are resistant to changes in the discount rate, with all proposals having a BCR of greater than one, up to a discount rate of 8\%. 
+
+
+
+\subsection{Robustness Analysis}
+
+\textcolor{red}{To test the robustness of this approach, we look at the consistency of rankings of benefit cost ratios across different cumulative thresholds and functional forms. We undertake this exercise under domestic cost assumptions only. We then use the root mean squared error (RMSE) to determine average variance for each route across the different accessibility thresholds. }
+
+
+
+\begin{table}[H]
+%\renewcommand\thetable{6.3.1}
+\centering
+\footnotesize 
+\caption{Rankings across Accessibility Thresholds - All Proposals}\label{robustness1}
+
+\begin{tabular}{p{3cm}ccc|ccc}
+    \toprule
+
+    & \multicolumn{3}{c}{\textbf{Linear}}& \multicolumn{3}{c}{\textbf{Log}}\\
+ \textbf{Proposals}& \textbf{30 Mins }& \textbf{45 Mins}& \textbf{60 Mins}& \textbf{30 Mins}& \textbf{45 Mins}&\textbf{60 Mins}\\
+    \midrule
+ & & & & & & \\
+ Bradfield Vaucluse& 14& 8& 9& 1& 1& 1\\
+ & & 
+& 
+& 
+& 
+
+&
+\\
+ Bradfield Sydenham& 13& 13& 13& 13& 16& 14\\
+ & & 
+& 
+& 
+& 
+
+&
+\\
+ Bradfield Malabar& 10& 9& 7& 10& 10&9\\
+ & & 
+& 
+& 
+& 
+
+&
+\\
+ Bradfield Sydenham & 15& 15& 17& 15& 18&18\\
+ \& Malabar& & 
+& 
+& 
+& 
+
+&
+\\
+ & & 
+& 
+& 
+& 
+
+&
+\\
+ Bradfield Full& 17& 17& 18& 17& 11&11\\
+ & & 
+& 
+& 
+& 
+
+&
+\\
+ 1974 & 11& 12& 12& 11& 15&13\\
+ & & 
+& 
+& 
+& 
+
+&
+
+\\
+ 2001 & 12& 10& 11& 2& 2&2\\
+ & & & & & 
+&
+\\
+ 2056 Stage 1 
+& 6& 11& 10& 12& 12&12\\
+ & & & & & &\\
+ 2056 Stage 1 \&2 
+& 9& 14& 14& 14& 14&17\\
+ & & & & & &\\
+ Light Rail Extension& 18& 18& 15& 18& 17&15\\
+ & & & & & &\\
+ Light Rail and Oxford Street& 16& 16& 16& 16& 13&16\\
+ & & & & & &\\
+ 1925 Light Rail& 1& 7& 8& 4& 5&5\\
+ & & & & & &\\
+ \bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[H]
+%\renewcommand\thetable{6.3.1}
+\centering
+\footnotesize 
+
+
+\begin{tabular}{p{3cm}ccc|ccc}
+    \toprule
+
+    & \multicolumn{3}{c}{\textbf{Linear}}& \multicolumn{3}{c}{\textbf{Log}}\\
+ \textbf{Proposals}& \textbf{30 Mins }& \textbf{45 Mins}& \textbf{60 Mins}& \textbf{30 Mins}& \textbf{45 Mins}&\textbf{60 Mins}\\
+    \midrule
+ & & & & & & \\
+ Alt T4 Extension& 8& 5& 3& 9& 4&4\\
+ & & & & & &\\
+ Alt T4 Extension \& Metro Conversion& 7& 6& 6& 8& 3&3\\
+ & & & & & &\\
+ Alt Metro 2056& 2& 1& 1& 3& 9&6\\
+ & & & & & &\\
+ AM + Coogee LR& 3& 3& 2& 5& 8&7\\
+ & & & & & &\\
+ AM + Maroubra LR& 4& 2& 4& 6& 7&8\\
+ & & & & & &\\
+ AM + Coogee \& Maroubra LR& 5& 4& 5& 7& 6&10\\
+ & & & & & &\\
+ \midrule
+RMSE & \multicolumn{3}{c}{1.457}& \multicolumn{3}{c}{1.536}\\
+ \bottomrule
+\end{tabular}
+\end{table}
+
+
+\textcolor{red}{As can be seen in Table \ref{robustness1}, the rankings are generally consistent across the different cumulative opportunity thresholds for each model. The RMSE value is approximately 1.5 for each model, meaning that the ranking of each option deviates on average by 1.5 positions between opportunity thresholds. This is relatively low given there is a total of 18 route options. Some variation is expected as the benefits of some routes may not be fully realised under smaller thresholds, and the access thresholds have differing impacts on land values. Despite this, the the rankings are generally stable. A weighted average of different time thresholds can be used to improve robustness.}
+
+
+
+
+
+\section{Discussion and Conclusion}
+\label{sec:discussion}
+
+\subsection{Interpretation of Results}
+
+{In this paper, we explored unbuilt railway proposals and assessed them using accessibility and land-value uplift as a monetised indicator of capitalised accessibility benefit.}
+
+Based on the above results, there were two historical options that yielded a positive return on investment. These were  extension of the T4 Line from Bondi Junction through to Vaucluse from Bradfield's 1916  Proposal, and the 2001 Proposal of extending the T4 line to Bondi Beach. The Sydney Metro 2056 Proposal did not have a positive return on investment. 
+
+
+
+We also proposed two revised options that yielded higher BCRs than the previous proposals that followed similar alignments. An alternative T4 extension to the southeast, and an alternative metro extension from the presently under construction Hunter Street terminus of the Western Sydney Metro to the southeast via Randwick. 
+
+Due to the lower cost, light rail can deliver similar access value per expenditure results to metro, however significant coverage is needed, before it can be considered an alternative. The L2 and L3 extensions, as well as the proposed route along Oxford Street do not provide substantial improvements in access as those areas are presently well served by buses. 
+
+Interestingly, the marginal improvements in accessibility increase with each light rail addition, suggesting that synergies between lines are required before realising benefits. The extensive network provides substantial access, and has a largely positive BCR.
+
+
+
+
+
+\subsection{Implications}
+
+
+{This paper shows how land-value uplift methods can be used to assess infrastructure proposals as a complement to, rather than a replacement for, conventional appraisal. The methodology is attractive because it is based on observable data, such as land values and public-transport GTFS feeds, and because it links accessibility change to a fiscal question of practical policy interest, namely whether part of the gain may be captured through taxation or related instruments. At the same time, land-value uplift should not be interpreted as exhausting the full benefit of transport investment, since some benefits will be imperfectly capitalised or fall outside nearby land markets altogether.}
+
+{Land-value appreciation can in principle be captured directly through taxation or can be used to attract investors, thereby providing revenue streams for government to fund infrastructure. Whether that revenue is realised in practice, however, will depend on institutions, timing, land-use regulation, and housing-supply response.}
+
+This paper also assesses the various previously proposed options for railway infrastructure in the Eastern Suburbs. While many of these proposals have already been dismissed, it is a useful exercise to assess how these proposals compare to contemporary ones. We also show that several of these dismissed options could have provided positive returns.
+
+
+
+As part of this analysis, we also propose two alternative routes for extending the T4 Line and Sydney Metro 2056. These perform among the best of their respective technologies, which raises additional questions about the generation of the currently planned routes. In particular the Sydney Metro 2056 proposal for southeast Sydney performs relatively poorly. While there are other constraints to railway options that this paper does not address in detail, our proposed routes have been chosen to follow the alignment of existing major roads and topography, and should not be more challenging than recently undertaken Metro projects, such as Sydney Metro West, and Sydney Metro Northwest. Both of which require underwater tunnelling as well as tunnelling beneath dense and congested urban areas. 
+
+The Extensive Light Rail Option is an additional option tested that selects elements from the previously existing tram network \parencite{LahoorpoorLevinson2022}. This option also performed well. Had this network been kept and upgraded to modern light rail technologies, this likely would have been the cheapest option. 
+
+\subsection{Limitations and interpretation}
+
+{Several limitations should be kept in mind when interpreting these results. First, the accessibility model uses cumulative opportunities measures at 30, 45, and 60 minutes. These are transparent, replicable, {and relevant to policy,} but are sensitive to threshold choice nor represent continuous decay in the attractiveness of opportunities with travel time. \textcolor{red}{Although, as shown in Table \ref{robustness1}, the rankings of each route were generally stable between threshold choices.} Second, the land-value mapping relies on previously estimated Sydney hedonic models. Those models may be affected by omitted variables, endogeneity, functional-form choice, and differences across time and submarkets. Third, land-value uplift is an outcome in an asset market. It is especially relevant for value capture, but it is not identical to the full welfare effect of a transport improvement. Some benefits, including freight, leisure, business-travel, reliability, and wider network effects, may be only partly capitalised. Fourth, the present analysis does not explicitly model housing-supply response or redevelopment intensity, both of which may affect the magnitude and distribution of any realised uplift.} 
+
+\subsection{Conclusion}
+
+{In this paper, we had two aims: first, to re-evaluate historical and contemporary rail proposals using an accessibility-based land-value framework, and second, to refine selected routes to improve their access-based benefit/cost performance.}
+
+{Our results show that several historical proposals, and several revised options developed here, perform well under this access-based land-value metric. In particular, the Vaucluse section of Bradfield's 1916 proposal, the alternative Metro 2056 route, and the extensive light-rail network perform strongly within their respective technology groups.}
+
+{The broader implication is not that this framework should replace conventional cost-benefit analysis, but that it can complement it. By focusing on accessibility and the component of value capitalised into land markets, it offers a consistent way to compare alignments and to discuss value-capture potential. {Both of which would be useful for maximising land value investment and planning transit-oriented development}. At the same time, the interpretation of land-value uplift requires care, and the present results should be read as a partial appraisal rather than a complete welfare ranking of transport investments.}
+
+
+%\appendix
+
+
+\printbibliography
+
+
+%%\end{thebibliography}
+\end{document}
+
+\endinput
+%%
+%% End of file `elsarticle-template-harv.tex'.
+
+

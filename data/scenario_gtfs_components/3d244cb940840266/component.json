@@ -1,0 +1,10 @@
+{
+  "component_group": "3d244cb940840266",
+  "component_parts": "data/scenario_gtfs_components/3d244cb940840266/agency.txt.gz.part01",
+  "component_gzip_bytes": "4765",
+  "component_gzip_sha256": "bfb82e7c32fd85ab0dc1a6862313977a79afe5fe0faedf639a990fd9f85437d8",
+  "representative_no_shapes_zip": "data/scenario_gtfs_no_shapes/1974_v2_no_shapes.zip",
+  "representative_member_path": "agency.txt",
+  "member_sha256": "3d244cb940840266b1c4a851fe595c33eb6452834a1db9623286ebdb7c68a9d7",
+  "member_bytes": "35910"
+}
