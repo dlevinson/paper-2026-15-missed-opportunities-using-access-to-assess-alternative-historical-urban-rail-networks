@@ -1,5 +1,9 @@
 # Missed Opportunities: Using Access to Assess Alternative Historical Urban Rail Networks
 
+## Contribution
+
+This paper introduces an accessibility-based, land-value appraisal of historical and proposed urban rail networks. Applying the method to a century of Sydney plans identifies overlooked alignments with strong potential benefits, while testing alternative costs and discount rates makes clear both the value and the limits of capitalized accessibility as a complement to conventional cost–benefit analysis.
+
 Mills, S., & Levinson, D. M. (2026). Missed opportunities: Using access to assess alternative historical urban rail networks. Case Studies on Transport Policy, 25, 101851. https://doi.org/10.1016/j.cstp.2026.101851
 
 ## Package Status
@@ -44,7 +48,7 @@ Generated: 2026-05-23 10:59:33 AEST
 
 Generated: 2026-05-23 11:12:11 AEST
 
-- Pipeline: `READY-TO-UPLOAD/PUBLIC`
+- Pipeline: `UPLOADED`
 - Sidecars added/updated: `PACKAGE_STATUS.md`, `PACKAGE_MANIFEST.csv`, `LICENSE_STATUS.md`.
 - Public paper-package repositories include `paper/` PDF reference copies by owner decision; publisher takedown requests can be handled later if they arise.
 - Final GitHub upload should use the manifest include statuses and the license-status note.
