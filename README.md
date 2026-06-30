@@ -10,6 +10,16 @@ Mills, S., & Levinson, D. M. (2026). Missed opportunities: Using access to asses
 
 This is a ready public package. The paper is open access under CC BY-NC 4.0. The staged research materials are thesis-derived analysis code, compact public-source inputs, scenario GTFS edits, and result tables/GIS files for the Sydney historical rail-network accessibility analysis.
 
+## License
+
+The operative root license is `LICENSE.md`. Author-created code and scripts
+are licensed under MIT. Author-created derived data and documentation are
+licensed under CC BY 4.0.
+
+The published paper PDF in `paper/` remains under the article's original
+CC BY-NC 4.0 terms. Public-source inputs and third-party assets retain their
+original terms and are not relicensed here.
+
 ## Contents
 
 - `paper/`: final published reference PDF.

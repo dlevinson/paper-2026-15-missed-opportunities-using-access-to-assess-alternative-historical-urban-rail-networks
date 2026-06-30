@@ -2,12 +2,12 @@
 
 Generated: 2026-05-23 11:12:11 AEST
 
-Recorded license/access note from the verified audit row: Paper CC BY-NC 4.0; repository license still to be selected for authored code/data.
-
-Before public GitHub upload, add an explicit license for author-created code/data or mark the package as citation/provenance-only. Do not license third-party raw data or publisher PDFs.
+The repository now has an operative mixed root license that matches the live
+package boundary and the paper's CC BY-NC 4.0 article terms.
 
 ## Practical Rule
 
-- Author-created code can receive an explicit software license only after finality/provenance is confirmed.
-- Author-created data/derived tables can receive an explicit data/documentation license only after source rights are clear.
-- Third-party raw data and publisher PDFs are not relicensed here.
+- MIT applies to author-created code and scripts.
+- CC BY 4.0 applies to author-created derived data and documentation.
+- The published paper PDF in `paper/` keeps its original CC BY-NC 4.0 terms.
+- Public-source inputs and third-party assets keep their original terms.
